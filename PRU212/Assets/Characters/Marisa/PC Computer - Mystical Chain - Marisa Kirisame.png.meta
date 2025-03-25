@@ -1,0 +1,3796 @@
+fileFormatVersion: 2
+guid: c97042394d109434b8a6a801d787fc9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1978453945837205339
+    second: PC Computer - Mystical Chain - Marisa Kirisame_0
+  - first:
+      213: -8717570780250460064
+    second: PC Computer - Mystical Chain - Marisa Kirisame_1
+  - first:
+      213: -4867735569243327688
+    second: PC Computer - Mystical Chain - Marisa Kirisame_2
+  - first:
+      213: -4167873134789084349
+    second: PC Computer - Mystical Chain - Marisa Kirisame_3
+  - first:
+      213: -6727712760465233191
+    second: PC Computer - Mystical Chain - Marisa Kirisame_4
+  - first:
+      213: -4445450699375030032
+    second: PC Computer - Mystical Chain - Marisa Kirisame_5
+  - first:
+      213: 2572581004418014742
+    second: PC Computer - Mystical Chain - Marisa Kirisame_6
+  - first:
+      213: 1894795397244484204
+    second: PC Computer - Mystical Chain - Marisa Kirisame_7
+  - first:
+      213: -1144623566867579108
+    second: PC Computer - Mystical Chain - Marisa Kirisame_8
+  - first:
+      213: 6715344757913606070
+    second: PC Computer - Mystical Chain - Marisa Kirisame_9
+  - first:
+      213: 776013423107826108
+    second: PC Computer - Mystical Chain - Marisa Kirisame_10
+  - first:
+      213: -5918144843531323441
+    second: PC Computer - Mystical Chain - Marisa Kirisame_11
+  - first:
+      213: -3045198251827615823
+    second: PC Computer - Mystical Chain - Marisa Kirisame_12
+  - first:
+      213: -8607201503086239869
+    second: PC Computer - Mystical Chain - Marisa Kirisame_13
+  - first:
+      213: -248349176933656642
+    second: PC Computer - Mystical Chain - Marisa Kirisame_14
+  - first:
+      213: 7216672244069639232
+    second: PC Computer - Mystical Chain - Marisa Kirisame_15
+  - first:
+      213: 3519673823312406766
+    second: PC Computer - Mystical Chain - Marisa Kirisame_16
+  - first:
+      213: -4481882149908599673
+    second: PC Computer - Mystical Chain - Marisa Kirisame_17
+  - first:
+      213: -4883570292410267701
+    second: PC Computer - Mystical Chain - Marisa Kirisame_18
+  - first:
+      213: 248597787640599968
+    second: PC Computer - Mystical Chain - Marisa Kirisame_19
+  - first:
+      213: -5662465685276114348
+    second: PC Computer - Mystical Chain - Marisa Kirisame_20
+  - first:
+      213: -6994256646075196147
+    second: PC Computer - Mystical Chain - Marisa Kirisame_21
+  - first:
+      213: -6177383047420461616
+    second: PC Computer - Mystical Chain - Marisa Kirisame_22
+  - first:
+      213: -4274677560102124512
+    second: PC Computer - Mystical Chain - Marisa Kirisame_23
+  - first:
+      213: 7333618635632534021
+    second: PC Computer - Mystical Chain - Marisa Kirisame_24
+  - first:
+      213: -7100732376286638131
+    second: PC Computer - Mystical Chain - Marisa Kirisame_25
+  - first:
+      213: 7024751120060285448
+    second: PC Computer - Mystical Chain - Marisa Kirisame_26
+  - first:
+      213: -7013921411893144859
+    second: PC Computer - Mystical Chain - Marisa Kirisame_27
+  - first:
+      213: -8082438738538037419
+    second: PC Computer - Mystical Chain - Marisa Kirisame_28
+  - first:
+      213: 6636560926359013610
+    second: PC Computer - Mystical Chain - Marisa Kirisame_29
+  - first:
+      213: 8072166673926560446
+    second: PC Computer - Mystical Chain - Marisa Kirisame_30
+  - first:
+      213: -7474374408368735252
+    second: PC Computer - Mystical Chain - Marisa Kirisame_31
+  - first:
+      213: 5439081204476929276
+    second: PC Computer - Mystical Chain - Marisa Kirisame_32
+  - first:
+      213: 4566685435808486463
+    second: PC Computer - Mystical Chain - Marisa Kirisame_33
+  - first:
+      213: 7341251459874787282
+    second: PC Computer - Mystical Chain - Marisa Kirisame_34
+  - first:
+      213: -6813185078931991322
+    second: PC Computer - Mystical Chain - Marisa Kirisame_35
+  - first:
+      213: -3705725771764769286
+    second: PC Computer - Mystical Chain - Marisa Kirisame_36
+  - first:
+      213: -4820335796457657897
+    second: PC Computer - Mystical Chain - Marisa Kirisame_37
+  - first:
+      213: -5369660418144602073
+    second: PC Computer - Mystical Chain - Marisa Kirisame_38
+  - first:
+      213: -6270966534821352050
+    second: PC Computer - Mystical Chain - Marisa Kirisame_39
+  - first:
+      213: -6141814849249142680
+    second: PC Computer - Mystical Chain - Marisa Kirisame_40
+  - first:
+      213: 1980354219256630416
+    second: PC Computer - Mystical Chain - Marisa Kirisame_41
+  - first:
+      213: 735130024194987141
+    second: PC Computer - Mystical Chain - Marisa Kirisame_42
+  - first:
+      213: 4150757594152973206
+    second: PC Computer - Mystical Chain - Marisa Kirisame_43
+  - first:
+      213: -2495739574642729316
+    second: PC Computer - Mystical Chain - Marisa Kirisame_44
+  - first:
+      213: 8296392709242080037
+    second: PC Computer - Mystical Chain - Marisa Kirisame_45
+  - first:
+      213: -8989883450144521965
+    second: PC Computer - Mystical Chain - Marisa Kirisame_46
+  - first:
+      213: 6773258962686567167
+    second: PC Computer - Mystical Chain - Marisa Kirisame_47
+  - first:
+      213: 8290919867687858496
+    second: PC Computer - Mystical Chain - Marisa Kirisame_48
+  - first:
+      213: -679075569269892511
+    second: PC Computer - Mystical Chain - Marisa Kirisame_49
+  - first:
+      213: 8019780827083127417
+    second: PC Computer - Mystical Chain - Marisa Kirisame_50
+  - first:
+      213: 8184912417428776190
+    second: PC Computer - Mystical Chain - Marisa Kirisame_51
+  - first:
+      213: 3946612689665531593
+    second: PC Computer - Mystical Chain - Marisa Kirisame_52
+  - first:
+      213: -5382324570094290641
+    second: PC Computer - Mystical Chain - Marisa Kirisame_53
+  - first:
+      213: 2913518483888857765
+    second: PC Computer - Mystical Chain - Marisa Kirisame_54
+  - first:
+      213: -6995276556106483725
+    second: PC Computer - Mystical Chain - Marisa Kirisame_55
+  - first:
+      213: -3698054117581330695
+    second: PC Computer - Mystical Chain - Marisa Kirisame_56
+  - first:
+      213: 92675421403463330
+    second: PC Computer - Mystical Chain - Marisa Kirisame_57
+  - first:
+      213: 5234756416007687925
+    second: PC Computer - Mystical Chain - Marisa Kirisame_58
+  - first:
+      213: 7884625819337260277
+    second: PC Computer - Mystical Chain - Marisa Kirisame_59
+  - first:
+      213: -3986505952217035457
+    second: PC Computer - Mystical Chain - Marisa Kirisame_60
+  - first:
+      213: 6776972209245292729
+    second: PC Computer - Mystical Chain - Marisa Kirisame_61
+  - first:
+      213: 8374549315177188411
+    second: PC Computer - Mystical Chain - Marisa Kirisame_62
+  - first:
+      213: 8534070577878797698
+    second: PC Computer - Mystical Chain - Marisa Kirisame_63
+  - first:
+      213: 5453061773524451927
+    second: PC Computer - Mystical Chain - Marisa Kirisame_64
+  - first:
+      213: -7062637232024840612
+    second: PC Computer - Mystical Chain - Marisa Kirisame_65
+  - first:
+      213: -8926201660654285335
+    second: PC Computer - Mystical Chain - Marisa Kirisame_66
+  - first:
+      213: 3265831912443150785
+    second: PC Computer - Mystical Chain - Marisa Kirisame_67
+  - first:
+      213: 9186284361521379551
+    second: PC Computer - Mystical Chain - Marisa Kirisame_68
+  - first:
+      213: -916885933415183552
+    second: PC Computer - Mystical Chain - Marisa Kirisame_69
+  - first:
+      213: 2496864570854925874
+    second: PC Computer - Mystical Chain - Marisa Kirisame_70
+  - first:
+      213: 7344641844898692225
+    second: PC Computer - Mystical Chain - Marisa Kirisame_71
+  - first:
+      213: -4049943141086602455
+    second: PC Computer - Mystical Chain - Marisa Kirisame_72
+  - first:
+      213: -87447589198229959
+    second: PC Computer - Mystical Chain - Marisa Kirisame_73
+  - first:
+      213: -5242472485010620295
+    second: PC Computer - Mystical Chain - Marisa Kirisame_74
+  - first:
+      213: -101696341089909337
+    second: PC Computer - Mystical Chain - Marisa Kirisame_75
+  - first:
+      213: -6278421510739581839
+    second: PC Computer - Mystical Chain - Marisa Kirisame_76
+  - first:
+      213: 441709451180319972
+    second: PC Computer - Mystical Chain - Marisa Kirisame_77
+  - first:
+      213: 8131875714146850573
+    second: PC Computer - Mystical Chain - Marisa Kirisame_78
+  - first:
+      213: 6566085875918118441
+    second: PC Computer - Mystical Chain - Marisa Kirisame_79
+  - first:
+      213: 1207930626143077816
+    second: PC Computer - Mystical Chain - Marisa Kirisame_80
+  - first:
+      213: 1545358548075532100
+    second: PC Computer - Mystical Chain - Marisa Kirisame_81
+  - first:
+      213: -4138990419779076430
+    second: PC Computer - Mystical Chain - Marisa Kirisame_82
+  - first:
+      213: 2789128935094882950
+    second: PC Computer - Mystical Chain - Marisa Kirisame_83
+  - first:
+      213: 3752533128967953281
+    second: PC Computer - Mystical Chain - Marisa Kirisame_84
+  - first:
+      213: 1065416435035041830
+    second: PC Computer - Mystical Chain - Marisa Kirisame_85
+  - first:
+      213: 1872402147338140413
+    second: PC Computer - Mystical Chain - Marisa Kirisame_86
+  - first:
+      213: 7134658882084796345
+    second: PC Computer - Mystical Chain - Marisa Kirisame_87
+  - first:
+      213: -2359541672551261996
+    second: PC Computer - Mystical Chain - Marisa Kirisame_88
+  - first:
+      213: -8306387663377760550
+    second: PC Computer - Mystical Chain - Marisa Kirisame_89
+  - first:
+      213: 7637538405636796350
+    second: PC Computer - Mystical Chain - Marisa Kirisame_90
+  - first:
+      213: 1659556937632914275
+    second: PC Computer - Mystical Chain - Marisa Kirisame_91
+  - first:
+      213: 390303326543498726
+    second: PC Computer - Mystical Chain - Marisa Kirisame_92
+  - first:
+      213: 5011265705554328141
+    second: PC Computer - Mystical Chain - Marisa Kirisame_93
+  - first:
+      213: 8342478589427065730
+    second: PC Computer - Mystical Chain - Marisa Kirisame_94
+  - first:
+      213: -5733361827424207366
+    second: PC Computer - Mystical Chain - Marisa Kirisame_95
+  - first:
+      213: -2854216407783110340
+    second: PC Computer - Mystical Chain - Marisa Kirisame_96
+  - first:
+      213: -7724714848015907555
+    second: PC Computer - Mystical Chain - Marisa Kirisame_97
+  - first:
+      213: -1554656866496058378
+    second: PC Computer - Mystical Chain - Marisa Kirisame_98
+  - first:
+      213: 7114661838358863563
+    second: PC Computer - Mystical Chain - Marisa Kirisame_99
+  - first:
+      213: -229140291990934413
+    second: PC Computer - Mystical Chain - Marisa Kirisame_100
+  - first:
+      213: 608566513169748985
+    second: PC Computer - Mystical Chain - Marisa Kirisame_101
+  - first:
+      213: -898292749100273522
+    second: PC Computer - Mystical Chain - Marisa Kirisame_102
+  - first:
+      213: -3191044261850766512
+    second: PC Computer - Mystical Chain - Marisa Kirisame_103
+  - first:
+      213: -16171973346684725
+    second: PC Computer - Mystical Chain - Marisa Kirisame_104
+  - first:
+      213: -5005196865587846207
+    second: PC Computer - Mystical Chain - Marisa Kirisame_105
+  - first:
+      213: -383185346974711452
+    second: PC Computer - Mystical Chain - Marisa Kirisame_106
+  - first:
+      213: -1217113251353160752
+    second: PC Computer - Mystical Chain - Marisa Kirisame_107
+  - first:
+      213: -6161301894834882389
+    second: PC Computer - Mystical Chain - Marisa Kirisame_108
+  - first:
+      213: -2850716065455243945
+    second: PC Computer - Mystical Chain - Marisa Kirisame_109
+  - first:
+      213: 8551457124921055869
+    second: PC Computer - Mystical Chain - Marisa Kirisame_110
+  - first:
+      213: -4167035445841727001
+    second: PC Computer - Mystical Chain - Marisa Kirisame_111
+  - first:
+      213: 1572391293660340019
+    second: PC Computer - Mystical Chain - Marisa Kirisame_112
+  - first:
+      213: 9180064811829058971
+    second: PC Computer - Mystical Chain - Marisa Kirisame_113
+  - first:
+      213: 5351825881436689108
+    second: PC Computer - Mystical Chain - Marisa Kirisame_114
+  - first:
+      213: -2922463533968895046
+    second: PC Computer - Mystical Chain - Marisa Kirisame_115
+  - first:
+      213: -3954314900614935375
+    second: PC Computer - Mystical Chain - Marisa Kirisame_116
+  - first:
+      213: 2180354720206380701
+    second: PC Computer - Mystical Chain - Marisa Kirisame_117
+  - first:
+      213: 7984336931288057924
+    second: PC Computer - Mystical Chain - Marisa Kirisame_118
+  - first:
+      213: 1472189429490053414
+    second: PC Computer - Mystical Chain - Marisa Kirisame_119
+  - first:
+      213: 2669301391386739464
+    second: PC Computer - Mystical Chain - Marisa Kirisame_120
+  - first:
+      213: -2944306878595095294
+    second: PC Computer - Mystical Chain - Marisa Kirisame_121
+  - first:
+      213: 362364062390487355
+    second: PC Computer - Mystical Chain - Marisa Kirisame_122
+  - first:
+      213: -4306536351801251139
+    second: PC Computer - Mystical Chain - Marisa Kirisame_123
+  - first:
+      213: 4847531753825326021
+    second: PC Computer - Mystical Chain - Marisa Kirisame_124
+  - first:
+      213: 2581984506370124358
+    second: PC Computer - Mystical Chain - Marisa Kirisame_125
+  - first:
+      213: 4899586622060434411
+    second: PC Computer - Mystical Chain - Marisa Kirisame_126
+  - first:
+      213: -5392381208050045837
+    second: PC Computer - Mystical Chain - Marisa Kirisame_127
+  - first:
+      213: 4175837548237396554
+    second: PC Computer - Mystical Chain - Marisa Kirisame_128
+  - first:
+      213: -5747432136581534050
+    second: PC Computer - Mystical Chain - Marisa Kirisame_129
+  - first:
+      213: -961274060503611713
+    second: PC Computer - Mystical Chain - Marisa Kirisame_130
+  - first:
+      213: 2748076905544639525
+    second: PC Computer - Mystical Chain - Marisa Kirisame_131
+  - first:
+      213: -2975960244610865799
+    second: PC Computer - Mystical Chain - Marisa Kirisame_132
+  - first:
+      213: 8132963030782524583
+    second: PC Computer - Mystical Chain - Marisa Kirisame_133
+  - first:
+      213: 1844978773538627711
+    second: PC Computer - Mystical Chain - Marisa Kirisame_134
+  - first:
+      213: 740081147624972481
+    second: PC Computer - Mystical Chain - Marisa Kirisame_135
+  - first:
+      213: -5633105150498003663
+    second: PC Computer - Mystical Chain - Marisa Kirisame_136
+  - first:
+      213: -687073120918241225
+    second: PC Computer - Mystical Chain - Marisa Kirisame_137
+  - first:
+      213: -7175481314852544692
+    second: PC Computer - Mystical Chain - Marisa Kirisame_138
+  - first:
+      213: -7344134920083312080
+    second: PC Computer - Mystical Chain - Marisa Kirisame_139
+  - first:
+      213: -4148832158194387709
+    second: PC Computer - Mystical Chain - Marisa Kirisame_140
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1975
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57b816a161e47b10800000000000000
+      internalID: 1978453945837205339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1975
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060b8d22097f40780800000000000000
+      internalID: -8717570780250460064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1975
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833b7b64a44527cb0800000000000000
+      internalID: -4867735569243327688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1975
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bb00c577db826c0800000000000000
+      internalID: -4167873134789084349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1975
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da6b99a3ec52a2a0800000000000000
+      internalID: -6727712760465233191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_5
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1975
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f05d3554269e42c0800000000000000
+      internalID: -4445450699375030032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_6
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1975
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ed04c1bc4a3b320800000000000000
+      internalID: 2572581004418014742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_7
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1975
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a7dceef5aab4a10800000000000000
+      internalID: 1894795397244484204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1999
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f315f2eea7d10f0800000000000000
+      internalID: -1144623566867579108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_9
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1999
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7d8b75a72b13d50800000000000000
+      internalID: 6715344757913606070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_10
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1999
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1e649c814f4ca00800000000000000
+      internalID: 776013423107826108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_11
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1999
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc77108de968edda0800000000000000
+      internalID: -5918144843531323441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_12
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1999
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7ac29f2584db5d0800000000000000
+      internalID: -3045198251827615823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_13
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1999
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f165af5d31d8880800000000000000
+      internalID: -8607201503086239869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_14
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1991
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7db984dbfad8cf0800000000000000
+      internalID: -248349176933656642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_15
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1998
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0442130ab25c62460800000000000000
+      internalID: 7216672244069639232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_16
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1998
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8e6cbb1b468d030800000000000000
+      internalID: 3519673823312406766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1895
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ca8814ee72dc1c0800000000000000
+      internalID: -4481882149908599673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1895
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc74c3d71b21a3cb0800000000000000
+      internalID: -4883570292410267701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1895
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a51448ee52337300800000000000000
+      internalID: 248597787640599968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1881
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4524744d571ea61b0800000000000000
+      internalID: -5662465685276114348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1880
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dd5c633a86fee90800000000000000
+      internalID: -6994256646075196147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_22
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1880
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddbbf8f8d6854aa0800000000000000
+      internalID: -6177383047420461616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_23
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1880
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02487c4486b4da4c0800000000000000
+      internalID: -4274677560102124512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_24
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1881
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502ef0f3b4f36c560800000000000000
+      internalID: 7333618635632534021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_25
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1881
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfc15a6681257d90800000000000000
+      internalID: -7100732376286638131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_26
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1895
+        width: 60
+        height: 72
+      alignment: 9
+      pivot: {x: 0.67523193, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80288baccedec7160800000000000000
+      internalID: 7024751120060285448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_27
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1904
+        width: 71
+        height: 59
+      alignment: 9
+      pivot: {x: 0.65921754, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e25a9123ab89ae90800000000000000
+      internalID: -7013921411893144859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_28
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1906
+        width: 77
+        height: 49
+      alignment: 9
+      pivot: {x: 0.7097295, y: 0.61535144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f75963ac865df80800000000000000
+      internalID: -8082438738538037419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_29
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1892
+        width: 75
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6836198, y: 0.70892113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8cdd1200dc91c50800000000000000
+      internalID: 6636560926359013610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_30
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1885
+        width: 77
+        height: 43
+      alignment: 9
+      pivot: {x: 0.78108513, y: 0.74450684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba932f52d8160070800000000000000
+      internalID: 8072166673926560446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_31
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1886
+        width: 77
+        height: 45
+      alignment: 9
+      pivot: {x: 0.78682244, y: 0.73363984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb39e69310b54890800000000000000
+      internalID: -7474374408368735252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_32
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1885
+        width: 76
+        height: 43
+      alignment: 9
+      pivot: {x: 0.77490073, y: 0.74450684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4e959b98f7b7b40800000000000000
+      internalID: 5439081204476929276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1784
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3490526530206f30800000000000000
+      internalID: 4566685435808486463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1784
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df87a0ae4d51e560800000000000000
+      internalID: 7341251459874787282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_35
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1784
+        width: 128
+        height: 70
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4544db444b271a0800000000000000
+      internalID: -6813185078931991322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_36
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1784
+        width: 113
+        height: 70
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd53fa5b0e929cc0800000000000000
+      internalID: -3705725771764769286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_37
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1784
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9aa02e12aba1db0800000000000000
+      internalID: -4820335796457657897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_38
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1784
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728f304ac422b75b0800000000000000
+      internalID: -5369660418144602073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_39
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1784
+        width: 86
+        height: 73
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d6c9d592d09f8a0800000000000000
+      internalID: -6270966534821352050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_40
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1784
+        width: 88
+        height: 90
+      alignment: 9
+      pivot: {x: 0.56, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86819427fe3e3caa0800000000000000
+      internalID: -6141814849249142680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_41
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1784
+        width: 99
+        height: 91
+      alignment: 9
+      pivot: {x: 0.61, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ccc388ba1ab7b10800000000000000
+      internalID: 1980354219256630416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1694
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584ddd3bcd4b33a00800000000000000
+      internalID: 735130024194987141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1694
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6933e3c4a047a9930800000000000000
+      internalID: 4150757594152973206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_44
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1674
+        width: 98
+        height: 98
+      alignment: 9
+      pivot: {x: 0.25, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e1981741a5d5dd0800000000000000
+      internalID: -2495739574642729316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_45
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1674
+        width: 88
+        height: 86
+      alignment: 9
+      pivot: {x: 0.25, y: 0.68}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bc38f7635b22370800000000000000
+      internalID: 8296392709242080037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_46
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1674
+        width: 70
+        height: 88
+      alignment: 9
+      pivot: {x: 0.25, y: 0.68}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31109fde1a48d3380800000000000000
+      internalID: -8989883450144521965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_47
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1688
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2e9aae3237ffd50800000000000000
+      internalID: 6773258962686567167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_48
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1688
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04173c641b34f0370800000000000000
+      internalID: 8290919867687858496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_49
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1688
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a950e1e507396f0800000000000000
+      internalID: -679075569269892511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_50
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1688
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a37ceeb2cfb4f60800000000000000
+      internalID: 8019780827083127417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1581
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4a6866a76a69170800000000000000
+      internalID: 8184912417428776190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1581
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce1099c45f25c630800000000000000
+      internalID: 3946612689665531593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_53
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1562
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f293cadf1542e45b0800000000000000
+      internalID: -5382324570094290641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_54
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1562
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2eab6ef95ee6820800000000000000
+      internalID: 2913518483888857765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_55
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1562
+        width: 70
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7b7a7e809cbee90800000000000000
+      internalID: -6995276556106483725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_56
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1575
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6e4698f5fddacc0800000000000000
+      internalID: -3698054117581330695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_57
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1575
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aeb9240ecf394100800000000000000
+      internalID: 92675421403463330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_58
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1575
+        width: 127
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fec5d5b93795a840800000000000000
+      internalID: 5234756416007687925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_59
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1575
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc787c7861db6d60800000000000000
+      internalID: 7884625819337260277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_60
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1575
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d8f1735f51da8c0800000000000000
+      internalID: -3986505952217035457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1433
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b882c08154ac0e50800000000000000
+      internalID: 6776972209245292729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_62
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1433
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c802d5b30683470800000000000000
+      internalID: 8374549315177188411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_63
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1434
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d0492a9fb1f6670800000000000000
+      internalID: 8534070577878797698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_64
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1434
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752cf2d9aca2dab40800000000000000
+      internalID: 5453061773524451927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_65
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1433
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5616bf5bd87cfd90800000000000000
+      internalID: -7062637232024840612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_66
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1475
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed0337f1e2cf1480800000000000000
+      internalID: -8926201660654285335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_67
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1482
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c10f4d32d0925d20800000000000000
+      internalID: 3265831912443150785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_68
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1491
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8353ea4fc3c7f70800000000000000
+      internalID: 9186284361521379551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_69
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1477
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b4c37f9119643f0800000000000000
+      internalID: -916885933415183552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_70
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1478
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236e0162915a6a220800000000000000
+      internalID: 2496864570854925874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1304
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cf7a728d86de560800000000000000
+      internalID: 7344641844898692225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_72
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1304
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bd003bb26bbc7c0800000000000000
+      internalID: -4049943141086602455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_73
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1346
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e006581e259cef0800000000000000
+      internalID: -87447589198229959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_74
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1344
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970ce2afc0ffe37b0800000000000000
+      internalID: -5242472485010620295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_75
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1343
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5016277b3b69ef0800000000000000
+      internalID: -101696341089909337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_76
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1304
+        width: 101
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174223686e09ed8a0800000000000000
+      internalID: -6278421510739581839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_77
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1304
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e42983d764412600800000000000000
+      internalID: 441709451180319972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_78
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1208
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d075953a0e93ad070800000000000000
+      internalID: 8131875714146850573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_79
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1209
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e1fc6c05c6f1b50800000000000000
+      internalID: 6566085875918118441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_80
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1200
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5c29c218e63c010800000000000000
+      internalID: 1207930626143077816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_81
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1200
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fc7ac6967327510800000000000000
+      internalID: 1545358548075532100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_82
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1224
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beb25c742a5f86c0800000000000000
+      internalID: -4138990419779076430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_83
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1224
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68218113df9f4b620800000000000000
+      internalID: 2789128935094882950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_84
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1224
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b1500cffca31430800000000000000
+      internalID: 3752533128967953281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_85
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1224
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62070245a9e19ce00800000000000000
+      internalID: 1065416435035041830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_86
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1207
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfab4c425db1cf910800000000000000
+      internalID: 1872402147338140413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_87
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1207
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7ff34c376630360800000000000000
+      internalID: 7134658882084796345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_88
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1207
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8d9d6a959314fd0800000000000000
+      internalID: -2359541672551261996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_89
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1207
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade7ea5ed68c9bc80800000000000000
+      internalID: -8306387663377760550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1080
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf626ae6bcfdf960800000000000000
+      internalID: 7637538405636796350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_91
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1080
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b1528fd3ee70710800000000000000
+      internalID: 1659556937632914275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_92
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1080
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed474dbec2aa6500800000000000000
+      internalID: 390303326543498726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_93
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1080
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ab9aebb979b8540800000000000000
+      internalID: 5011265705554328141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_94
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1086
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2832a15a31076c370800000000000000
+      internalID: 8342478589427065730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_95
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1082
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd789b6bc10f60b0800000000000000
+      internalID: -5733361827424207366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_96
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1087
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c390ff5ac49c368d0800000000000000
+      internalID: -2854216407783110340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_97
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1087
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1583d4e5cc4cc490800000000000000
+      internalID: -7724714848015907555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_98
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1087
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb61ec11dfbc6ae0800000000000000
+      internalID: -1554656866496058378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_99
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1087
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce58643f3b5cb260800000000000000
+      internalID: 7114661838358863563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_100
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1087
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ca6245e1ee1dcf0800000000000000
+      internalID: -229140291990934413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_101
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1087
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f35ea7f400127800800000000000000
+      internalID: 608566513169748985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_102
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1080
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80b199018f9883f0800000000000000
+      internalID: -898292749100273522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_103
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1080
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05326d5962227b3d0800000000000000
+      internalID: -3191044261850766512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_104
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1080
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc09a590dab86cff0800000000000000
+      internalID: -16171973346684725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_105
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 983
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3ecbb28f7f98ab0800000000000000
+      internalID: -5005196865587846207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_106
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 983
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461007605f6aeaaf0800000000000000
+      internalID: -383185346974711452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_107
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 983
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d39ca942f1fb1fe0800000000000000
+      internalID: -1217113251353160752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_108
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 983
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8fc641298ae7aa0800000000000000
+      internalID: -6161301894834882389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_109
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 983
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d7a0b97d83078d0800000000000000
+      internalID: -2850716065455243945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_110
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 983
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a17e292f0eca670800000000000000
+      internalID: 8551457124921055869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_111
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 983
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e174240757bb26c0800000000000000
+      internalID: -4167035445841727001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_112
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 983
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f9a8afc8142d510800000000000000
+      internalID: 1572391293660340019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_113
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 983
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d522cee44266f70800000000000000
+      internalID: 9180064811829058971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_114
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 983
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d296c2b841854a40800000000000000
+      internalID: 5351825881436689108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_115
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 983
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab350c456e25177d0800000000000000
+      internalID: -2922463533968895046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_116
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 983
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc00da7c837f19c0800000000000000
+      internalID: -3954314900614935375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_117
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 983
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e5f36e01d224e10800000000000000
+      internalID: 2180354720206380701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_118
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 983
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448057cd2201ece60800000000000000
+      internalID: 7984336931288057924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_119
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 983
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621f6d27c744e6410800000000000000
+      internalID: 1472189429490053414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_120
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 983
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803001019734b0520800000000000000
+      internalID: 2669301391386739464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_121
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 983
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205a9975e78b327d0800000000000000
+      internalID: -2944306878595095294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_122
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 887
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b390722e130670500800000000000000
+      internalID: 362364062390487355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_123
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 887
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba649a410c1c34c0800000000000000
+      internalID: -4306536351801251139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_124
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 887
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c35f206274e54340800000000000000
+      internalID: 4847531753825326021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_125
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 887
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ae0c58a3d05d320800000000000000
+      internalID: 2581984506370124358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_126
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 887
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be31b2ad214def340800000000000000
+      internalID: 4899586622060434411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_127
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 887
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c6fa08cd96a25b0800000000000000
+      internalID: -5392381208050045837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_128
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 887
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a9d66202e83f930800000000000000
+      internalID: 4175837548237396554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_129
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 809
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ea4684ce40d30b0800000000000000
+      internalID: -5747432136581534050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_130
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 812
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb682e3c55ed8a2f0800000000000000
+      internalID: -961274060503611713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_131
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 817
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524617ab261232620800000000000000
+      internalID: 2748076905544639525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_132
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 819
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975e842cce343b6d0800000000000000
+      internalID: -2975960244610865799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_133
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 718
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac3d2549c61ed070800000000000000
+      internalID: 8132963030782524583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_134
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 714
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70e7ee5b6eaa9910800000000000000
+      internalID: 1844978773538627711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_135
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 711
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c06625f1eb454a00800000000000000
+      internalID: 740081147624972481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_136
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 711
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135a42a06b033d1b0800000000000000
+      internalID: -5633105150498003663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_137
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 615
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73003f403a60776f0800000000000000
+      internalID: -687073120918241225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_138
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 615
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fd2cfe2c19b6c90800000000000000
+      internalID: -7175481314852544692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_139
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 538
+        height: 589
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03274e97334641a90800000000000000
+      internalID: -7344134920083312080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Mystical Chain - Marisa Kirisame_140
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 650
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3053b1232236c66c0800000000000000
+      internalID: -4148832158194387709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 143f75af8332dd84486316f0d7e5e233
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Mystical Chain - Marisa Kirisame_0: 1978453945837205339
+      PC Computer - Mystical Chain - Marisa Kirisame_1: -8717570780250460064
+      PC Computer - Mystical Chain - Marisa Kirisame_10: 776013423107826108
+      PC Computer - Mystical Chain - Marisa Kirisame_100: -229140291990934413
+      PC Computer - Mystical Chain - Marisa Kirisame_101: 608566513169748985
+      PC Computer - Mystical Chain - Marisa Kirisame_102: -898292749100273522
+      PC Computer - Mystical Chain - Marisa Kirisame_103: -3191044261850766512
+      PC Computer - Mystical Chain - Marisa Kirisame_104: -16171973346684725
+      PC Computer - Mystical Chain - Marisa Kirisame_105: -5005196865587846207
+      PC Computer - Mystical Chain - Marisa Kirisame_106: -383185346974711452
+      PC Computer - Mystical Chain - Marisa Kirisame_107: -1217113251353160752
+      PC Computer - Mystical Chain - Marisa Kirisame_108: -6161301894834882389
+      PC Computer - Mystical Chain - Marisa Kirisame_109: -2850716065455243945
+      PC Computer - Mystical Chain - Marisa Kirisame_11: -5918144843531323441
+      PC Computer - Mystical Chain - Marisa Kirisame_110: 8551457124921055869
+      PC Computer - Mystical Chain - Marisa Kirisame_111: -4167035445841727001
+      PC Computer - Mystical Chain - Marisa Kirisame_112: 1572391293660340019
+      PC Computer - Mystical Chain - Marisa Kirisame_113: 9180064811829058971
+      PC Computer - Mystical Chain - Marisa Kirisame_114: 5351825881436689108
+      PC Computer - Mystical Chain - Marisa Kirisame_115: -2922463533968895046
+      PC Computer - Mystical Chain - Marisa Kirisame_116: -3954314900614935375
+      PC Computer - Mystical Chain - Marisa Kirisame_117: 2180354720206380701
+      PC Computer - Mystical Chain - Marisa Kirisame_118: 7984336931288057924
+      PC Computer - Mystical Chain - Marisa Kirisame_119: 1472189429490053414
+      PC Computer - Mystical Chain - Marisa Kirisame_12: -3045198251827615823
+      PC Computer - Mystical Chain - Marisa Kirisame_120: 2669301391386739464
+      PC Computer - Mystical Chain - Marisa Kirisame_121: -2944306878595095294
+      PC Computer - Mystical Chain - Marisa Kirisame_122: 362364062390487355
+      PC Computer - Mystical Chain - Marisa Kirisame_123: -4306536351801251139
+      PC Computer - Mystical Chain - Marisa Kirisame_124: 4847531753825326021
+      PC Computer - Mystical Chain - Marisa Kirisame_125: 2581984506370124358
+      PC Computer - Mystical Chain - Marisa Kirisame_126: 4899586622060434411
+      PC Computer - Mystical Chain - Marisa Kirisame_127: -5392381208050045837
+      PC Computer - Mystical Chain - Marisa Kirisame_128: 4175837548237396554
+      PC Computer - Mystical Chain - Marisa Kirisame_129: -5747432136581534050
+      PC Computer - Mystical Chain - Marisa Kirisame_13: -8607201503086239869
+      PC Computer - Mystical Chain - Marisa Kirisame_130: -961274060503611713
+      PC Computer - Mystical Chain - Marisa Kirisame_131: 2748076905544639525
+      PC Computer - Mystical Chain - Marisa Kirisame_132: -2975960244610865799
+      PC Computer - Mystical Chain - Marisa Kirisame_133: 8132963030782524583
+      PC Computer - Mystical Chain - Marisa Kirisame_134: 1844978773538627711
+      PC Computer - Mystical Chain - Marisa Kirisame_135: 740081147624972481
+      PC Computer - Mystical Chain - Marisa Kirisame_136: -5633105150498003663
+      PC Computer - Mystical Chain - Marisa Kirisame_137: -687073120918241225
+      PC Computer - Mystical Chain - Marisa Kirisame_138: -7175481314852544692
+      PC Computer - Mystical Chain - Marisa Kirisame_139: -7344134920083312080
+      PC Computer - Mystical Chain - Marisa Kirisame_14: -248349176933656642
+      PC Computer - Mystical Chain - Marisa Kirisame_140: -4148832158194387709
+      PC Computer - Mystical Chain - Marisa Kirisame_15: 7216672244069639232
+      PC Computer - Mystical Chain - Marisa Kirisame_16: 3519673823312406766
+      PC Computer - Mystical Chain - Marisa Kirisame_17: -4481882149908599673
+      PC Computer - Mystical Chain - Marisa Kirisame_18: -4883570292410267701
+      PC Computer - Mystical Chain - Marisa Kirisame_19: 248597787640599968
+      PC Computer - Mystical Chain - Marisa Kirisame_2: -4867735569243327688
+      PC Computer - Mystical Chain - Marisa Kirisame_20: -5662465685276114348
+      PC Computer - Mystical Chain - Marisa Kirisame_21: -6994256646075196147
+      PC Computer - Mystical Chain - Marisa Kirisame_22: -6177383047420461616
+      PC Computer - Mystical Chain - Marisa Kirisame_23: -4274677560102124512
+      PC Computer - Mystical Chain - Marisa Kirisame_24: 7333618635632534021
+      PC Computer - Mystical Chain - Marisa Kirisame_25: -7100732376286638131
+      PC Computer - Mystical Chain - Marisa Kirisame_26: 7024751120060285448
+      PC Computer - Mystical Chain - Marisa Kirisame_27: -7013921411893144859
+      PC Computer - Mystical Chain - Marisa Kirisame_28: -8082438738538037419
+      PC Computer - Mystical Chain - Marisa Kirisame_29: 6636560926359013610
+      PC Computer - Mystical Chain - Marisa Kirisame_3: -4167873134789084349
+      PC Computer - Mystical Chain - Marisa Kirisame_30: 8072166673926560446
+      PC Computer - Mystical Chain - Marisa Kirisame_31: -7474374408368735252
+      PC Computer - Mystical Chain - Marisa Kirisame_32: 5439081204476929276
+      PC Computer - Mystical Chain - Marisa Kirisame_33: 4566685435808486463
+      PC Computer - Mystical Chain - Marisa Kirisame_34: 7341251459874787282
+      PC Computer - Mystical Chain - Marisa Kirisame_35: -6813185078931991322
+      PC Computer - Mystical Chain - Marisa Kirisame_36: -3705725771764769286
+      PC Computer - Mystical Chain - Marisa Kirisame_37: -4820335796457657897
+      PC Computer - Mystical Chain - Marisa Kirisame_38: -5369660418144602073
+      PC Computer - Mystical Chain - Marisa Kirisame_39: -6270966534821352050
+      PC Computer - Mystical Chain - Marisa Kirisame_4: -6727712760465233191
+      PC Computer - Mystical Chain - Marisa Kirisame_40: -6141814849249142680
+      PC Computer - Mystical Chain - Marisa Kirisame_41: 1980354219256630416
+      PC Computer - Mystical Chain - Marisa Kirisame_42: 735130024194987141
+      PC Computer - Mystical Chain - Marisa Kirisame_43: 4150757594152973206
+      PC Computer - Mystical Chain - Marisa Kirisame_44: -2495739574642729316
+      PC Computer - Mystical Chain - Marisa Kirisame_45: 8296392709242080037
+      PC Computer - Mystical Chain - Marisa Kirisame_46: -8989883450144521965
+      PC Computer - Mystical Chain - Marisa Kirisame_47: 6773258962686567167
+      PC Computer - Mystical Chain - Marisa Kirisame_48: 8290919867687858496
+      PC Computer - Mystical Chain - Marisa Kirisame_49: -679075569269892511
+      PC Computer - Mystical Chain - Marisa Kirisame_5: -4445450699375030032
+      PC Computer - Mystical Chain - Marisa Kirisame_50: 8019780827083127417
+      PC Computer - Mystical Chain - Marisa Kirisame_51: 8184912417428776190
+      PC Computer - Mystical Chain - Marisa Kirisame_52: 3946612689665531593
+      PC Computer - Mystical Chain - Marisa Kirisame_53: -5382324570094290641
+      PC Computer - Mystical Chain - Marisa Kirisame_54: 2913518483888857765
+      PC Computer - Mystical Chain - Marisa Kirisame_55: -6995276556106483725
+      PC Computer - Mystical Chain - Marisa Kirisame_56: -3698054117581330695
+      PC Computer - Mystical Chain - Marisa Kirisame_57: 92675421403463330
+      PC Computer - Mystical Chain - Marisa Kirisame_58: 5234756416007687925
+      PC Computer - Mystical Chain - Marisa Kirisame_59: 7884625819337260277
+      PC Computer - Mystical Chain - Marisa Kirisame_6: 2572581004418014742
+      PC Computer - Mystical Chain - Marisa Kirisame_60: -3986505952217035457
+      PC Computer - Mystical Chain - Marisa Kirisame_61: 6776972209245292729
+      PC Computer - Mystical Chain - Marisa Kirisame_62: 8374549315177188411
+      PC Computer - Mystical Chain - Marisa Kirisame_63: 8534070577878797698
+      PC Computer - Mystical Chain - Marisa Kirisame_64: 5453061773524451927
+      PC Computer - Mystical Chain - Marisa Kirisame_65: -7062637232024840612
+      PC Computer - Mystical Chain - Marisa Kirisame_66: -8926201660654285335
+      PC Computer - Mystical Chain - Marisa Kirisame_67: 3265831912443150785
+      PC Computer - Mystical Chain - Marisa Kirisame_68: 9186284361521379551
+      PC Computer - Mystical Chain - Marisa Kirisame_69: -916885933415183552
+      PC Computer - Mystical Chain - Marisa Kirisame_7: 1894795397244484204
+      PC Computer - Mystical Chain - Marisa Kirisame_70: 2496864570854925874
+      PC Computer - Mystical Chain - Marisa Kirisame_71: 7344641844898692225
+      PC Computer - Mystical Chain - Marisa Kirisame_72: -4049943141086602455
+      PC Computer - Mystical Chain - Marisa Kirisame_73: -87447589198229959
+      PC Computer - Mystical Chain - Marisa Kirisame_74: -5242472485010620295
+      PC Computer - Mystical Chain - Marisa Kirisame_75: -101696341089909337
+      PC Computer - Mystical Chain - Marisa Kirisame_76: -6278421510739581839
+      PC Computer - Mystical Chain - Marisa Kirisame_77: 441709451180319972
+      PC Computer - Mystical Chain - Marisa Kirisame_78: 8131875714146850573
+      PC Computer - Mystical Chain - Marisa Kirisame_79: 6566085875918118441
+      PC Computer - Mystical Chain - Marisa Kirisame_8: -1144623566867579108
+      PC Computer - Mystical Chain - Marisa Kirisame_80: 1207930626143077816
+      PC Computer - Mystical Chain - Marisa Kirisame_81: 1545358548075532100
+      PC Computer - Mystical Chain - Marisa Kirisame_82: -4138990419779076430
+      PC Computer - Mystical Chain - Marisa Kirisame_83: 2789128935094882950
+      PC Computer - Mystical Chain - Marisa Kirisame_84: 3752533128967953281
+      PC Computer - Mystical Chain - Marisa Kirisame_85: 1065416435035041830
+      PC Computer - Mystical Chain - Marisa Kirisame_86: 1872402147338140413
+      PC Computer - Mystical Chain - Marisa Kirisame_87: 7134658882084796345
+      PC Computer - Mystical Chain - Marisa Kirisame_88: -2359541672551261996
+      PC Computer - Mystical Chain - Marisa Kirisame_89: -8306387663377760550
+      PC Computer - Mystical Chain - Marisa Kirisame_9: 6715344757913606070
+      PC Computer - Mystical Chain - Marisa Kirisame_90: 7637538405636796350
+      PC Computer - Mystical Chain - Marisa Kirisame_91: 1659556937632914275
+      PC Computer - Mystical Chain - Marisa Kirisame_92: 390303326543498726
+      PC Computer - Mystical Chain - Marisa Kirisame_93: 5011265705554328141
+      PC Computer - Mystical Chain - Marisa Kirisame_94: 8342478589427065730
+      PC Computer - Mystical Chain - Marisa Kirisame_95: -5733361827424207366
+      PC Computer - Mystical Chain - Marisa Kirisame_96: -2854216407783110340
+      PC Computer - Mystical Chain - Marisa Kirisame_97: -7724714848015907555
+      PC Computer - Mystical Chain - Marisa Kirisame_98: -1554656866496058378
+      PC Computer - Mystical Chain - Marisa Kirisame_99: 7114661838358863563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
