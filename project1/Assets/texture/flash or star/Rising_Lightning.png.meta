@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 15a387c039e5d3d4e94f8e5db8f93987
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7898067867443733687
+    second: Rising_Lightning_0
+  - first:
+      213: -5533982225683324789
+    second: Rising_Lightning_1
+  - first:
+      213: 6058995436828572962
+    second: Rising_Lightning_2
+  - first:
+      213: 8681161908027214859
+    second: Rising_Lightning_3
+  - first:
+      213: 8530147232761966046
+    second: Rising_Lightning_4
+  - first:
+      213: -3067412782671486128
+    second: Rising_Lightning_5
+  - first:
+      213: 1936549464383859588
+    second: Rising_Lightning_6
+  - first:
+      213: -3098282584351747365
+    second: Rising_Lightning_7
+  - first:
+      213: -3759248942742600496
+    second: Rising_Lightning_8
+  - first:
+      213: -7698616873787077520
+    second: Rising_Lightning_9
+  - first:
+      213: -3915489097173562241
+    second: Rising_Lightning_10
+  - first:
+      213: 7765709932239990312
+    second: Rising_Lightning_11
+  - first:
+      213: 4337351829999855211
+    second: Rising_Lightning_12
+  - first:
+      213: 619056585134754495
+    second: Rising_Lightning_13
+  - first:
+      213: -7022163537928403126
+    second: Rising_Lightning_14
+  - first:
+      213: -5455960902077011244
+    second: Rising_Lightning_15
+  - first:
+      213: -4759435323608491311
+    second: Rising_Lightning_16
+  - first:
+      213: 2731087763128876767
+    second: Rising_Lightning_17
+  - first:
+      213: -1801109195229599429
+    second: Rising_Lightning_18
+  - first:
+      213: -1225649346609888957
+    second: Rising_Lightning_19
+  - first:
+      213: -1610361168824515158
+    second: Rising_Lightning_20
+  - first:
+      213: -7527975447372062621
+    second: Rising_Lightning_21
+  - first:
+      213: 6861270398105628895
+    second: Rising_Lightning_22
+  - first:
+      213: -7567921508619861809
+    second: Rising_Lightning_23
+  - first:
+      213: 605896485601732406
+    second: Rising_Lightning_24
+  - first:
+      213: 697237725227482036
+    second: Rising_Lightning_25
+  - first:
+      213: -6544799542119634889
+    second: Rising_Lightning_26
+  - first:
+      213: -1986333923687036497
+    second: Rising_Lightning_27
+  - first:
+      213: -2963673845042717393
+    second: Rising_Lightning_28
+  - first:
+      213: 126405891801911638
+    second: Rising_Lightning_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rising_Lightning_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 482
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b429e231e29b9d60800000000000000
+      internalID: 7898067867443733687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 488
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80e1dc6c785333b0800000000000000
+      internalID: -5533982225683324789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 488
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d31e37f30e51450800000000000000
+      internalID: 6058995436828572962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 490
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c4d95b2cea97870800000000000000
+      internalID: 8681161908027214859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 482
+        width: 132
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddee8aa6bb216670800000000000000
+      internalID: 8530147232761966046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_5
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 482
+        width: 130
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053af55735c5e65d0800000000000000
+      internalID: -3067412782671486128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 338
+        width: 134
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ba2924a7100ea10800000000000000
+      internalID: 1936549464383859588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 342
+        width: 139
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd25fe9a760b005d0800000000000000
+      internalID: -3098282584351747365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 348
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d48091010774dbc0800000000000000
+      internalID: -3759248942742600496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 344
+        width: 132
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cc7180eb4092590800000000000000
+      internalID: -7698616873787077520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 250
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c0e09496369a9c0800000000000000
+      internalID: -3915489097173562241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 194
+        width: 136
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e23e3f90855cb60800000000000000
+      internalID: 7765709932239990312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 265
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b662805528e513c30800000000000000
+      internalID: 4337351829999855211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 275
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbac2dc2fa4579800800000000000000
+      internalID: 619056585134754495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 196
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47c31f97734c8e90800000000000000
+      internalID: -7022163537928403126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_15
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 223
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daa74b67788844b0800000000000000
+      internalID: -5455960902077011244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 228
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da9edc2ac613fdb0800000000000000
+      internalID: -4759435323608491311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_17
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 206
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde76b3c9d5c6e520800000000000000
+      internalID: 2731087763128876767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_18
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 241
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3966a8cabc2107e0800000000000000
+      internalID: -1801109195229599429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 194
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341c02cb96e9dfee0800000000000000
+      internalID: -1225649346609888957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 194
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5c12c8c09d6a9e0800000000000000
+      internalID: -1610361168824515158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_21
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 208
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360a68d2732478790800000000000000
+      internalID: -7527975447372062621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_22
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 212
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd03df21311283f50800000000000000
+      internalID: 6861270398105628895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 197
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0cca60c7759f690800000000000000
+      internalID: -7567921508619861809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 60
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637e2fab4a3986800800000000000000
+      internalID: 605896485601732406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb7f2854061da900800000000000000
+      internalID: 697237725227482036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_26
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 56
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738e1d50e733c25a0800000000000000
+      internalID: -6544799542119634889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_27
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9835902df1f64e0800000000000000
+      internalID: -1986333923687036497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 49
+        width: 56
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ddc14175aeed6d0800000000000000
+      internalID: -2963673845042717393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rising_Lightning_29
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6519e562d7511c100800000000000000
+      internalID: 126405891801911638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

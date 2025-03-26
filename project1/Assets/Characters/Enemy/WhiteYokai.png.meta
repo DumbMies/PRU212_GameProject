@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: ba045d81707c38540aa69fa99039dfd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4063187570134032424
+    second: WhiteYokai_0
+  - first:
+      213: -6796188526491023286
+    second: WhiteYokai_1
+  - first:
+      213: -6345774674047216921
+    second: WhiteYokai_2
+  - first:
+      213: -6951391467766742963
+    second: WhiteYokai_3
+  - first:
+      213: 2336636067624025171
+    second: WhiteYokai_4
+  - first:
+      213: 4566819146833380862
+    second: WhiteYokai_5
+  - first:
+      213: 3800807331090356289
+    second: WhiteYokai_6
+  - first:
+      213: 8730660491999720600
+    second: WhiteYokai_7
+  - first:
+      213: 2874052616539467569
+    second: WhiteYokai_8
+  - first:
+      213: 837740880230206135
+    second: WhiteYokai_9
+  - first:
+      213: 9213332270236216497
+    second: WhiteYokai_10
+  - first:
+      213: 6519545585300781037
+    second: WhiteYokai_11
+  - first:
+      213: 2689500444542206902
+    second: WhiteYokai_12
+  - first:
+      213: 6717782420785939420
+    second: WhiteYokai_13
+  - first:
+      213: 1999176183011421649
+    second: WhiteYokai_14
+  - first:
+      213: -6711931988741890678
+    second: WhiteYokai_15
+  - first:
+      213: 6336314266463308719
+    second: WhiteYokai_16
+  - first:
+      213: -6858998205507428586
+    second: WhiteYokai_17
+  - first:
+      213: 1992311649441069975
+    second: WhiteYokai_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WhiteYokai_0
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 293
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8202f9d3197536830800000000000000
+      internalID: 4063187570134032424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 232
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48caebfa861fa1a0800000000000000
+      internalID: -6796188526491023286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 233
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2deb82e874fe7a0800000000000000
+      internalID: -6345774674047216921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 173
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4005154a42b78f90800000000000000
+      internalID: -6951391467766742963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 173
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c781c9f166d6020800000000000000
+      internalID: 2336636067624025171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_5
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 173
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5c47861d9906f30800000000000000
+      internalID: 4566819146833380862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 111
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148575d412e2fb430800000000000000
+      internalID: 3800807331090356289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 112
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8943e20e579892970800000000000000
+      internalID: 8730660491999720600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 113
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fed9a90afa2e720800000000000000
+      internalID: 2874052616539467569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 112
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bac1fb54e040ab00800000000000000
+      internalID: 837740880230206135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 111
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca21da2e45cdf70800000000000000
+      internalID: 9213332270236216497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 111
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7b1d4fa241a7a50800000000000000
+      internalID: 6519545585300781037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 48
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3813c9766035520800000000000000
+      internalID: 2689500444542206902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 48
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd34f45f48b5a3d50800000000000000
+      internalID: 6717782420785939420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 48
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd21d775208ebb10800000000000000
+      internalID: 1999176183011421649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 48
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d5576ea6d6ad2a0800000000000000
+      internalID: -6711931988741890678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 48
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab09cd014c1fe750800000000000000
+      internalID: 6336314266463308719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 48
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f10bdf871ffc0a0800000000000000
+      internalID: -6858998205507428586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteYokai_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 48
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bbec2b3ec16ab10800000000000000
+      internalID: 1992311649441069975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 15aec27c6dee4674382876efebc098d0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WhiteYokai_0: 4063187570134032424
+      WhiteYokai_1: -6796188526491023286
+      WhiteYokai_10: 9213332270236216497
+      WhiteYokai_11: 6519545585300781037
+      WhiteYokai_12: 2689500444542206902
+      WhiteYokai_13: 6717782420785939420
+      WhiteYokai_14: 1999176183011421649
+      WhiteYokai_15: -6711931988741890678
+      WhiteYokai_16: 6336314266463308719
+      WhiteYokai_17: -6858998205507428586
+      WhiteYokai_18: 1992311649441069975
+      WhiteYokai_2: -6345774674047216921
+      WhiteYokai_3: -6951391467766742963
+      WhiteYokai_4: 2336636067624025171
+      WhiteYokai_5: 4566819146833380862
+      WhiteYokai_6: 3800807331090356289
+      WhiteYokai_7: 8730660491999720600
+      WhiteYokai_8: 2874052616539467569
+      WhiteYokai_9: 837740880230206135
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

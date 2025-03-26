@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 4883ffbada7e53649aa9a68d83717ace
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4032183440752944679
+    second: RedYokai_0
+  - first:
+      213: -4058910458561294666
+    second: RedYokai_1
+  - first:
+      213: 1131608323392763323
+    second: RedYokai_2
+  - first:
+      213: 4697473760235002260
+    second: RedYokai_3
+  - first:
+      213: -2154272463863128056
+    second: RedYokai_4
+  - first:
+      213: -4539261736625702704
+    second: RedYokai_5
+  - first:
+      213: 8853683753443396946
+    second: RedYokai_6
+  - first:
+      213: 2831272168719043010
+    second: RedYokai_7
+  - first:
+      213: 1163468239963621111
+    second: RedYokai_8
+  - first:
+      213: -900774791358776106
+    second: RedYokai_9
+  - first:
+      213: -4320619180625382295
+    second: RedYokai_10
+  - first:
+      213: -2764431839088123238
+    second: RedYokai_11
+  - first:
+      213: 226513630917355696
+    second: RedYokai_12
+  - first:
+      213: -2341878290882948621
+    second: RedYokai_13
+  - first:
+      213: 8714464497948657493
+    second: RedYokai_14
+  - first:
+      213: -1309688107289813519
+    second: RedYokai_15
+  - first:
+      213: 285848211934454832
+    second: RedYokai_16
+  - first:
+      213: -4809199245672191715
+    second: RedYokai_17
+  - first:
+      213: 4018413932474780868
+    second: RedYokai_18
+  - first:
+      213: 2839635606242179561
+    second: RedYokai_19
+  - first:
+      213: 3773887474044251641
+    second: RedYokai_20
+  - first:
+      213: -3454739171256447650
+    second: RedYokai_21
+  - first:
+      213: 5911771062355660204
+    second: RedYokai_22
+  - first:
+      213: -4331685789068592862
+    second: RedYokai_23
+  - first:
+      213: 1950533606905672491
+    second: RedYokai_24
+  - first:
+      213: 6224675109241847577
+    second: RedYokai_25
+  - first:
+      213: -2940794985591470188
+    second: RedYokai_26
+  - first:
+      213: -6829492708555359799
+    second: RedYokai_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedYokai_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 527
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d955b8268eca08c0800000000000000
+      internalID: -4032183440752944679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 527
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be0656617adba7c0800000000000000
+      internalID: -4058910458561294666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 526
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb573bc46c744bf00800000000000000
+      internalID: 1131608323392763323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 437
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49996842f77c03140800000000000000
+      internalID: 4697473760235002260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 436
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8006802ab9c7a12e0800000000000000
+      internalID: -2154272463863128056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 345
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8f6e5208d4101c0800000000000000
+      internalID: -4539261736625702704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 345
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d04a5077a9eda70800000000000000
+      internalID: 8853683753443396946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 345
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9c2f66903ba4720800000000000000
+      internalID: 2831272168719043010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 265
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f60b7e2338752010800000000000000
+      internalID: 1163468239963621111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 266
+        width: 67
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcfe6a891ecf73f0800000000000000
+      internalID: -900774791358776106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 266
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964b5113fb31a04c0800000000000000
+      internalID: -4320619180625382295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 267
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a926f5193e3c2a9d0800000000000000
+      internalID: -2764431839088123238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 266
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8ec9b72fcb42300800000000000000
+      internalID: 226513630917355696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 266
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f119bc2a1aff7fd0800000000000000
+      internalID: -2341878290882948621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 177
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5578bf72a4fffe870800000000000000
+      internalID: 8714464497948657493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 177
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fddf6efa9d03dde0800000000000000
+      internalID: -1309688107289813519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 177
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034a80c2f6987f300800000000000000
+      internalID: 285848211934454832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 177
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19e1ab24ca424db0800000000000000
+      internalID: -4809199245672191715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 177
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccc3ad5e2644c730800000000000000
+      internalID: 4018413932474780868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 177
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9bd91f989686720800000000000000
+      internalID: 2839635606242179561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_20
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 177
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd24b8a9aa8f5430800000000000000
+      internalID: 3773887474044251641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 86
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dc1a9170d4e00d0800000000000000
+      internalID: -3454739171256447650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 89
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad84259574da0250800000000000000
+      internalID: 5911771062355660204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 97
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22975ff99b2c2e3c0800000000000000
+      internalID: -4331685789068592862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 89
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23f21a2bffa11b10800000000000000
+      internalID: 1950533606905672491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_25
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 89
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f7398380d726650800000000000000
+      internalID: 6224675109241847577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 105
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4970296aa823037d0800000000000000
+      internalID: -2940794985591470188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokai_27
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 106
+        width: 61
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9ff66d094c831a0800000000000000
+      internalID: -6829492708555359799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 80f72e8472f7ace48a798159367ada67
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RedYokai_0: -4032183440752944679
+      RedYokai_1: -4058910458561294666
+      RedYokai_10: -4320619180625382295
+      RedYokai_11: -2764431839088123238
+      RedYokai_12: 226513630917355696
+      RedYokai_13: -2341878290882948621
+      RedYokai_14: 8714464497948657493
+      RedYokai_15: -1309688107289813519
+      RedYokai_16: 285848211934454832
+      RedYokai_17: -4809199245672191715
+      RedYokai_18: 4018413932474780868
+      RedYokai_19: 2839635606242179561
+      RedYokai_2: 1131608323392763323
+      RedYokai_20: 3773887474044251641
+      RedYokai_21: -3454739171256447650
+      RedYokai_22: 5911771062355660204
+      RedYokai_23: -4331685789068592862
+      RedYokai_24: 1950533606905672491
+      RedYokai_25: 6224675109241847577
+      RedYokai_26: -2940794985591470188
+      RedYokai_27: -6829492708555359799
+      RedYokai_3: 4697473760235002260
+      RedYokai_4: -2154272463863128056
+      RedYokai_5: -4539261736625702704
+      RedYokai_6: 8853683753443396946
+      RedYokai_7: 2831272168719043010
+      RedYokai_8: 1163468239963621111
+      RedYokai_9: -900774791358776106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

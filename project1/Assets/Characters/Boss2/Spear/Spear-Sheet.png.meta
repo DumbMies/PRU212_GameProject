@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: 8b767ee6ec6300e449cef2f191cb5d84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7748862099686210137
+    second: Spear-Sheet_0
+  - first:
+      213: 3238047592548833195
+    second: Spear-Sheet_1
+  - first:
+      213: 3990907920838946096
+    second: Spear-Sheet_2
+  - first:
+      213: -6294404265789402909
+    second: Spear-Sheet_3
+  - first:
+      213: -7992222284395537794
+    second: Spear-Sheet_4
+  - first:
+      213: -6781940820117619470
+    second: Spear-Sheet_5
+  - first:
+      213: -8087590670205028274
+    second: Spear-Sheet_6
+  - first:
+      213: -734327385877060445
+    second: Spear-Sheet_7
+  - first:
+      213: -858869156300221439
+    second: Spear-Sheet_8
+  - first:
+      213: 7898764578984665326
+    second: Spear-Sheet_9
+  - first:
+      213: 7936080721368333010
+    second: Spear-Sheet_10
+  - first:
+      213: 5103473687287492133
+    second: Spear-Sheet_11
+  - first:
+      213: -7761023868564962737
+    second: Spear-Sheet_12
+  - first:
+      213: 9021643809277996566
+    second: Spear-Sheet_13
+  - first:
+      213: -2394494801680884697
+    second: Spear-Sheet_14
+  - first:
+      213: 8084610415380607427
+    second: Spear-Sheet_15
+  - first:
+      213: -1186183635275397791
+    second: Spear-Sheet_16
+  - first:
+      213: -1768421659723379718
+    second: Spear-Sheet_17
+  - first:
+      213: 2693588187660671672
+    second: Spear-Sheet_18
+  - first:
+      213: -8225515534031221192
+    second: Spear-Sheet_19
+  - first:
+      213: 5773942648918491180
+    second: Spear-Sheet_20
+  - first:
+      213: -3946984465105222687
+    second: Spear-Sheet_21
+  - first:
+      213: 5360293276538918424
+    second: Spear-Sheet_22
+  - first:
+      213: 667074587444409608
+    second: Spear-Sheet_23
+  - first:
+      213: -5742007576902164796
+    second: Spear-Sheet_24
+  - first:
+      213: -2148474515953507357
+    second: Spear-Sheet_25
+  - first:
+      213: 2038024248014754974
+    second: Spear-Sheet_26
+  - first:
+      213: -910562145793410342
+    second: Spear-Sheet_27
+  - first:
+      213: 2319212527232870184
+    second: Spear-Sheet_28
+  - first:
+      213: -4912212842341796510
+    second: Spear-Sheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spear-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 168
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3363bec9afb0ad2439156adb5d34e168
+      internalID: -1554159737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 168
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1c13857264c1f4b955e15c447549e5
+      internalID: 523545577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 168
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1f9f382e774f349b4caec0c1b08062
+      internalID: -1054869693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 168
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f67a17d8a8bb34b9385b1f499aa31a
+      internalID: -1742904187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 168
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d3cc6f43f815847b59d7cf1ef6e776
+      internalID: 1633926036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 168
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3db1e4d6a4d864d9b62d75ff641560
+      internalID: -719174610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 168
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078724bb06bf6c147ac0b12566b5fa32
+      internalID: 868495917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d8e474886586090458e984b3a76469ff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spear-Sheet_0: -1554159737
+      Spear-Sheet_1: 523545577
+      Spear-Sheet_2: -1054869693
+      Spear-Sheet_3: -1742904187
+      Spear-Sheet_4: 1633926036
+      Spear-Sheet_5: -719174610
+      Spear-Sheet_6: 868495917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

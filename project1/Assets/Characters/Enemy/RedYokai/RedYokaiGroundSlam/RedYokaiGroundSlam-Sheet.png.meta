@@ -1,0 +1,758 @@
+fileFormatVersion: 2
+guid: 664abd451668ece48ab07491cf3b8ce0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8398313495630080972
+    second: RedYokaiGroundSlam-Sheet_0
+  - first:
+      213: 3487957990288184913
+    second: RedYokaiGroundSlam-Sheet_1
+  - first:
+      213: -5374655225356956046
+    second: RedYokaiGroundSlam-Sheet_2
+  - first:
+      213: -7831462713060348813
+    second: RedYokaiGroundSlam-Sheet_3
+  - first:
+      213: 7299716970382861705
+    second: RedYokaiGroundSlam-Sheet_4
+  - first:
+      213: -2275115482958125964
+    second: RedYokaiGroundSlam-Sheet_5
+  - first:
+      213: -7731185994208394183
+    second: RedYokaiGroundSlam-Sheet_6
+  - first:
+      213: -1854743756676583325
+    second: RedYokaiGroundSlam-Sheet_7
+  - first:
+      213: 5971940964836221913
+    second: RedYokaiGroundSlam-Sheet_8
+  - first:
+      213: -1443326394202573992
+    second: RedYokaiGroundSlam-Sheet_9
+  - first:
+      213: 3682117586930090302
+    second: RedYokaiGroundSlam-Sheet_10
+  - first:
+      213: -194086878116187584
+    second: RedYokaiGroundSlam-Sheet_11
+  - first:
+      213: -6473933163461785141
+    second: RedYokaiGroundSlam-Sheet_12
+  - first:
+      213: 7561831220190662758
+    second: RedYokaiGroundSlam-Sheet_13
+  - first:
+      213: 8484035189734281239
+    second: RedYokaiGroundSlam-Sheet_14
+  - first:
+      213: -5572655004965381883
+    second: RedYokaiGroundSlam-Sheet_15
+  - first:
+      213: 2541912084220106149
+    second: RedYokaiGroundSlam-Sheet_16
+  - first:
+      213: -8708488481568889548
+    second: RedYokaiGroundSlam-Sheet_17
+  - first:
+      213: 8228614125603226076
+    second: RedYokaiGroundSlam-Sheet_18
+  - first:
+      213: 5343061118016259563
+    second: RedYokaiGroundSlam-Sheet_19
+  - first:
+      213: -5212086273493586302
+    second: RedYokaiGroundSlam-Sheet_20
+  - first:
+      213: -2150380567340970882
+    second: RedYokaiGroundSlam-Sheet_21
+  - first:
+      213: -6830202040653988943
+    second: RedYokaiGroundSlam-Sheet_22
+  - first:
+      213: -8707447814652298013
+    second: RedYokaiGroundSlam-Sheet_23
+  - first:
+      213: -2788337079453821277
+    second: RedYokaiGroundSlam-Sheet_24
+  - first:
+      213: -1897831911827242038
+    second: RedYokaiGroundSlam-Sheet_25
+  - first:
+      213: 6887911742555060863
+    second: RedYokaiGroundSlam-Sheet_26
+  - first:
+      213: -5619686018572848086
+    second: RedYokaiGroundSlam-Sheet_27
+  - first:
+      213: 5118349912432690274
+    second: RedYokaiGroundSlam-Sheet_28
+  - first:
+      213: 7063396642447380472
+    second: RedYokaiGroundSlam-Sheet_29
+  - first:
+      213: -5446382572916055680
+    second: RedYokaiGroundSlam-Sheet_30
+  - first:
+      213: -5177162027862038145
+    second: RedYokaiGroundSlam-Sheet_31
+  - first:
+      213: 4539110896900058758
+    second: RedYokaiGroundSlam-Sheet_32
+  - first:
+      213: 2732504108101691760
+    second: RedYokaiGroundSlam-Sheet_33
+  - first:
+      213: -1881750701932503990
+    second: RedYokaiGroundSlam-Sheet_34
+  - first:
+      213: 1225912521767719753
+    second: RedYokaiGroundSlam-Sheet_35
+  - first:
+      213: 337253325806503392
+    second: RedYokaiGroundSlam-Sheet_36
+  - first:
+      213: -4656539313088913344
+    second: RedYokaiGroundSlam-Sheet_37
+  - first:
+      213: -4236657351029452753
+    second: RedYokaiGroundSlam-Sheet_38
+  - first:
+      213: 8627495253959345078
+    second: RedYokaiGroundSlam-Sheet_39
+  - first:
+      213: 3038543719830924586
+    second: RedYokaiGroundSlam-Sheet_40
+  - first:
+      213: 1197250880389790605
+    second: RedYokaiGroundSlam-Sheet_41
+  - first:
+      213: 4860580312485564985
+    second: RedYokaiGroundSlam-Sheet_42
+  - first:
+      213: -650877184055098952
+    second: RedYokaiGroundSlam-Sheet_43
+  - first:
+      213: -8545248254956521919
+    second: RedYokaiGroundSlam-Sheet_44
+  - first:
+      213: 6754577726335851465
+    second: RedYokaiGroundSlam-Sheet_45
+  - first:
+      213: 7998681050403339734
+    second: RedYokaiGroundSlam-Sheet_46
+  - first:
+      213: -393304857164060761
+    second: RedYokaiGroundSlam-Sheet_47
+  - first:
+      213: 2119914248980126373
+    second: RedYokaiGroundSlam-Sheet_48
+  - first:
+      213: 7120068165003676129
+    second: RedYokaiGroundSlam-Sheet_49
+  - first:
+      213: 4280368196348847130
+    second: RedYokaiGroundSlam-Sheet_50
+  - first:
+      213: 5170586859784026423
+    second: RedYokaiGroundSlam-Sheet_51
+  - first:
+      213: -6423424525761399627
+    second: RedYokaiGroundSlam-Sheet_52
+  - first:
+      213: -7760486857726878496
+    second: RedYokaiGroundSlam-Sheet_53
+  - first:
+      213: -7351189983215549319
+    second: RedYokaiGroundSlam-Sheet_54
+  - first:
+      213: -1246993770935052701
+    second: RedYokaiGroundSlam-Sheet_55
+  - first:
+      213: -9185791564457371750
+    second: RedYokaiGroundSlam-Sheet_56
+  - first:
+      213: -4918065053190680713
+    second: RedYokaiGroundSlam-Sheet_57
+  - first:
+      213: 6783518977626675386
+    second: RedYokaiGroundSlam-Sheet_58
+  - first:
+      213: -6624015459780497919
+    second: RedYokaiGroundSlam-Sheet_59
+  - first:
+      213: -7513912467355823524
+    second: RedYokaiGroundSlam-Sheet_60
+  - first:
+      213: 6857751281229444231
+    second: RedYokaiGroundSlam-Sheet_61
+  - first:
+      213: -217990622564003297
+    second: RedYokaiGroundSlam-Sheet_62
+  - first:
+      213: -7033842626690330261
+    second: RedYokaiGroundSlam-Sheet_63
+  - first:
+      213: 4599312427098080120
+    second: RedYokaiGroundSlam-Sheet_64
+  - first:
+      213: -7481418653727902793
+    second: RedYokaiGroundSlam-Sheet_65
+  - first:
+      213: 6994323891901668616
+    second: RedYokaiGroundSlam-Sheet_66
+  - first:
+      213: -8580784186103606769
+    second: RedYokaiGroundSlam-Sheet_67
+  - first:
+      213: -8503269685191772087
+    second: RedYokaiGroundSlam-Sheet_68
+  - first:
+      213: -3273574558753538231
+    second: RedYokaiGroundSlam-Sheet_69
+  - first:
+      213: -5530721771083615052
+    second: RedYokaiGroundSlam-Sheet_70
+  - first:
+      213: 3040557520881674472
+    second: RedYokaiGroundSlam-Sheet_71
+  - first:
+      213: -1439431694926873184
+    second: RedYokaiGroundSlam-Sheet_72
+  - first:
+      213: 3573715568288182576
+    second: RedYokaiGroundSlam-Sheet_73
+  - first:
+      213: -4696928051594893793
+    second: RedYokaiGroundSlam-Sheet_74
+  - first:
+      213: 892820595600987525
+    second: RedYokaiGroundSlam-Sheet_75
+  - first:
+      213: -4774265998421848143
+    second: RedYokaiGroundSlam-Sheet_76
+  - first:
+      213: -65338159604763154
+    second: RedYokaiGroundSlam-Sheet_77
+  - first:
+      213: 1931698382015049948
+    second: RedYokaiGroundSlam-Sheet_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1953125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cae713fc057e843902e4c99815e028
+      internalID: 1460738465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1953125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9519bbea0e571ba4d9d3b039d41de08f
+      internalID: -282787135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1953125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e545387a1d17440bed1de8ae072a89
+      internalID: 150097751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a68f86ec1c0aa046a985b35b1bcb1e9
+      internalID: 1578214817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.734375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abfcb22f99a1f1458ea855c68ffdf90
+      internalID: -833264200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.71875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808b550f91c188947b9472cfe3d34c9a
+      internalID: -115068612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.734375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029ccae9ce07bd44695009d5db8d8c0f
+      internalID: 809977983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764baf14782b0574ebe2b9e0261ed0e1
+      internalID: 1882642792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0723e75859999a24793572059d992349
+      internalID: -1174228825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59076f46a018bd9478f5519da5baca5a
+      internalID: 1414621986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.671875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae7165feeeae364a93a395883ae63a4
+      internalID: 1446106312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1953125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2524203f1a703344789736ab883567fd
+      internalID: -1914407968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1953125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ad06ebcb862234f8d34aaeb0eaf5e1
+      internalID: 450481305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1953125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e499e94bada284abee796c180fe1ad
+      internalID: 485241814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1953125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5966299f4844aba4195ae33cc4ae5dd0
+      internalID: -734586420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1953125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c995d478bb4a5441a93f1fcc586f26f
+      internalID: -458721659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedYokaiGroundSlam-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1953125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf0a68ece60e1247846773943765d7b
+      internalID: 1224480992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7ed86cb2003404d4b806fa32530e1bb5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RedYokaiGroundSlam-Sheet_0: 1460738465
+      RedYokaiGroundSlam-Sheet_1: -282787135
+      RedYokaiGroundSlam-Sheet_10: 1446106312
+      RedYokaiGroundSlam-Sheet_11: -1914407968
+      RedYokaiGroundSlam-Sheet_12: 450481305
+      RedYokaiGroundSlam-Sheet_13: 485241814
+      RedYokaiGroundSlam-Sheet_14: -734586420
+      RedYokaiGroundSlam-Sheet_15: -458721659
+      RedYokaiGroundSlam-Sheet_16: 1224480992
+      RedYokaiGroundSlam-Sheet_2: 150097751
+      RedYokaiGroundSlam-Sheet_3: 1578214817
+      RedYokaiGroundSlam-Sheet_4: -833264200
+      RedYokaiGroundSlam-Sheet_5: -115068612
+      RedYokaiGroundSlam-Sheet_6: 809977983
+      RedYokaiGroundSlam-Sheet_7: 1882642792
+      RedYokaiGroundSlam-Sheet_8: -1174228825
+      RedYokaiGroundSlam-Sheet_9: 1414621986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
