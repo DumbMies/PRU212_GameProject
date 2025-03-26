@@ -28,16 +28,16 @@ public class ThunderYoukaiMoveState : ThunderYoukaiGroundedState
 
         moveTimer += Time.deltaTime;
 
-        if (moveTimer >= moveDuration)
+        if (moveTimer >= moveDuration || !thunderYoukai.IsGroundDetected())
         {
             thunderYoukai.Flip();
             stateMachine.ChangeState(thunderYoukai.idleState);
         }
 
-        if (!thunderYoukai.IsGroundDetected())
-        {
-            thunderYoukai.Flip();
-            stateMachine.ChangeState(thunderYoukai.idleState);
-        }
+        //if (!thunderYoukai.IsGroundDetected())
+        //{
+        //    thunderYoukai.Flip();
+        //    stateMachine.ChangeState(thunderYoukai.idleState);
+        //}
     }
 }
