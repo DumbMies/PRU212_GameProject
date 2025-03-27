@@ -29,13 +29,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4958146134060186833}
-  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 5.75, y: 5.45, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!58 &7085864504773466350
 CircleCollider2D:
@@ -45,37 +45,17 @@ CircleCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4958146134060186833}
   m_Enabled: 1
-  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 64
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 64
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 64
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
+  m_UsedByComposite: 0
   m_Offset: {x: 0.08061123, y: 0.73386765}
+  serializedVersion: 2
   m_Radius: 11.678256
 --- !u!50 &6642938083833771442
 Rigidbody2D:
-  serializedVersion: 5
+  serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -86,16 +66,10 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDamping: 1.5
-  m_AngularDamping: 0.05
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
   m_GravityScale: 0
   m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -108,38 +82,17 @@ CapsuleCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4958146134060186833}
   m_Enabled: 1
-  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 6200000, guid: eb86c35b21ca8394a986c65c9b66b0ea, type: 2}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
   m_IsTrigger: 0
   m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
+  m_UsedByComposite: 0
   m_Offset: {x: 0.010139704, y: -0.05069828}
   m_Size: {x: 0.5608382, y: 1.1013966}
   m_Direction: 0
 --- !u!95 &193026609197016181
 Animator:
-  serializedVersion: 7
+  serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -153,12 +106,10 @@ Animator:
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &3379000206273157698
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -171,12 +122,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0d2dd49c77aae84eb32a0306c7ac687, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lightningWarn: {fileID: 8316304527624817979, guid: a3d579641fcc5cd479fc9e061459fd19, type: 3}
-  lightning: {fileID: 8958474924484849967, guid: 682be70430dc8ea47930bd720466fbaf, type: 3}
-  lightningExplosion: {fileID: 2818680202291666969, guid: 68d9e915524aa084396732de511def69, type: 3}
+  lightningWarn: {fileID: 8316304527624817979, guid: a3d579641fcc5cd479fc9e061459fd19,
+    type: 3}
+  lightning: {fileID: 8958474924484849967, guid: 682be70430dc8ea47930bd720466fbaf,
+    type: 3}
+  lightningExplosion: {fileID: 2818680202291666969, guid: 68d9e915524aa084396732de511def69,
+    type: 3}
+  danmakuPrefab: {fileID: 7612954331209811416, guid: d50184f697e8ca642bc029b2841da5e5,
+    type: 3}
   player: {fileID: 0}
   speed: 3
   waitTime: 1
+  danmakuSpeed: 5
+  fireRate: 2
   pointA: {fileID: 0}
   pointB: {fileID: 0}
 --- !u!212 &382795287001061773
@@ -196,9 +154,6 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -221,9 +176,10 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -844302065
-  m_SortingLayer: 4
+  m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 8373287492821404836, guid: 4b5285523feba71408e07bab425f754e, type: 3}
+  m_Sprite: {fileID: 8373287492821404836, guid: 4b5285523feba71408e07bab425f754e,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

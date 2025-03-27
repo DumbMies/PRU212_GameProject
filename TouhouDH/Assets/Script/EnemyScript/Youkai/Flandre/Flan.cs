@@ -1,6 +1,7 @@
 using Pathfinding;
 using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Flan : MonoBehaviour
 {
@@ -8,10 +9,14 @@ public class Flan : MonoBehaviour
     public GameObject lightningWarn;
     public GameObject lightning;
     public GameObject lightningExplosion;
+    public GameObject danmakuPrefab;
     public Marisa player;
 
     public float speed = 3f;
     public float waitTime = 1f;
+    public float danmakuSpeed = 5f;
+    public float fireRate = 2f;
+
     public Transform pointA;
     public Transform pointB;
 
@@ -22,11 +27,16 @@ public class Flan : MonoBehaviour
     private float lightningCooldown = 0.5f;
     private float lastLightningTime;
 
+    private float stopTime = 76f;
+    private bool hasStopped = false;
+
     void Start()
     {
         animator = GetComponent<Animator>();
         target = pointB.position;
         animator.SetBool("Move", true);
+        StartCoroutine(StopFlanAfterTime());
+        StartCoroutine(FireDanmakuLoop());
     }
 
     void Update()
@@ -97,13 +107,60 @@ public class Flan : MonoBehaviour
 
     private IEnumerator StrikeLightningAfterDelay(Vector3 position, GameObject warning)
     {
-        yield return new WaitForSeconds(1f); // Delay before the lightning strike
+        yield return new WaitForSeconds(1f);
         Destroy(warning);
         GameObject lightningInstance = Instantiate(lightning, position, Quaternion.identity);
         yield return new WaitForSeconds(0.06f);
         GameObject lightningExplosionInstance = Instantiate(lightningExplosion, position, Quaternion.identity);
-        yield return new WaitForSeconds(0.25f); // Delay before destroying the objects
+        yield return new WaitForSeconds(0.25f);
         Destroy(lightningInstance);
         Destroy(lightningExplosionInstance);
+    }
+
+    public void ShootDanmaku()
+    {
+        if (danmakuPrefab == null) return;
+
+        Vector2[] directions = new Vector2[]
+        {
+            Vector2.up, Vector2.down, Vector2.left, Vector2.right,
+            new Vector2(1, 1).normalized, new Vector2(1, -1).normalized,
+            new Vector2(-1, 1).normalized, new Vector2(-1, -1).normalized
+        };
+
+        foreach (Vector2 dir in directions)
+        {
+            GameObject danmaku = Instantiate(danmakuPrefab, transform.position, Quaternion.identity);
+            Rigidbody2D rb = danmaku.GetComponent<Rigidbody2D>();
+            if (rb != null)
+            {
+                rb.velocity = dir * danmakuSpeed;
+            }
+        }
+    }
+
+    private IEnumerator FireDanmakuLoop()
+    {
+        while (true)
+        {
+            yield return new WaitForSeconds(fireRate);
+            ShootDanmaku();
+        }
+    }
+
+    private IEnumerator StopFlanAfterTime()
+    {
+        yield return new WaitForSeconds(stopTime);
+
+        if (!hasStopped)
+        {
+            hasStopped = true;
+            isMoving = false;
+            animator.SetBool("Move", false);
+            animator.SetBool("Idle", true);
+
+            yield return new WaitForSeconds(2f);
+
+        }
     }
 }
