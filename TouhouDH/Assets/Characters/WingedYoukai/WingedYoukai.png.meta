@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: c960e5ceb91b31d43a5da90bd70e0c11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -800588097318226321
+    second: WingedYoukai_0
+  - first:
+      213: 139241873826199851
+    second: WingedYoukai_1
+  - first:
+      213: -202391574637001031
+    second: WingedYoukai_2
+  - first:
+      213: -8089458418929836711
+    second: WingedYoukai_3
+  - first:
+      213: -621946120898389787
+    second: WingedYoukai_4
+  - first:
+      213: 1571339747733942553
+    second: WingedYoukai_5
+  - first:
+      213: -849756133171470385
+    second: WingedYoukai_6
+  - first:
+      213: 1740395625644496990
+    second: WingedYoukai_7
+  - first:
+      213: -2872247050752053612
+    second: WingedYoukai_8
+  - first:
+      213: -5106009288880460619
+    second: WingedYoukai_9
+  - first:
+      213: 8959256223093741362
+    second: WingedYoukai_10
+  - first:
+      213: -5915556581960407019
+    second: WingedYoukai_11
+  - first:
+      213: -6655961392195087841
+    second: WingedYoukai_12
+  - first:
+      213: 2678194542338846846
+    second: WingedYoukai_13
+  - first:
+      213: 451809260248924757
+    second: WingedYoukai_14
+  - first:
+      213: 4311934671928048140
+    second: WingedYoukai_15
+  - first:
+      213: 39743792930545070
+    second: WingedYoukai_16
+  - first:
+      213: -3312692045292086393
+    second: WingedYoukai_17
+  - first:
+      213: -2125536421201109248
+    second: WingedYoukai_18
+  - first:
+      213: -837196969032474967
+    second: WingedYoukai_19
+  - first:
+      213: 2395336008353535646
+    second: WingedYoukai_20
+  - first:
+      213: -2621101901459415358
+    second: WingedYoukai_21
+  - first:
+      213: 3434233270454406240
+    second: WingedYoukai_22
+  - first:
+      213: -2610346622598207216
+    second: WingedYoukai_23
+  - first:
+      213: -7340492181598638406
+    second: WingedYoukai_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WingedYoukai_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 609
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66f0fffd5db3e4f0800000000000000
+      internalID: -800588097318226321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 608
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29354b1fbfaee100800000000000000
+      internalID: 139241873826199851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 608
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6ca386fe5f03df0800000000000000
+      internalID: -202391574637001031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 519
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dd4628d687cbf80800000000000000
+      internalID: -8089458418929836711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 519
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e85b6a5c476e57f0800000000000000
+      internalID: -621946120898389787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 429
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911322ddc258ec510800000000000000
+      internalID: 1571339747733942553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 429
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfda909c4f0534f0800000000000000
+      internalID: -849756133171470385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 429
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e581f2bb990272810800000000000000
+      internalID: 1740395625644496990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 429
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ea2c0768ab328d0800000000000000
+      internalID: -2872247050752053612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 339
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc6f64ca9fc329b0800000000000000
+      internalID: -5106009288880460619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 339
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237d535111ca55c70800000000000000
+      internalID: 8959256223093741362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 339
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518a68371a8b7eda0800000000000000
+      internalID: -5915556581960407019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 339
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f125f7be06641a3a0800000000000000
+      internalID: -6655961392195087841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 338
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e703f7f1fbbda2520800000000000000
+      internalID: 2678194542338846846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 338
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5528e5fd026254600800000000000000
+      internalID: 451809260248924757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 338
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a36fe0db117db30800000000000000
+      internalID: 4311934671928048140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 248
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadd6a3e4c23d8000800000000000000
+      internalID: 39743792930545070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_17
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 248
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b5a1ed224f602d0800000000000000
+      internalID: -3312692045292086393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 248
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f1721f2e39082e0800000000000000
+      internalID: -2125536421201109248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 248
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae19c5dacda164f0800000000000000
+      internalID: -837196969032474967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 248
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e965d979861fd3120800000000000000
+      internalID: 2395336008353535646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_21
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 248
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce196335b9ff9bd0800000000000000
+      internalID: -2621101901459415358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 168
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c4341d6f8d8af20800000000000000
+      internalID: 3434233270454406240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 168
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019a463b39f26cbd0800000000000000
+      internalID: -2610346622598207216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingedYoukai_24
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 168
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abee74f9045512a90800000000000000
+      internalID: -7340492181598638406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WingedYoukai_0: -800588097318226321
+      WingedYoukai_1: 139241873826199851
+      WingedYoukai_10: 8959256223093741362
+      WingedYoukai_11: -5915556581960407019
+      WingedYoukai_12: -6655961392195087841
+      WingedYoukai_13: 2678194542338846846
+      WingedYoukai_14: 451809260248924757
+      WingedYoukai_15: 4311934671928048140
+      WingedYoukai_16: 39743792930545070
+      WingedYoukai_17: -3312692045292086393
+      WingedYoukai_18: -2125536421201109248
+      WingedYoukai_19: -837196969032474967
+      WingedYoukai_2: -202391574637001031
+      WingedYoukai_20: 2395336008353535646
+      WingedYoukai_21: -2621101901459415358
+      WingedYoukai_22: 3434233270454406240
+      WingedYoukai_23: -2610346622598207216
+      WingedYoukai_24: -7340492181598638406
+      WingedYoukai_3: -8089458418929836711
+      WingedYoukai_4: -621946120898389787
+      WingedYoukai_5: 1571339747733942553
+      WingedYoukai_6: -849756133171470385
+      WingedYoukai_7: 1740395625644496990
+      WingedYoukai_8: -2872247050752053612
+      WingedYoukai_9: -5106009288880460619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

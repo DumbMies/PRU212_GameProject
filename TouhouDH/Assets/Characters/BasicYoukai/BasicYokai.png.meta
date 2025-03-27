@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 863b21ef6f4ed2344959bbd40344ea0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3332436657509460207
+    second: BasicYokai_0
+  - first:
+      213: -4929076342831017444
+    second: BasicYokai_1
+  - first:
+      213: 8731828160949808013
+    second: BasicYokai_2
+  - first:
+      213: -856018100418560554
+    second: BasicYokai_3
+  - first:
+      213: 6492422738812035684
+    second: BasicYokai_4
+  - first:
+      213: 671313987948732931
+    second: BasicYokai_5
+  - first:
+      213: -8012394611906392695
+    second: BasicYokai_6
+  - first:
+      213: -8064536884531303390
+    second: BasicYokai_7
+  - first:
+      213: -2483735560105300287
+    second: BasicYokai_8
+  - first:
+      213: 1482833567621223941
+    second: BasicYokai_9
+  - first:
+      213: 6288985413707219818
+    second: BasicYokai_10
+  - first:
+      213: 743415504233379319
+    second: BasicYokai_11
+  - first:
+      213: -4624307988480957124
+    second: BasicYokai_12
+  - first:
+      213: -1681057058742252461
+    second: BasicYokai_13
+  - first:
+      213: -1859737497467632623
+    second: BasicYokai_14
+  - first:
+      213: 1160487150598950327
+    second: BasicYokai_15
+  - first:
+      213: -3920148765530759041
+    second: BasicYokai_16
+  - first:
+      213: 644603978904226261
+    second: BasicYokai_17
+  - first:
+      213: -5561508823029059486
+    second: BasicYokai_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BasicYokai_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 292
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11798a8148ec0c1d0800000000000000
+      internalID: -3332436657509460207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 232
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1296ca7e27689bb0800000000000000
+      internalID: -4929076342831017444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 231
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b6a2df27fad2970800000000000000
+      internalID: 8731828160949808013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 172
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd3f33b210de14f0800000000000000
+      internalID: -856018100418560554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 172
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4626f862518b91a50800000000000000
+      internalID: 6492422738812035684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 172
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3026f68e38cf05900800000000000000
+      internalID: 671313987948732931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 110
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dc01d4d814ec090800000000000000
+      internalID: -8012394611906392695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 110
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ce9776e62051090800000000000000
+      internalID: -8064536884531303390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 111
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceeaefdaaff78dd0800000000000000
+      internalID: -2483735560105300287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 112
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506961bf545149410800000000000000
+      internalID: 1482833567621223941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_10
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 111
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63c1adc9e6f64750800000000000000
+      internalID: 6288985413707219818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 110
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5395a5674215a00800000000000000
+      internalID: 743415504233379319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 47
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c356796926823dfb0800000000000000
+      internalID: -4624307988480957124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 47
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c418ef28faba8e0800000000000000
+      internalID: -1681057058742252461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 47
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114c7ff6992e036e0800000000000000
+      internalID: -1859737497467632623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 47
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd0bd93ae0ea1010800000000000000
+      internalID: 1160487150598950327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 47
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f706ad3b775d899c0800000000000000
+      internalID: -3920148765530759041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 47
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9c36f47e712f800800000000000000
+      internalID: 644603978904226261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicYokai_18
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 47
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260f62c013d81d2b0800000000000000
+      internalID: -5561508823029059486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BasicYokai_0: -3332436657509460207
+      BasicYokai_1: -4929076342831017444
+      BasicYokai_10: 6288985413707219818
+      BasicYokai_11: 743415504233379319
+      BasicYokai_12: -4624307988480957124
+      BasicYokai_13: -1681057058742252461
+      BasicYokai_14: -1859737497467632623
+      BasicYokai_15: 1160487150598950327
+      BasicYokai_16: -3920148765530759041
+      BasicYokai_17: 644603978904226261
+      BasicYokai_18: -5561508823029059486
+      BasicYokai_2: 8731828160949808013
+      BasicYokai_3: -856018100418560554
+      BasicYokai_4: 6492422738812035684
+      BasicYokai_5: 671313987948732931
+      BasicYokai_6: -8012394611906392695
+      BasicYokai_7: -8064536884531303390
+      BasicYokai_8: -2483735560105300287
+      BasicYokai_9: 1482833567621223941
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

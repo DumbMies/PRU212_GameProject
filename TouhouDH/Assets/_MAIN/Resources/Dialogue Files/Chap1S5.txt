@@ -1,0 +1,143 @@
+﻿HideDB(-immediate true)
+
+
+CreateCharacter(Marisa -e false -i false)
+CreateCharacter(Flandre -e false -i false)
+CreateCharacter(Remilia -e false -i false)
+CreateCharacter(Reimu -e false -i false)
+
+
+Marisa.SetSprite(Mar09)
+Flandre.SetSprite(Fla01)
+Remilia.SetSprite(Rem01)
+Reimu.SetSprite(Rei01)
+
+
+
+[wait]SetLayerMedia(background "B000012" -spd 0.3)
+ShowUI()
+Marisa.SetPosition(0.5)
+Flandre.SetPosition(0.5)
+
+
+PlaySong("Aigin")
+
+Show(Marisa)
+Marisa.SetSprite(Mar01)
+Marisa as Marisa Kirisame "Haa…"
+
+Hide(Marisa)
+Narrator "Bụi tro bay lửng lơ trong không khí, lẫn với hương khói và hơi nóng từ những vệt cháy xém trên mặt đất."
+Narrator "Những vết rạn của Đạn Mạc vẫn còn lơ lửng trên không, ánh lên những tia sáng yếu ớt trước khi tàn lụi vào màn đêm."
+Narrator "Marisa đứng giữa chiến trường ấy, nhưng không phải với dáng vẻ của một kẻ chiến thắng."
+
+Show(Flandre)
+Flandre.SetSprite(Fla04)
+Flandre as Hồng Ma Tiểu Muội "Chết tiệt…"
+
+Hide(Flandre)
+Narrator "Trước mặt, đối thủ cô gục xuống một đầu gối, mái tóc vàng rối bời đầy bụi và máu."
+
+Show(Marisa)
+Marisa.SetSprite(Mar09)
+Marisa as Marisa Kirisame "Kết thúc rồi, đừng cố gắng nữa, yokai…"
+
+Hide(Marisa)
+Show(Flandre)
+Flandre.SetSprite(Fla07)
+Flandre as Hồng Ma Tiểu Muội "Ha… {wa 0.2}Haha… {wa 0.4}Cái nhìn đó là gì chứ?"
+
+Narrator "Ngước mặt lên, Hồng Ma yokai nhìn thẳng vào Marisa với một ánh nhìn mà cô chắc chắn sẽ rất lâu mới có thể quên được."
+
+Flandre.SetSprite(Fla09)
+Flandre as Hồng Ma Tiểu Muội "Lũ con người các ngươi lúc nào cũng vậy…"
+Flandre as Hồng Ma Tiểu Muội "Để tự huyễn hoặc bản thân là chính nghĩa, các ngươi phải tin rằng lỗi lầm đến từ ai đó khác…"
+
+Hide(Flandre)
+Show(Marisa)
+Marisa.SetSprite(Mar01)
+Marisa as Marisa Kirisame "Tôi chưa từng nói tôi sẽ làm việc này vì chính nghĩa…"
+
+Hide(Marisa)
+Show(Flandre)
+Flandre.SetSprite(Fla09)
+Flandre as Hồng Ma Tiểu Muội "Vô ích thôi.{a} Dù có nói tiếp, ta và ngươi cũng sẽ chả bao giờ đồng ý về cái gì đâu."
+
+Flandre.SetSprite(Fla07)
+Flandre as Hồng Ma Tiểu Muội "Nên là làm điều ngươi phải làm đi."
+
+Hide(Flandre)
+Show(Marisa)
+Marisa.SetSprite(Mar09)
+Marisa as Marisa Kirisame "…"
+Marisa as Marisa Kirisame "Tên cô là gì, yokai?"
+
+Hide(Marisa)
+Show(Flandre)
+Flandre.SetSprite(Fla05)
+Flandre as Hồng Ma Tiểu Muội "..."
+
+Flandre.SetSprite(Fla09)
+Flandre as Hồng Ma Tiểu Muội "…Flandre."
+Flandre as Flandre Scarlet "Flandre Scarlet."
+
+Hide(Flandre)
+Show(Marisa)
+Marisa.SetSprite(Mar09)
+Marisa as Marisa Kirisame "…Cô nói đúng, Flandre."
+Marisa as Marisa Kirisame "Có lẽ chúng ta sẽ chả bao giờ đồng ý với nhau về điều gì cả…"
+
+PlaySFX("Surprise 2")
+Marisa.SetSprite(Mar02)
+Marisa as Marisa Kirisame "…Thế nên tôi cũng sẽ không đồng ý về việc lấy mạng cô."
+
+Hide(Marisa)
+Show(Flandre)
+Flandre.SetSprite(Fla05)
+Flandre as Flandre Scarlet "…Hả?"
+
+Flandre.SetSprite(Fla04)
+Flandre as Flandre Scarlet "Ngươi cho rằng làm như vậy sẽ chứng minh được rằng ngươi tốt đẹp hơn ta hay sao!?"
+
+Hide(Flandre)
+Show(Marisa)
+Marisa.SetSprite(Mar01)
+Marisa as Marisa Kirisame "Tôi không hề nghĩ như vậy."
+
+Marisa.SetSprite(Mar02)
+Marisa as Marisa Kirisame "Cô cũng đã tha mạng cho tôi lần trước không phải sao? Tôi làm điều tương tự là huề nhau còn gì?"
+
+Hide(Marisa)
+Show(Flandre)
+Flandre.SetSprite(Fla09)
+Flandre as Flandre Scarlet "…Ta đã phạm sai lầm lần đó."
+
+Flandre.SetSprite(Fla04)
+Flandre as Flandre Scarlet "Nếu ngươi lưỡng lự, ngươi sẽ hối hận đấy! Lần tới ta chắc chắn sẽ lấy mạng ngươi"
+
+Hide(Flandre)
+
+PlaySFX("Walking 2")
+Narrator "Marisa không đáp, lặng lẽ ngoảnh mặt bỏ đi khỏi đống đổ nát."
+Narrator "Flandre vẫn ngồi đó,{wa 0.3} nhìn theo bóng dáng cô,{wa 0.3} như thể muốn hét lên điều gì đó… {wa 0.5}Nhưng lại không thể thốt thành lời."
+Narrator "Tiếng bước chân Marisa dần xa, nhưng trước khi hoàn toàn biến mất, giọng cô vang lên, lẫn trong làn gió mang theo tàn tro còn sót lại trên chiến trường."
+
+ClearLayerMedia(background)
+SetLayerMedia(background "B000013")
+Marisa as Marisa Kirisame "Nếu còn quý cái mạng mình,{wa 0.3} thì tốt nhất đừng có tìm tới tôi nữa."
+
+Narrator "Đó là lần đầu tiên trong suốt hàng ngàn năm,{wa 0.4} một Yêu Khước Sư đã không xuống tay với một yokai."
+Narrator "Lý do gì để Marisa làm như vậy,{wa 0.3} Flandre chẳng thể nào hiểu."
+Narrator "Không,{wa 0.2} có lẽ chính Marisa cũng tự hỏi bản thân lý do cho việc đó."
+
+ClearLayerMedia(background -spd 0.5)
+Narrator "Nhưng một điều nhỏ bé,{wa 0.3} một quyết định mơ hồ như vậy…"
+Narrator "…Phải chăng rồi cũng sẽ mãi rơi vào sự quên lãng giữa bề dày lịch sử rộng lớn của Ảo Tưởng Hương?"
+
+StopSong("Aigin")
+
+HideUI()
+HideDB()
+wait(4)
+
+Load(Chap1S6)

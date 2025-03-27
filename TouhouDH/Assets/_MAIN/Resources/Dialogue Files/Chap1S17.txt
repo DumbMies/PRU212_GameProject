@@ -1,0 +1,230 @@
+﻿[wait]SetLayerMedia(background "CNPL")
+ShowUI()
+Reimu.SetPosition(0.5)
+Marisa.SetPosition(0.5)
+
+PlaySFX("Dramatic 3")
+
+Marisa as Marisa Kirisame "Đây là…"
+
+Narrator "Nắm trên tay cả hai viên pha lê, chúng phát sáng một cách rực rỡ trước khi hòa thành một, lấp lánh ánh sáng tím huyền ảo."
+
+Reimu as Reimu Hakurei "Chân Ngã Pha Lê."
+
+Marisa as Marisa Kirisame "…Hả?"
+
+HideUI()
+HideDB()
+
+ClearLayerMedia(background -spd 0.5)
+[wait]SetLayerMedia(background "B000028" -spd 0.5)
+
+ShowUI()
+ShowDB()
+
+PlaySong("Eternal Shrine Maiden" -vol 1.2)
+
+Show(Reimu)
+Reimu.SetSprite(Rei10)
+Reimu as Reimu Hakurei "Đó là Chân Ngã Pha Lê, kết tinh của Tự Ngã Pha Lê và Vô Ngã Pha Lê."
+Reimu as Reimu Hakurei "Là viên pha lê có thể thực hiện được kì tích trong truyền thuyết."
+
+Hide(Reimu)
+Show(Marisa)
+Marisa.SetSprite(Mar08)
+Marisa as Marisa Kirisame "..."
+
+Hide(Marisa)
+Show(Reimu)
+Reimu.SetSprite(Rei00)
+Reimu as Reimu Hakurei "Nào, Marisa."
+
+Hide(Reimu)
+PlaySFX("Step 2")
+Narrator "Reimu bước tới, dang tay ra về phía người bạn của mình."
+
+Show(Reimu)
+Reimu.SetSprite(Rei10)
+Reimu as Reimu Hakurei "Đưa nó cho tớ, tớ sẽ kết thúc cái cuộc chiến này ngay bây giờ."
+
+Reimu.SetSprite(Rei04)
+Reimu as Reimu Hakurei "Khi mọi thứ kết thúc, cậu sẽ không còn vướng bận bởi điều gì nữa."
+Reimu as Reimu Hakurei "Cậu cuối cùng cũng sẽ có thể có một cuộc sống bình thường rồi, Marisa."
+
+Hide(Reimu)
+Show(Marisa)
+Marisa.SetSprite(Mar01)
+Marisa as Marisa Kirisame "…Bằng cách giết toàn bộ yokai sao?"
+
+Hide(Marisa)
+Show(Reimu)
+Reimu.SetSprite(Rei10)
+Reimu as Reimu Hakurei "Là “loại bỏ hiểm họa”."
+
+Hide(Reimu)
+Show(Marisa)
+Marisa.SetSprite(Mar08)
+Marisa as Marisa Kirisame "Kể cả những yokai vô tội mong muốn hòa bình á?"
+
+Hide(Marisa)
+Show(Reimu)
+Reimu.SetSprite(Rei01)
+Reimu as Reimu Hakurei "Những yokai “vô tội” đó, sau khi mất đi đồng loại của mình, chắc chắn sẽ săn lùng những kẻ đã trừ khử toàn bộ chủng tộc chúng đấy."
+
+Hide(Reimu)
+Show(Marisa)
+Marisa.SetSprite(Mar09)
+Marisa as Marisa Kirisame "Vậy nên cậu sẽ giết sạch để đề phòng hậu họa?"
+
+Hide(Marisa)
+Show(Reimu)
+Reimu.SetSprite(Rei10)
+Reimu as Reimu Hakurei "Marisa…"
+Reimu as Reimu Hakurei "Cách duy nhất để chiến tranh kết thúc… {wa 0.5}Là có một bên chiến thắng."
+
+Hide(Reimu)
+Show(Marisa)
+Marisa.SetSprite(Mar01)
+Marisa as Marisa Kirisame "..."
+Marisa as Marisa Kirisame "Cậu không nhận ra những gì cậu nói y hệt Remilia sao, Reimu?"
+
+[wait]SetLayerMedia(cinematic "B000001" -spd 5)
+ClearLayerMedia(cinematic -spd 5)
+
+PlaySFX("Hit 2")
+Marisa.SetSprite(Mar07)
+Marisa as Marisa Kirisame "Những gì cậu nói chẳng khác gì với những yokai mà cậu căm hận cả!"
+
+Hide(Marisa)
+Show(Reimu)
+Reimu.SetSprite(Rei01)
+Reimu as Reimu Hakurei "Đừng cố tình hiểu sai ý tớ."
+
+Hide(Reimu)
+Show(Marisa)
+Marisa.SetSprite(Mar07)
+Marisa as Marisa Kirisame "Cả hai đều cho rằng nếu mang danh “hòa bình” thì sẽ có quyền tước đi bao nhiêu sinh mạng cũng được không phải sao!?"
+
+Hide(Marisa)
+
+[wait]SetLayerMedia(cinematic "B000001" -spd 5)
+ClearLayerMedia(cinematic -spd 5)
+
+Show(Reimu)
+PlaySFX("Hit 2")
+Reimu.SetSprite(Rei07)
+Reimu as Reimu Hakurei "Tớ không làm điều này vì tớ có quyền để làm điều đó!"
+Reimu as Reimu Hakurei "Tớ làm điều này vì đó là những gì cần thiết phải làm!"
+
+Reimu.SetSprite(Rei01)
+Reimu as Reimu Hakurei "Ảo Tưởng Hương này không phải một nơi mà hòa bình giữa con người và yokai là khả thi."
+
+Hide(Reimu)
+Show(Marisa)
+Marisa.SetSprite(Mar01)
+Marisa as Marisa Kirisame "Đó mới là lý do ta phải đấu tranh cho điều đó, không phải sao!?"
+Marisa as Marisa Kirisame "Để khiến Ảo Tưởng Hương trở thành một nơi tốt đẹp hơn."
+
+Marisa.SetSprite(Mar09)
+Marisa as Marisa Kirisame "Và việc để phân nửa sinh linh sống tại đấy tuyệt chủng không phải là cách để làm điều đó."
+
+Hide(Marisa)
+Show(Reimu)
+Reimu.SetSprite(Rei01)
+Reimu as Reimu Hakurei "Vậy cách của cậu là gì, Marisa?"
+
+Hide(Reimu)
+Show(Marisa)
+Marisa.SetSprite(Mar08)
+Marisa as Marisa Kirisame "Tớ sẽ dùng viên pha lê này để biến Flan trở thành con người…"
+
+Hide(Marisa)
+Show(Reimu)
+Reimu.SetSprite(Rei10)
+Reimu as Reimu Hakurei "Đứa em gái của con yokai mà cậu vừa giết sao?"
+
+Hide(Reimu)
+Show(Marisa)
+Marisa.SetSprite(Mar01)
+Marisa as Marisa Kirisame "…Flan sẽ hiểu."
+
+Hide(Marisa)
+Show(Reimu)
+Reimu.SetSprite(Rei07)
+Reimu as Reimu Hakurei "Hiểu cái gì?"
+Reimu as Reimu Hakurei "Nếu như có một con yokai lấy mạng cậu thì điều tớ hiểu ra sẽ là kẻ đó cần phải chết đấy."
+
+Hide(Reimu)
+Show(Marisa)
+Marisa.SetSprite(Mar07)
+Marisa as Marisa Kirisame "Flan cần tớ, Reimu!"
+
+Hide(Marisa)
+Show(Reimu)
+Reimu.SetSprite(Rei10)
+Reimu as Reimu Hakurei "Tớ cũng vậy mà…"
+
+Hide(Reimu)
+Show(Marisa)
+Marisa.SetSprite(Mar01)
+Marisa as Marisa Kirisame "…"
+
+Hide(Marisa)
+
+HideUI()
+HideDB()
+
+ClearLayerMedia(background -spd 0.5)
+[wait]SetLayerMedia(background "B000029" -spd 0.5)
+
+ShowUI()
+ShowDB()
+
+Reimu as Reimu Hakurei "…Cậu sẽ mất mạng nếu cậu làm chuyện này đấy…"
+
+Marisa as Marisa Kirisame "…Và hàng triệu mạng sống sẽ mất nếu tớ không làm."
+
+PlaySFX("Walking 2")
+Narrator "Quay lưng lại, Marisa hướng về nơi đã hẹn với Flandre."
+Narrator "Reimu nghiến răng, ánh mắt ngập tràn tuyệt vọng khi nhìn bóng lưng người bạn thân nhất rời đi."
+
+Reimu as Reimu Hakurei "Đứng lại, Marisa!"
+
+Narrator "Giương pháp cụ lên, Yêu Khước Sư áo đỏ hướng thẳng luồng Đạn Mạc của mình về phía Marisa."
+
+Marisa as Marisa Kirisame "Nếu cậu định làm như vậy thì nhắm cho chuẩn đấy."
+Marisa as Marisa Kirisame "Cậu biết rõ cậu sẽ không ngăn được tớ bằng cách nào khác đâu."
+
+Reimu as Reimu Hakurei "Cậu biết rõ tớ sẽ không để người thân của mình tự đi vào chỗ chết mà!"
+
+Marisa as Marisa Kirisame "…Tớ cũng vậy."
+
+Reimu as Reimu Hakurei "Tại sao… {wa 1}Tại sao chứ!?"
+
+Marisa as Marisa Kirisame "Vì tớ muốn tin rằng… {wa 0.5}Ảo Tưởng Hương này sẽ có một cuộc sống bình thường."
+
+Reimu as Reimu Hakurei "…!"
+
+PlaySFX("Danmaku" -vol 2)
+Reimu as Reimu Hakurei "Marisa!!!"
+
+Narrator "Reimu run rẩy trước khi nhắm thẳng đòn Đạn Mạc của cô lên bầu trời thay cho một tiếng thét nghẹn ngào."
+
+Reimu as Reimu Hakurei "…Cậu muốn chết đến vậy sao?"
+
+Marisa as Marisa Kirisame "Không,{wa 0.3} tớ muốn tin rằng mình đã sống."
+
+ClearLayerMedia(background)
+
+PlaySFX("Fall 2")
+
+Narrator "Reimu quỳ sụp xuống, siết chặt tay thành nắm đấm, trong khi Marisa tiếp tục bước đi."
+Narrator "Không ai nhìn lại.{a} Không ai nói thêm lời nào."
+
+StopSong("Eternal Shrine Maiden")
+
+HideUI()
+HideDB()
+wait(3)
+
+Load(Chap1S18)

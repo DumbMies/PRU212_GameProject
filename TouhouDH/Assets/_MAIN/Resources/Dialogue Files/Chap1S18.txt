@@ -1,0 +1,107 @@
+﻿[wait]SetLayerMedia(background "B000023")
+ShowUI()
+Marisa.SetPosition(0.5)
+Flandre.SetPosition(0.5)
+
+PlaySong("Dissonance Harmony" -immediate true)
+
+Narrator "Khi Marisa bước chân đến với cánh đồng hoa trắng mà cô và Flandre vẫn hay dành thời gian cùng với nhau, cô gái yokai đã ở đó."
+
+Show(Marisa)  
+Marisa.SetSprite(Mar08)  
+Marisa as Marisa Kirisame "Flan…"  
+
+Hide(Marisa)
+Narrator "Marisa tiến lại gần, mở lòng bàn tay để đưa Chân Ngã Pha Lê cho Flandre.  
+
+PlaySFX("Crystal Break")
+Narrator "Ngay khi ánh sáng từ viên pha lê rọi lên, một đòn Đạn Mạc sượt ngang qua tay Marisa, hoàn toàn phá vỡ nó."  
+
+Show(Marisa)  
+Marisa.SetSprite(Mar08)  
+Marisa as Marisa Kirisame "..."
+
+Marisa.SetSprite(Mar01)  
+Marisa as Marisa Kirisame "…Đó là lựa chọn của cậu sao, Flan?"  
+
+Hide(Marisa)  
+Flandre as Flandre Scarlet "Viên pha lê đó…"
+
+[wait]SetLayerMedia(cinematic "B000005" -spd 5)
+ClearLayerMedia(cinematic -spd 5)
+
+PlaySFX("Slam Echo")
+
+Show(Flandre)  
+Flandre.SetSprite(Fla04)
+Flandre as Flandre Scarlet "Viên pha lê đó đã cướp đi mọi thứ mà ta có!"  
+
+Hide(Flandre)
+Show(Marisa)
+Marisa.SetSprite(Mar09)  
+Marisa as Marisa Kirisame "Nó đã cướp đi rất nhiều thứ của rất nhiều người."  
+
+Hide(Marisa)
+Show(Flandre)  
+Flandre.SetSprite(Fla04)
+Flandre as Flandre Scarlet "Ta đã nói với chị ấy về hòa bình…{a} Về việc ngưng để yokai phải mất mạng…"
+Flandre as Flandre Scarlet "…Ấy vậy mà ta chả thể ngưng nổi việc để chị ấy mất mạng!"  
+
+Hide(Flandre)
+Show(Marisa)
+Marisa.SetSprite(Mar01) 
+Marisa as Marisa Kirisame "Remilia đã định mạt sát tất cả dân làng, Flan…"
+Marisa as Marisa Kirisame "Họ còn có cuộc sống của họ…"
+
+Hide(Marisa)
+Show(Flandre)
+Flandre.SetSprite(Fla04)
+Flandre as Flandre Scarlet "Thượng Tỷ ta thì sao!?"
+
+Flandre.SetSprite(Fla09)
+Flandre as Flandre Scarlet "Chị ấy có cuộc sống không…?"  
+
+Hide(Flandre)
+Show(Marisa)
+Marisa.SetSprite(Mar08)  
+Marisa as Marisa Kirisame "…Flan-"
+
+Hide(Marisa)
+Show(Flandre)
+Flandre.SetSprite(Fla09)
+Flandre as Flandre Scarlet "Ngươi có gọi việc để kẻ sát hại gia đình mình hít thở chung một bầu không khí với mình… {wa 1}Là công lý không?"  
+
+Hide(Flandre)
+ClearLayerMedia(background)
+PlaySFX("Wing Flap")
+Narrator "Flandre bay lên cao, luồng sát khí tỏa ra từ cô nhuộm đỏ cả bầu trời."  
+
+HideUI()
+HideDB()
+
+[wait]SetLayerMedia(cinematic "CG000009")
+
+ShowUI()
+Flandre as Flandre Scarlet "Kết thúc chuyện này đi."  
+
+
+Marisa as Marisa Kirisame "Tớ sẽ không đánh với cậu đâu, Flan."  
+
+Flandre as Flandre Scarlet "Số phận của con người và yokai là để giết lẫn nhau."  
+
+
+Marisa as Marisa Kirisame "Không có thứ gì trên đời này là số phận cả."
+Marisa as Marisa Kirisame "Ta <b>luôn luôn</b> có sự lựa chọn…"  
+
+Flandre as Flandre Scarlet "...""
+Flandre as Flandre Scarlet "Có lẽ trong một kiếp khác, Marisa."  
+
+StopSong("Dissonance Harmony")
+ClearLayerMedia(cinematic -spd 0.5)
+
+
+HideUI()
+HideDB()
+wait(3)
+
+LoadScene4()

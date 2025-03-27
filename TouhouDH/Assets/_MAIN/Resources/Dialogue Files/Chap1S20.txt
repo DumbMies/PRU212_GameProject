@@ -1,0 +1,101 @@
+﻿ShowUI()
+Marisa.SetPosition(0.5)
+Flandre.SetPosition(0.5)
+Narrator "Ảo Tưởng Hương, mùa Đông một năm sau."
+
+HideUI()
+HideDB()
+
+
+[wait]SetLayerMedia(background "B000032" -spd 0.3)
+
+PlaySong("Last Scene")
+
+
+Other as Trẻ con "Chị Reimu! {wa 0.5}Chị Reimu!"
+
+Show(Reimu)
+Reimu.SetSprite(Rei01)
+Reimu as Reimu Hakurei "Không thấy chị đang bận quét vườn sao?"
+
+Hide(Reimu)
+Other as Trẻ con "Mấy bạn yokai lại bị bọn bắt nạt trong làng đánh nữa rồi!"
+
+Show(Reimu)
+Reimu.SetSprite(Rei06)
+Reimu as Reimu Hakurei "Lại nữa à!?"
+
+Reimu.SetSprite(Rei07)
+Reimu as Reimu Hakurei "Được rồi, chị sẽ đến xem ngay."
+
+Hide(Reimu)
+PlaySFX("Run 5")
+
+Other as Yokai nhỏ "Chị Reimu, tụi em về rồi!"
+
+Show(Reimu)
+Reimu.SetSprite(Rei09)
+Reimu as Reimu Hakurei "Hả? {wa 0.5}Không phải mấy đứa…"
+
+
+Hide(Reimu)
+Other as Yokai nhỏ "Đúng là bọn em có bị mấy bạn trong làng dọa nhưng chúng chưa kịp làm gì thì chị tóc vàng kia đã đứng ra đuổi chúng đi đó!"
+
+Show(Reimu)
+Reimu.SetSprite(Rei09)
+Reimu as Reimu Hakurei "…Tóc vàng sao?"
+
+
+Hide(Reimu)
+Other as Yokai nhỏ "A! {wa 0.3}Chị ấy kìa!"
+
+StopSong("Last Scene")
+PlaySFX("Horror Surprise")
+
+Show(Reimu)
+Reimu.SetSprite(Rei06)
+Reimu as Reimu Hakurei "…!"
+
+PlaySFX("Wind 4")
+
+Hide(Reimu)
+Flandre as ??? "..."
+
+Show(Reimu)
+Reimu.SetSprite(Rei07)
+Reimu as Reimu Hakurei "Cô!"
+
+Hide(Reimu)
+Other as Trẻ con "Chị quen chị ấy hả, chị Reimu?"
+
+Show(Reimu)
+Reimu.SetSprite(Rei10)
+Reimu as Reimu Hakurei "..."
+Reimu as Reimu Hakurei "…Ừ."
+Reimu as Reimu Hakurei "Cô ấy là…"
+
+Reimu.SetSprite(Rei04)
+Reimu as Reimu Hakurei "…Một người vô cùng quan trọng đối với bạn thân của chị."
+
+Hide(Reimu)
+Flandre as ??? "........."
+
+HideUI()
+HideDB()
+
+ClearLayerMedia(background -spd 0.5)
+[wait]SetLayerMedia(cinematic "CG000011" -spd 0.5)
+
+Flandre as ??? "Cảm ơn cô,{wa 0.5} Reimu."
+
+HideUI()
+HideDB()
+
+[wait]ClearLayerMedia(cinematic -spd 0.5)
+
+wait(5)
+
+GoHome()
+
+
+

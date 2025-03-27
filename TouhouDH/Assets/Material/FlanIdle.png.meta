@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: 4b5285523feba71408e07bab425f754e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8373287492821404836
+    second: FlanIdle_0
+  - first:
+      213: -7739894917053473377
+    second: FlanIdle_1
+  - first:
+      213: -7541430035288708838
+    second: FlanIdle_2
+  - first:
+      213: 6409408603494480276
+    second: FlanIdle_3
+  - first:
+      213: 1836802204749712253
+    second: FlanIdle_4
+  - first:
+      213: -6249000105805415759
+    second: FlanIdle_5
+  - first:
+      213: -6028990929673599396
+    second: FlanIdle_6
+  - first:
+      213: -1436734107424633667
+    second: FlanIdle_7
+  - first:
+      213: -7756164359794024401
+    second: FlanIdle_8
+  - first:
+      213: 3780463824629638156
+    second: FlanIdle_9
+  - first:
+      213: -6553960283600574246
+    second: FlanIdle_10
+  - first:
+      213: 3297634704944521185
+    second: FlanIdle_11
+  - first:
+      213: -838469945238051821
+    second: FlanIdle_12
+  - first:
+      213: 3829177856959501562
+    second: FlanIdle_13
+  - first:
+      213: -1422000428790640919
+    second: FlanIdle_14
+  - first:
+      213: -106598860170514863
+    second: FlanIdle_15
+  - first:
+      213: 8459021711186320523
+    second: FlanIdle_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlanIdle_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 97
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac47d37c94e33470800000000000000
+      internalID: 8373287492821404836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlanIdle_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 11
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19a720d655775790800000000000000
+      internalID: -7541430035288708838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlanIdle_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 11
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bc2c89fd1ad7910800000000000000
+      internalID: 1836802204749712253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlanIdle_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 11
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baf61c23871749a0800000000000000
+      internalID: -6249000105805415759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlanIdle_6
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 11
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56c0c241b8b45ca0800000000000000
+      internalID: -6028990929673599396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlanIdle_7
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 10
+        width: 94
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc444201f1bf0ce0800000000000000
+      internalID: -1436734107424633667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlanIdle_8
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 11
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20aee2db919c5490800000000000000
+      internalID: -7756164359794024401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlanIdle_10
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 11
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad828ffa8d7ab05a0800000000000000
+      internalID: -6553960283600574246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 50e6490fa79b0a84f85597b893719dd3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FlanIdle_0: 8373287492821404836
+      FlanIdle_1: -7739894917053473377
+      FlanIdle_10: -6553960283600574246
+      FlanIdle_11: 3297634704944521185
+      FlanIdle_12: -838469945238051821
+      FlanIdle_13: 3829177856959501562
+      FlanIdle_14: -1422000428790640919
+      FlanIdle_15: -106598860170514863
+      FlanIdle_16: 8459021711186320523
+      FlanIdle_2: -7541430035288708838
+      FlanIdle_3: 6409408603494480276
+      FlanIdle_4: 1836802204749712253
+      FlanIdle_5: -6249000105805415759
+      FlanIdle_6: -6028990929673599396
+      FlanIdle_7: -1436734107424633667
+      FlanIdle_8: -7756164359794024401
+      FlanIdle_9: 3780463824629638156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: 74bbdc3fc10e5994ebefb48c5ba12200
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8017121671476685336
+    second: tZonCt_0
+  - first:
+      213: -5379476675773010826
+    second: tZonCt_1
+  - first:
+      213: -7246172622289588528
+    second: tZonCt_2
+  - first:
+      213: 4056108871129249777
+    second: tZonCt_3
+  - first:
+      213: -6090132224879076551
+    second: tZonCt_4
+  - first:
+      213: -3426222838157675161
+    second: tZonCt_5
+  - first:
+      213: -1585348994700067651
+    second: tZonCt_6
+  - first:
+      213: 2236199743129266381
+    second: tZonCt_7
+  - first:
+      213: 5529416125906600072
+    second: tZonCt_8
+  - first:
+      213: -7536530808462798276
+    second: tZonCt_9
+  - first:
+      213: -2053657333954663901
+    second: tZonCt_10
+  - first:
+      213: 1058946057072145954
+    second: tZonCt_11
+  - first:
+      213: 5351862420862609751
+    second: tZonCt_12
+  - first:
+      213: -943675344738056961
+    second: tZonCt_13
+  - first:
+      213: -6775647002308183820
+    second: tZonCt_14
+  - first:
+      213: 8750472314325267788
+    second: tZonCt_15
+  - first:
+      213: 5676633058949988337
+    second: tZonCt_16
+  - first:
+      213: 4650647138471364233
+    second: tZonCt_17
+  - first:
+      213: -6745140885304659587
+    second: tZonCt_18
+  - first:
+      213: 4647581289294657927
+    second: tZonCt_19
+  - first:
+      213: 5701077856064227157
+    second: tZonCt_20
+  - first:
+      213: -8784766161992796932
+    second: tZonCt_21
+  - first:
+      213: -6067881350317510071
+    second: tZonCt_22
+  - first:
+      213: 3791814952848178358
+    second: tZonCt_23
+  - first:
+      213: 549267894790076152
+    second: tZonCt_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tZonCt_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 303
+        width: 184
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a24750fa9824f60800000000000000
+      internalID: 8017121671476685336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 305
+        width: 184
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cec0f07724855b0800000000000000
+      internalID: -5379476675773010826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_2
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 308
+        width: 184
+        height: 585
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dea443546c607b90800000000000000
+      internalID: -7246172622289588528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_3
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 310
+        width: 112
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f738f137813a4830800000000000000
+      internalID: 4056108871129249777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_4
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 696
+        width: 118
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b5ce422018b7ba0800000000000000
+      internalID: -6090132224879076551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_5
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 507
+        width: 218
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765f74a4b7c9370d0800000000000000
+      internalID: -3426222838157675161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_6
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 732
+        width: 154
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc31e52d75bff9e0800000000000000
+      internalID: -1585348994700067651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_7
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 519
+        width: 179
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc82a0881d3980f10800000000000000
+      internalID: 2236199743129266381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 314
+        width: 99
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880caff9bae6cbc40800000000000000
+      internalID: 5529416125906600072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_9
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 317
+        width: 184
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3299c2f82dd86790800000000000000
+      internalID: -7536530808462798276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 39
+        width: 222
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aa1471981ff73e0800000000000000
+      internalID: -2053657333954663901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 181
+        width: 604
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3605052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 302, y: 32}
+        - {x: -302, y: 31}
+        - {x: -302, y: -18}
+        - {x: 302, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226f51014d122be00800000000000000
+      internalID: 1058946057072145954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_12
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 152
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75927423482a54a40800000000000000
+      internalID: 5351862420862609751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_13
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 69
+        width: 65
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff40895164467e2f0800000000000000
+      internalID: -943675344738056961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_14
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 148
+        width: 57
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8faf743f018f1a0800000000000000
+      internalID: -6775647002308183820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_15
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 166
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c457f38353cef6970800000000000000
+      internalID: 8750472314325267788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 84
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fff3f6e0b377ce40800000000000000
+      internalID: 5676633058949988337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 73
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986c548aeea6a8040800000000000000
+      internalID: 4650647138471364233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 74
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71b3732a127462a0800000000000000
+      internalID: -6745140885304659587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_19
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 57
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789f8250f868f7040800000000000000
+      internalID: 4647581289294657927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_20
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 65
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557cd8fba1c4e1f40800000000000000
+      internalID: 5701077856064227157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_21
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 66
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf43c8728bd361680800000000000000
+      internalID: -8784766161992796932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_22
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 56
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9427b179f0e8acba0800000000000000
+      internalID: -6067881350317510071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_23
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 52
+        width: 57
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcb7861c9b3f9430800000000000000
+      internalID: 3791814952848178358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_24
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 70
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f63d7b7d346f9700800000000000000
+      internalID: 549267894790076152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_25
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 327
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62df3b43803bfe148af07f563cfd6288
+      internalID: 1152632717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tZonCt_26
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 93
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3989dfd1ebaa76c47b6b4fdc016b5ff8
+      internalID: 694974346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8e2ae2e7036423d43aa70f5f781b828a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tZonCt_25: 1152632717
+      tZonCt_26: 694974346
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

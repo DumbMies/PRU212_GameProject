@@ -1,0 +1,166 @@
+﻿HideDB(-immediate true)
+
+
+CreateCharacter(Marisa -e false -i false)
+CreateCharacter(Flandre -e false -i false)
+CreateCharacter(Remilia -e false -i false)
+CreateCharacter(Reimu -e false -i false)
+
+
+Marisa.SetSprite(Mar09)
+Flandre.SetSprite(Fla01)
+Remilia.SetSprite(Rem01)
+Reimu.SetSprite(Rei01)
+
+
+
+[wait]SetLayerMedia(background "B000006" -spd 0.3)
+ShowUI()
+Marisa.SetPosition(0.5)
+Flandre.SetPosition(0.5)
+
+startrain()
+PlaySong("Gloomy Rain")
+
+Show(Marisa)
+Marisa.SetSprite(Mar08)
+Marisa as Marisa Kirisame "Haa… {wa 0.5}Haa… {wa 0.5}Haa…"
+
+Narrator "Luôn là như vậy, trước khi có thể nhận ra, Marisa lại một lần nữa đứng giữa biển xác yokai."
+Narrator "Hơi thở cô hòa vào màn đêm, chậm rãi, nặng nhọc."
+
+Hide(Marisa)
+ClearLayerMedia(background)
+HideUI()
+HideDB()
+wait(2)
+
+PlaySong("Ishoku Sokuhatsu" -channel 2)
+ShowUI()
+
+Flandre as ??? "Con người… {wa 0.5}ư…?"
+
+[wait]SetLayerMedia(background "B000006")
+
+Narrator "Mặc cho cơ thể cảm giác như đã rã rời lúc này, cái luồng ma lực đến từ sau lưng Marisa lạnh đến mức cô khó mà có thể không cảm nhận được."
+Narrator "Nhưng cơn lạnh gáy đó không phải vì sợ hãi, mà là bản năng, phản ứng khi cảm nhận được một thứ gì đó lẽ ra không nên xuất hiện ở đây."
+
+Flandre as ??? "Có thật là… {wa 0.5}Con người không…?"
+
+Show(Marisa)
+Marisa.SetSprite(Mar07)
+Marisa as Marisa Kirisame "Định trốn đến khi nào nữa?"
+
+Hide(Marisa)
+Narrator "Ngoảnh mặt lại, ánh mắt Marisa hướng về phía sâu trong những luồng cây đã bị bóng tối che kín."
+Narrator "Nơi âm thanh tông cao đó phát ra, vang vọng giữa rừng tre."
+
+Flandre as ??? "Oh? Bị phát hiện rồi sao?"
+
+Show(Marisa)
+Marisa.SetSprite(Mar02)
+Marisa as Marisa Kirisame "Phải là không giả mù được mới đúng."
+
+Hide(Marisa)
+Narrator "Bước ra từ phía những tán cây, nguồn gốc của giọng nói xuất hiện trước mắt Marisa."
+
+StopSong("Ishoku Sokuhatsu")
+Show(Flandre)
+Flandre.SetSprite(Fla01)
+Flandre as ??? "Hehe…"
+
+
+
+Narrator "Đó là một thứ mang hình dạng giống với bao cô bé loài người thông thường."
+Narrator "Khuôn mặt non nớt, dáng vẻ hồn nhiên, như một bức tranh bị đặt nhầm nơi trưng bày."
+
+
+Narrator "Nhưng có lẽ không cần phải là một Yêu Khước Sư mới có thể nhận ra…"
+
+Hide(Flandre)
+Narrator "…Cô gái này khác hoàn toàn với tất cả những yokai mà Marisa từng gặp trước đây."
+
+HideUI()
+HideDB()
+stoprain()
+ClearLayerMedia(background -spd 0.5)
+
+wait(4)
+
+ShowUI()
+ShowDB()
+Flandre as ??? "Aha…"
+
+[wait]SetLayerMedia(cinematic "B000005" -spd 5)
+ClearLayerMedia(cinematic -spd 5)
+
+StopSong("Gloomy Rain")
+startrain()
+
+SetLayerMedia(background "CG000001" -spd 5)
+
+
+PlaySong("Flandre" -immediate true -vol 0.6)
+
+Flandre as ??? "GYAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!"
+
+[wait]SetLayerMedia(cinematic "B000005" -spd 5)
+ClearLayerMedia(cinematic -spd 5)
+
+Flandre as ??? "Lâu lắm rồi mới ra ngoài, ai mà ngờ mình lại bắt gặp một Yêu Khước Sư chứ? Đúng là một ngày may mắn mà!"
+
+Marisa as Marisa Kirisame "Đôi cánh đó… {wa 0.3}Cô là…"
+Marisa as Marisa Kirisame "…Một trong hai chị em của Hồng Ma Quán?"
+
+Narrator "Tòa lâu đài dưới bầu trời đỏ, Hồng Ma Quán là nơi cất giữ Vô Ngã Pha Lê, canh gác bởi cặp chị em yokai hùng mạnh với đôi cánh đặc trưng."
+Narrator "Không giống những yokai lang thang Marisa vừa trừ khử, con quỷ này thuộc về những kẻ đứng trên đỉnh chuỗi thức ăn."
+
+Flandre as Hồng Ma Tiểu Muội "Nếu Tỷ Thượng mà biết ta giết được một Yêu Khước Sư, chị ấy hẳn sẽ vui lắm đấy!"
+
+ClearLayerMedia(background)
+SetLayerMedia(background "B000006")
+
+Show(Marisa)
+Marisa.SetSprite(Mar01)
+Marisa as Marisa Kirisame "Xin lỗi… {wa 0.3}Nhưng tôi chưa có ý định chết hôm nay đâu nên là…"
+
+Narrator "Siết chặt vào pháp cụ của mình, Marisa gắng gượng đứng thẳng lên, lơ đi những cơn đau rải đầy cơ thể mình lúc này."
+Narrator "Vị Yêu Khước Sư biết rõ, chỉ cần lung lay một khoảnh khắc trước một kẻ thù như vậy thì tính mạng khó mà bảo toàn."
+
+Marisa.SetSprite(Mar02)
+Marisa as Marisa Kirisame "Nếu cô thật muốn thì tôi cũng sẽ không nư-"
+
+StopSong("Flandre")
+PlaySong("Gloomy Rain")
+
+Marisa.SetSprite(Mar03)
+Marisa as Marisa Kirisame "Hự-!"
+
+Hide(Marisa)
+PlaySFX("Fall 2")
+Flandre as Hồng Ma Tiểu Muội "?"
+
+Narrator "Thế nhưng… {wa 0.3}Toàn bộ những cuộc chiến vừa qua, {wa 0.3}cùng với những vết thương chưa lành, {wa 0.3}có vẻ đã vượt quá sức chịu đựng mà cơ thể Marisa cho phép."
+
+ClearLayerMedia(background -blend f0040)
+StopSong("Gloomy Rain")
+stoprain()
+Narrator "Chân cô cuối cùng cũng từ bỏ, Marisa chẳng thể làm gì ngoài để cả cơ thể mình đổ sụp đổ xuống nền đất lạnh buốt."
+
+HideUI()
+HideDB()
+wait(3)
+
+Load(Chap1S2)
+
+
+
+
+
+
+
+
+
+
+
+

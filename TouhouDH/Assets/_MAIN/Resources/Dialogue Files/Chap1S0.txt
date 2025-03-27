@@ -1,0 +1,177 @@
+﻿HideDB(-immediate true)
+
+
+CreateCharacter(Marisa -e false -i false)
+CreateCharacter(Flandre -e false -i false)
+CreateCharacter(Remilia -e false -i false)
+CreateCharacter(Reimu -e false -i false)
+
+
+Marisa.SetSprite(Mar09 -spd 0.75)
+Flandre.SetSprite(Fla01 -spd 0.75)
+Remilia.SetSprite(Rem01 -spd 0.75)
+Reimu.SetSprite(Rei01 -spd 0.75)
+
+
+
+SetLayerMedia(background "B000000")
+Reimu.SetPosition(0.5)
+Marisa.SetPosition(0.5)
+
+ShowUI()
+[wait]ShowDB(-spd 0.3)
+PlaySong("Fire" -vol 0.8)
+
+Other as Dân làng "Mau lên đi! {wa 0.2}Đêm xuống rồi đấy!"
+
+HideUI()
+HideDB()
+
+ClearLayerMedia(background)
+SetLayerMedia(background "B000004" -spd 0.3)
+
+ShowUI()
+ShowDB()
+Narrator "Giữa những đóm lửa lập lòe, thay vì tận hưởng một buổi tối bình yên, toàn bộ người trong làng đều náo loạn chạy quanh."
+
+Other as Cô gái trẻ "Anh hai ơi… {wa 0.5}Em… {wa 0.3}Em…"
+
+Narrator "Một đôi tay bé nhỏ bám chặt vào áo anh trai mình, run rẩy trước cái nhìn khẩn thiết của những dân làng khác vây quanh."
+
+PlaySFX("Slam")
+
+Other as Thanh niên "Buông con bé ra ngay! Ông đang định làm cái trò gì vậy?"
+
+Other as Dân làng "Bộ cậu không thấy sao?{a} Ngài ấy nổi giận rồi đấy!"
+Other as Dân làng "Bọn tôi cũng không muốn đâu…{wa 0.5} Nhưng nếu không có ai dâng lên, thì tất cả chúng ta-"
+
+Narrator "Khung cảnh hỗn loạn thế này vốn đã không còn lạ lẫm gì đối với Marisa mỗi khi làm việc."
+
+Other as Thanh niên "Thế sao ông không đi mà dâng người nhà mình ấy!"
+
+Narrator "Kể cả vậy… {wa 0.3}Điều đó không có nghĩa cảnh tượng này đã trở nên dễ xem hơn đối với cô chút nào cả."
+
+StopSong("Fire" -vol 1.5)
+
+Marisa as ??? "Thôi hộ cái có được không?"
+
+PlaySFX("Surprise 3")
+Other as Thanh niên "A… {wa 0.1}Cô là…"
+
+Narrator "Khung cảnh hỗn độn bất chợt ngưng đọng, toàn bộ dân làng hướng sự tập trung về phía bóng dáng vừa bước vào từ cổng làng."
+
+Show(Marisa -spd 0.5)
+PlayContinuousSong("Marisa" -vol 0.7)
+Marisa as Marisa Kirisame "Lúc nào mấy người cũng phải làm mấy trò này mới được à?"
+
+Other as Cô gái trẻ "C-{wa 0.1}Chị là… {wa 0.3}<b>Yêu Khước Sư?</b>"
+
+Other as Dân làng "Không thể nào… {wa 0.3}Sao đột nhiên lại có một Yêu Khước Sư ở đây?"
+
+Other as Dân làng "Chắc chắn là đồ giả thôi! Tôi nghe nói Yêu Khước Sư là một cô gái tóc đen mặc đồ đỏ mà!"
+
+Marisa.SetSprite(Mar01)
+PlaySFX("Hit 2")
+Marisa as Marisa Kirisame "Tôi là đứa còn lại được chưa!?"
+
+Other as Thanh niên "Là hàng thật đấy, chính tôi đã mời cô ấy tới đây."
+
+Other as Dân làng "Cậu mời Yêu Khước Sư làm gì chứ? Thứ chúng ta cần làm là dâng tặng con b-"
+
+Marisa.SetSprite(Mar04)
+Marisa as Marisa Kirisame "Thứ duy nhất mấy người cần dâng tặng là tiền công sau khi tôi xử bọn yokai trong kia ấy."
+
+Other as Dân làng "Đây không phải là yokai thông thường đâu, là thần linh nổi giận đó!"
+
+Marisa.SetSprite(Mar09)
+Marisa as Marisa Kirisame "Khắp cái Ảo Tưởng Hương này chẳng hề hiện hữu một thần linh nào cả, chỉ có con người và yokai thôi."
+Marisa as Marisa Kirisame "Nên mỗi khi đại họa xảy ra, mấy người có thể chọn hoặc là yokai gây nên, hoặc là con người tự chuốc lấy."
+
+Other as Dân làng "..."
+
+Marisa.SetSprite(Mar02)
+Marisa as Marisa Kirisame "Hiểu rồi thì tôi xin phép~"
+
+Hide(Marisa)
+PlaySFX("Step 4")
+Narrator "Marisa ngoảnh mặt đi, rời khỏi ánh mắt của đám đông."
+
+Other as Thanh niên "Khoan đã, cô Yêu Khước Sư!"
+
+Show(Marisa)
+Marisa.SetSprite(Mar01)
+Marisa as Marisa Kirisame "Gì nữa?"
+
+StopSong("Marisa")
+Other as Thanh niên "Làm ơn… {wa 0.5}Xin hãy cứu em gái tôi."
+
+Marisa.SetSprite(Mar08)
+Marisa as Marisa Kirisame "..."
+
+Marisa.SetSprite(Mar10)
+Marisa as Marisa Kirisame "Nếu là cứu khỏi yokai, thì cứ yên tâm đi."
+
+Hide(Marisa)
+Narrator "Yêu Khước Sư tóc vàng nở một nụ cười nhẹ, như lời trấn an cho chàng trai yên lòng."
+
+ClearLayerMedia(background -spd 0.5)
+Narrator "Vì lẽ đó…"
+Narrator "“Nhưng tôi chỉ có thể cứu cô bé khỏi yokai thôi”…{a} Câu nói ấy,{wa 0.3} cũng chỉ dừng trước cửa miệng Marisa."
+
+HideUI()
+HideDB()
+wait(3)
+
+[wait]SetLayerMedia(background "B000007")
+
+
+PlaySong("Night Bird")
+
+Show(Marisa)
+ShowUI()
+
+Marisa.SetSprite(Mar01)
+Marisa as Marisa Kirisame "“Ơ nhưng tui phải ở lại gác đền rồi, bà đi giùm được không bla bla bla”."
+Marisa as Marisa Kirisame "“Không tụi yokai tới đây cướp mất Tự Ngã Pha Lê thì sao bla bla bla”."
+
+Marisa.SetSprite(Mar08)
+Marisa as Marisa Kirisame "Rồi cuối cùng lúc nào Reimu Hakurei cũng là đứa ngồi nhà và Marisa Kirisame là đứa đi giải quyết rắc rối."
+
+Narrator "Marisa thở dài uể oải, bực dọc với sự lười biếng của người đồng nghiệp."
+
+Hide(Marisa)
+Narrator "Tuy thực chất những gì Reimu nói không hẳn là sai…"
+Narrator "Trách nhiệm của dòng tộc cô ấy từ trước đến nay vốn vẫn luôn là để bảo vệ Bác Lệ Thần Xã khỏi sự dòm ngó của những tên yokai."
+Narrator "Nhưng Marisa vẫn khó mà có thể tin rằng việc Reimu sai vặt cô 100% không có sự lười biếng nào trong đó."
+
+Show(Marisa)
+Marisa.SetSprite(Mar01)
+Marisa as Marisa Kirisame "Haizz…"
+
+StopSong("Night Bird")
+Marisa.SetSprite(Mar02)
+Marisa as Marisa Kirisame "Thôi được rồi…"
+
+Hide(Marisa)
+HideUI()
+HideDB()
+
+PlaySFX("Fly")
+
+ClearLayerMedia(background -spd 0.5)
+[wait]SetLayerMedia(cinematic "CG000000" -spd 0.5)
+
+Marisa as Marisa Kirisame "Xuất phát thôi nhỉ."
+
+
+HideUI()
+HideDB()
+ClearLayerMedia(cinematic -spd 0.5)
+wait(3)
+
+LoadScene1()
+
+
+
+
+

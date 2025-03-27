@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da5898532223af64ebab2f1d3b18f2bd, type: 3}
+  m_Name: Character Configuration Asset
+  m_EditorClassIdentifier: 
+  characters:
+  - name: Other
+    alias: oth
+    characterType: 1
+    nameColor: {r: 1, g: 1, b: 1, a: 1}
+    dialogueColor: {r: 1, g: 1, b: 1, a: 1}
+    nameFont: {fileID: 11400000, guid: 4c2b4f8e3769e364b88f457c57127835, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 4521a116198112d4e8fe3aac17ea85e2, type: 2}
+    nameFontScale: 1
+    dialogueFontScale: 1
+    sprites:
+      _serializedList: []
+  - name: Marisa
+    alias: mar
+    characterType: 1
+    nameColor: {r: 1, g: 1, b: 1, a: 1}
+    dialogueColor: {r: 1, g: 1, b: 1, a: 1}
+    nameFont: {fileID: 11400000, guid: 4c2b4f8e3769e364b88f457c57127835, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 4521a116198112d4e8fe3aac17ea85e2, type: 2}
+    nameFontScale: 1
+    dialogueFontScale: 1
+    sprites:
+      _serializedList: []
+  - name: Flandre
+    alias: fla
+    characterType: 1
+    nameColor: {r: 1, g: 1, b: 1, a: 1}
+    dialogueColor: {r: 1, g: 1, b: 1, a: 1}
+    nameFont: {fileID: 11400000, guid: 4c2b4f8e3769e364b88f457c57127835, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 4521a116198112d4e8fe3aac17ea85e2, type: 2}
+    nameFontScale: 1
+    dialogueFontScale: 1
+    sprites:
+      _serializedList: []
+  - name: Remilia
+    alias: rem
+    characterType: 1
+    nameColor: {r: 1, g: 1, b: 1, a: 1}
+    dialogueColor: {r: 1, g: 1, b: 1, a: 1}
+    nameFont: {fileID: 11400000, guid: 4c2b4f8e3769e364b88f457c57127835, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 4521a116198112d4e8fe3aac17ea85e2, type: 2}
+    nameFontScale: 1
+    dialogueFontScale: 1
+    sprites:
+      _serializedList: []
+  - name: Reimu
+    alias: rei
+    characterType: 1
+    nameColor: {r: 1, g: 1, b: 1, a: 1}
+    dialogueColor: {r: 1, g: 1, b: 1, a: 1}
+    nameFont: {fileID: 11400000, guid: 4c2b4f8e3769e364b88f457c57127835, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 4521a116198112d4e8fe3aac17ea85e2, type: 2}
+    nameFontScale: 1
+    dialogueFontScale: 1
+    sprites:
+      _serializedList: []

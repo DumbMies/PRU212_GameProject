@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: c60450019b91f4b4a81ae085ec9c3bad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8428136038140039525
+    second: IronYokai_0
+  - first:
+      213: -5446317888812057981
+    second: IronYokai_1
+  - first:
+      213: -3358556730421995265
+    second: IronYokai_2
+  - first:
+      213: -7446705528703562053
+    second: IronYokai_3
+  - first:
+      213: -4879013660715243909
+    second: IronYokai_4
+  - first:
+      213: -1459202003636472968
+    second: IronYokai_5
+  - first:
+      213: 7333869128366479488
+    second: IronYokai_6
+  - first:
+      213: -2769353072554570600
+    second: IronYokai_7
+  - first:
+      213: -852137189846019275
+    second: IronYokai_8
+  - first:
+      213: 2024512313706610153
+    second: IronYokai_9
+  - first:
+      213: -8419718633266287853
+    second: IronYokai_10
+  - first:
+      213: 8497728546857925187
+    second: IronYokai_11
+  - first:
+      213: 5156232576244195748
+    second: IronYokai_12
+  - first:
+      213: 5042415693164266754
+    second: IronYokai_13
+  - first:
+      213: 2021493948213969176
+    second: IronYokai_14
+  - first:
+      213: 8392967333028082634
+    second: IronYokai_15
+  - first:
+      213: -4869121462287310429
+    second: IronYokai_16
+  - first:
+      213: -4493609091744949643
+    second: IronYokai_17
+  - first:
+      213: 7044930811672291853
+    second: IronYokai_18
+  - first:
+      213: -1107520283731337556
+    second: IronYokai_19
+  - first:
+      213: 5392523767838331393
+    second: IronYokai_20
+  - first:
+      213: 6273835655687495646
+    second: IronYokai_21
+  - first:
+      213: 4764083911509632398
+    second: IronYokai_22
+  - first:
+      213: 5094790967855976788
+    second: IronYokai_23
+  - first:
+      213: -2173604137280886955
+    second: IronYokai_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IronYokai_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 485
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56151009211c6f470800000000000000
+      internalID: 8428136038140039525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 485
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a70876cbaca64b0800000000000000
+      internalID: -5446317888812057981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 485
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff81335b2720461d0800000000000000
+      internalID: -3358556730421995265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 407
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbecfa6a6ccf7a890800000000000000
+      internalID: -7446705528703562053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 407
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b762acafce24a4cb0800000000000000
+      internalID: -4879013660715243909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 324
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873b5b5428fdfbbe0800000000000000
+      internalID: -1459202003636472968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 324
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088dc71ad1327c560800000000000000
+      internalID: 7333869128366479488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 324
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c8fbc9d084199d0800000000000000
+      internalID: -2769353072554570600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 242
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533145b9db99c24f0800000000000000
+      internalID: -852137189846019275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 242
+        width: 69
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edf2e51933881c10800000000000000
+      internalID: 2024512313706610153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_10
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 242
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bec6b3386272b80800000000000000
+      internalID: -8419718633266287853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 243
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ab929271ffde570800000000000000
+      internalID: 8497728546857925187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 242
+        width: 68
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1255e853e9e8740800000000000000
+      internalID: 5156232576244195748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 242
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20549e86b524af540800000000000000
+      internalID: 5042415693164266754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 160
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81145ea190acd0c10800000000000000
+      internalID: 2021493948213969176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 160
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3b890525fc97470800000000000000
+      internalID: 8392967333028082634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 160
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a16228e3d76d6cb0800000000000000
+      internalID: -4869121462287310429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a9317d65e73a1c0800000000000000
+      internalID: -4493609091744949643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a6ee06f3f94c160800000000000000
+      internalID: 7044930811672291853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 160
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae57aa7b2c41a0f0800000000000000
+      internalID: -1107520283731337556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 160
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102dad8cbc716da40800000000000000
+      internalID: 5392523767838331393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfde64e944211750800000000000000
+      internalID: 6273835655687495646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 47
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e856fa9831d6d1240800000000000000
+      internalID: 4764083911509632398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 47
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4519ce3546554b640800000000000000
+      internalID: 5094790967855976788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 47
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557ad0bad8ec5d1e0800000000000000
+      internalID: -2173604137280886955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronYokai_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 47
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fa10b812a5eef42a28a7b00c6567c6
+      internalID: -1921107150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9e9ef9bd4482f1044aadba352d1ac3f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IronYokai_25: -1921107150
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

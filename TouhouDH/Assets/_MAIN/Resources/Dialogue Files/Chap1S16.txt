@@ -1,0 +1,118 @@
+﻿[wait]SetLayerMedia(background "B000027" -spd 0.5)
+ShowUI()
+Flandre.SetPosition(0.5)
+Remilia.SetPosition(0.5)
+
+
+PlaySong("Fire")
+StartRain()
+
+Show(Flandre)
+Flandre.SetSprite(Fla09)
+Flandre as Flandre Scarlet "Thượng Tỷ!? {wa 0.3}Chị đâu rồi!"
+
+Hide(Flandre)
+
+Narrator "Tro tàn và máu loang lổ vẽ nên một bức tranh u ám giữa tàn tích cuộc chiến."
+Narrator "Flandre đứng giữa khung cảnh đổ nát, hơi thở gấp gáp khi đôi mắt đỏ quét qua từng mảnh vụn, tìm kiếm bóng hình chị gái mình."
+
+Show(Flandre)
+Flandre.SetSprite(Fla09)
+Flandre as Flandre Scarlet "Đừng làm vậy mà, Thượng Tỷ!"
+Flandre as Flandre Scarlet "..."
+
+PlaySFX("Horror Surprise")
+Flandre.SetSprite(Fla05)
+Flandre as Flandre Scarlet "…?"
+
+Hide(Flandre)
+ClearLayerMedia(background)
+StopSong("Fire")
+StopRain()
+
+Narrator "Không mất quá lâu để cô nhận ra một cơ thể quen thuộc nằm giữa đống đổ nát ấy."
+
+SetLayerMedia(background "B000024")
+
+StartRain()
+PlaySFX("Run 2")
+PlaySong("The Queen is No More")
+Flandre as Flandre Scarlet "Không… {wa 0.3}Không…!"
+
+PlaySFX("Fall 2")
+Narrator "Cô lao tới, quỳ sụp bên thân thể Remilia, đôi tay run rẩy đặt lên đôi má lạnh lẽo ấy."
+
+Remilia as Remilia Scarlet "…Flandre?"
+Remilia as Remilia Scarlet "Chị mừng… {wa 0.5}Vì có thể gặp được em…"
+
+Flandre as Flandre Scarlet "Không không không!"
+Flandre as Flandre Scarlet "Đợi một chút! Em sẽ tìm kiếm ai đó!"
+
+Remilia as Remilia Scarlet "Không… {wa 0.5}Để yên chị lại đây, Flandre…"
+
+Flandre as Flandre Scarlet "Không… {wa 0.3}Em không thể…"
+
+Narrator "Flandre cắn chặt môi, đôi mắt ngấn lệ."
+
+Remilia as Remilia Scarlet "Đừng làm vẻ mặt đó… {wa 0.7}Bây giờ em sẽ trở thành nữ hoàng yokai rồi mà…"
+Remilia as Remilia Scarlet "Nếu em cứ như vậy… {wa 0.7}Em sẽ làm chị muốn ở lại mất đó…"
+
+Flandre as Flandre Scarlet "Vậy thì ở lại đi mà!"
+Flandre as Flandre Scarlet "Em đã nói với chị em không muốn cái ngai vàng đó rồi mà…"
+
+Remilia as Remilia Scarlet "Flandre… {wa 0.5}Em còn nhớ bố mẹ không…?"
+Remilia as Remilia Scarlet "Khi chúng ta vẫn còn là những con yokai yếu đuối và nhỏ bé…"
+
+Flandre as Flandre Scarlet "Dạ…?"
+
+Remilia as Remilia Scarlet "…Họ là những kẻ nhu nhược… {wa 0.5}Ủng hộ phong trào phản chiến, từ chối giết hại con người…"
+Remilia as Remilia Scarlet "Vì sự ủy mị đó mà họ chết dưới tay chúng… {wa 0.5}Để lại hai đứa con lạc lõng giữa trần gian này…"
+
+Flandre as Flandre Scarlet "Chị đừng nói nữa mà…!"
+
+Remilia as Remilia Scarlet "Chị đã cố để trở nên mạnh mẽ… {wa 0.7}để bảo vệ em… {wa 0.5}để trở thành một nữ hoàng xứng đáng…"
+Remilia as Remilia Scarlet "Cố đến mức chị quên rằng… {wa 1}Em mới chính là lý do mà chị cần phải nỗ lực đến như vậy…"
+
+Flandre as Flandre Scarlet "Thượng Tỷ…"
+
+Remilia as Remilia Scarlet "Nhưng giờ… {wa 0.5}Em đã không còn là đứa trẻ đó nữa rồi phải không?"
+Remilia as Remilia Scarlet "Em đã không còn cần chị phải bảo vệ nữa rồi phải không…?"
+
+Flandre as Flandre Scarlet "Không đâu… {wa 0.5}Em vẫn cần chị mà…"
+Flandre as Flandre Scarlet "Nếu không có chị… em sẽ chẳng còn ai hết…"
+
+StopRain()
+ClearLayerMedia(background)
+HideUI()
+HideDB()
+
+[wait]SetLayerMedia(cinematic "CG000008" -spd 0.5)
+
+ShowUI()
+ShowDB()
+Remilia as Remilia Scarlet "Em đã mạnh mẽ hơn chị rất nhiều rồi, Flandre…"
+Remilia as Remilia Scarlet "Em sẽ có thể tự mình bảo vệ được tương lai của yokai."
+Remilia as Remilia Scarlet "Chị chỉ tiếc rằng… {wa 0.7}Chị sẽ không chứng kiến được ngày ấy."
+Remilia as Remilia Scarlet "Dẫu vậy đi nữa… {wa 0.7}Chị vẫn sẽ mãi nguyện cầu cho điều đó…"
+
+Flandre as Flandre Scarlet "…!"
+Flandre as Flandre Scarlet "Thượng Tỷ!"
+
+ClearLayerMedia(cinematic -immediate true)
+
+StopSong("The Queen is No More")
+Flandre as Flandre Scarlet "THƯỢNG TỶYYYYYYYYYYYYYYYYYYYYYYYYYY!"
+
+Narrator "Con người…{a} Yokai…"
+Narrator "Chúng sinh đều có gốc rễ riêng biệt từ khi sinh ra…"
+Narrator "Dẫu vậy, khi chào đời ai cũng đều phải mang ác tâm."
+Narrator "Bởi lẽ đó, để có thể tìm kiếm chính nghĩa…"
+Narrator "…Không còn cách nào khác ngoài việc tin rằng ai đó ngoài kia mang ác tâm lớn hơn, đúng không?"
+
+HideUI()
+HideDB()
+wait(4)
+
+Load(Chap1S17)
+
+

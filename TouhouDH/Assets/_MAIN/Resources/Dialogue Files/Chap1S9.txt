@@ -1,0 +1,65 @@
+﻿[wait]SetLayerMedia(background "B000017")
+ShowUI()
+Reimu.SetPosition(0.25)
+Marisa.SetPosition(0.75)
+
+
+PlaySong("Night Bird")
+
+Narrator "Màn đêm phủ lên Bác Lệ Thần Xã một sự tĩnh lặng đặc trưng, chỉ có tiếng gió nhẹ và thi thoảng là tiếng lách cách của cành cây xào xạc."
+Narrator "Nhưng giữa không gian ấy, một âm thanh nhỏ nhưng rõ ràng vẫn vang lên, tiếng kim khâu xuyên qua vải, đều đặn như nhịp đập của thời gian."
+
+Narrator "Reimu bất chợt mở mắt.{a} Cô không phải kiểu người dễ bị đánh thức, nhưng có lẽ, những âm thanh nhỏ bé trong đêm khuya này lại chạm vào một phần bản năng nào đó của cô."
+
+Narrator "Khẽ ngẩng đầu, cô nhìn về phía góc phòng, nơi ánh sáng từ chiếc đèn dầu lặng lẽ hắt lên bóng dáng một người đang ngồi cặm cụi."
+
+Show(Reimu)
+Reimu.SetSprite(Rei09)
+Reimu as Reimu Hakurei "H-{wa 0.1}Hửm…"
+
+Show(Marisa)
+Marisa.SetSprite(Mar02)
+Marisa as Marisa Kirisame "Ồ, xin lỗi nhé. Tớ đánh thức cậu dậy sao?"
+
+Reimu.SetSprite(Rei06)
+Reimu as Reimu Hakurei "Cậu… {wa 0.5}Đang may đồ à?"
+
+Marisa.SetSprite(Mar10)
+Marisa as Marisa Kirisame "Ừm, là áo khoác đấy.{a} Trời sắp trở lạnh rồi mà, phải không?"
+
+Hide(Reimu)
+Hide(Marisa)
+
+Narrator "Marisa gật đầu, bàn tay không ngừng di chuyển, từng đường chỉ xuyên qua lớp vải dày một cách cẩn thận."
+
+Show(Reimu)
+Reimu.SetSprite(Rei01)
+Reimu as Reimu Hakurei "Ý tớ không phải vậy…"
+Reimu as Reimu Hakurei "Từ khi nào cậu biết may vá chứ…?"
+
+Show(Marisa)
+Marisa.SetSprite(Mar01)
+Marisa as Marisa Kirisame "Ờm… {wa 0.3}Cái đó…"
+
+Marisa.SetSprite(Mar05)
+Marisa as Marisa Kirisame "Tớ cũng chỉ mới học thôi."
+
+Reimu.SetSprite(Rei09)
+Reimu as Reimu Hakurei "A… {wa 0.3}À…"
+
+Hide(Reimu)
+Hide(Marisa)
+
+Narrator "Không biết bản thân có nhìn nhầm không, Reimu nghĩ rằng khuôn mặt Marisa khi đó có nét gì đó vô cùng hạnh phúc mà cô không tài nào lý giải được."
+
+StopSong("Night Bird")
+
+HideUI()
+HideDB()
+ClearLayerMedia(background -spd 0.5)
+wait(3)
+
+Load(Chap1S10)
+
+
+
