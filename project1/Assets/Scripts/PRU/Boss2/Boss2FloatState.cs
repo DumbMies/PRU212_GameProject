@@ -6,6 +6,7 @@ public class Boss2FloatState : Boss2State
     private Transform targetCheckpoint;
     private bool reachCheckpoint;
     private Transform previousCheckpoint;
+    private bool goneFrenzy =false;
 
     // Arrays to categorize checkpoints
     private Transform[] leftSideCheckpoints;
@@ -41,9 +42,7 @@ public class Boss2FloatState : Boss2State
         base.Enter();
         boss2.rb.gravityScale = 0;
         reachCheckpoint = false;
-        isAirbone = true;
 
-        // Select next checkpoint
         SelectNextCheckpoint();
     }
 
@@ -75,10 +74,13 @@ public class Boss2FloatState : Boss2State
     public override void Update()
     {
         base.Update();
-        if (Input.GetKeyDown(KeyCode.K))
-        {
-            boss2.TakeDamage();
-        }
+        //if (goneFrenzy == false && boss2.currentHealth <= 20)
+        //{
+        //    goneFrenzy = true;
+        //    boss2.rb.gravityScale = 0;
+        //    boss2.rb.linearVelocity = Vector2.zero;
+        //    stateMachine.ChangeState(boss2.transformState);
+        //}
 
         if (!reachCheckpoint)
         {
@@ -105,6 +107,7 @@ public class Boss2FloatState : Boss2State
         if (Vector3.Distance(boss2.transform.position, targetCheckpoint.position) < 0.1f)
         {
             reachCheckpoint = true;
+            boss2.rb.linearVelocity = Vector2.zero;
 
             // Change state based on which checkpoint was reached
             if (targetCheckpoint == boss2.checkpointC || targetCheckpoint == boss2.checkpointD)
@@ -121,7 +124,6 @@ public class Boss2FloatState : Boss2State
 
     public override void Exit()
     {
-        isAirbone = false;
         base.Exit();
     }
 }

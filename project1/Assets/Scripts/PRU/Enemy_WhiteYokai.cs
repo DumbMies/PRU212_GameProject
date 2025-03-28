@@ -56,7 +56,7 @@ public class Enemy_WhiteYokai : Entity
             }
             else if (playerCheckDistance < 1.5 &&  playerCheckDistance >0.5)
             {
-                if (!isAttacking && Time.time >= lastAttackTime + attackCooldownTime)
+                if (!isAttacking && Time.time >= attackCooldownTime)
                 {
                     StartCoroutine(LeapForward());
                 }
@@ -80,7 +80,6 @@ public class Enemy_WhiteYokai : Entity
     private IEnumerator LeapForward()
     {
         isAttacking = true;
-        lastAttackTime = Time.time;
 
         float leapForceX = 7f * facingDirection;
         float leapForceY = 1f;

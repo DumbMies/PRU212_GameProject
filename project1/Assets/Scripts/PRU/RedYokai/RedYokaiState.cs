@@ -37,8 +37,10 @@ public class RedYokaiState
         rb = redYokai.rb;
         redYokai.canAttack = true;
     }
-
-
+    public virtual bool CanTakeDamage()
+    {
+        return true;
+    }
     public virtual void Update()
     {
         isMoving = rb.linearVelocity.x != 0;

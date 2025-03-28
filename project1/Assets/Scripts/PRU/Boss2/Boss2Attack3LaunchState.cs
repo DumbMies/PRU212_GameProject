@@ -11,20 +11,41 @@ public class Boss2Attack3LaunchState : Boss2State
     public override void Enter()
     {
         base.Enter();
+        boss2.capsuleCollider2D.isTrigger = true;
     }
 
     public override void Update()
     {
         base.Update();
 
+        Collider2D[] hitColliders = Physics2D.OverlapCapsuleAll(
+            boss2.capsuleCollider2D.bounds.center,
+            boss2.capsuleCollider2D.bounds.size,
+            CapsuleDirection2D.Vertical,
+            0f,
+            LayerMask.GetMask("Player") 
+        );
+
+        // Check if any of the overlapping colliders are the player
+        foreach (Collider2D hitCollider in hitColliders)
+        {
+            if (hitCollider.CompareTag("Player"))
+            {
+                Marisa marisa = hitCollider.GetComponent<Marisa>();
+                marisa.TakeDamage(1);
+                break;
+            }
+        }
         if (boss2.IsWallDetected())
         {
-            stateMachine.ChangeState(boss2.floatState);
+            boss2.Flip();
+            stateMachine.ChangeState(boss2.knockedState);
         }
     }
 
     public override void Exit()
     {
         base.Exit();
+        boss2.capsuleCollider2D.isTrigger = false;
     }
 }

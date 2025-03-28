@@ -17,7 +17,7 @@ public class RedYokai : Entity
     public bool canAttack = true;
     public RaycastHit2D groundHit;
     public float distanceToGround;
-
+    public int currentHealth;
     [SerializeField] private float knockbackForce = 5f;
 
     [SerializeField] float distanceBetweenPillar;
@@ -48,6 +48,7 @@ public class RedYokai : Entity
     public RedYokaiCombatState combatState { get; private set; }
     public RedYokaiJumpState jumpState { get; private set; }
     public RedYokaiAirState airState { get; private set; }
+    public RedYokaiHurtState hurtState { get; private set; }
     public RedYokaiGroundSlamState groundSlamState { get; private set; }
     #endregion
     public override bool IsGroundDetected()
@@ -69,6 +70,7 @@ public class RedYokai : Entity
         combatState = new RedYokaiCombatState(stateMachine, this, "Combat");
         jumpState = new RedYokaiJumpState(stateMachine, this, "Jump");
         airState = new RedYokaiAirState(stateMachine, this, "Air");
+        hurtState = new RedYokaiHurtState(stateMachine, this, "Hurt");
         groundSlamState = new RedYokaiGroundSlamState(stateMachine, this, "GroundSlam");
     }
 
@@ -223,6 +225,23 @@ public class RedYokai : Entity
         StartCoroutine(SpawnLavaPillarsWithDelay(startX, yLevel));
     }
 
+    public void TakeDamage(int damage)
+    {
+        if (stateMachine.currentState.CanTakeDamage())
+        {
+            currentHealth -= damage;
+            if (currentHealth > 0)
+            {
+                stateMachine.ChangeState(hurtState);
+            }
+            else
+            {
+                //stateMachine.ChangeState(deathState);
+            }
+            //healthDisplay.TakeDamage(damage);
+        }
+    }
+
     private IEnumerator SpawnLavaPillarsWithDelay(float startX, float yLevel)
     {
         int spawnAmout = 0;
@@ -299,7 +318,7 @@ public class RedYokai : Entity
             Marisa marisa = collision.gameObject.GetComponent<Marisa>();
             stateMachine.ChangeState(airState);
 
-            if (!marisa.isHurt)
+            if (marisa.stateMachine.currentState.Equals(marisa.hurtState))
             {
                 Physics2D.IgnoreLayerCollision(gameObject.layer, LayerMask.NameToLayer("Player"), true);
                 //Debug.Log("Collidable after switch = " + Physics2D.GetIgnoreLayerCollision(gameObject.layer, LayerMask.NameToLayer("Player")));
@@ -317,8 +336,7 @@ public class RedYokai : Entity
                 collision.gameObject.GetComponentInChildren<SpriteRenderer>().color = Color.red;
                 PlayerTakeDamage(playerAnimator, collision.gameObject);
                 Debug.Log("CodeReachedHere");
-                marisa.stateMachine.currentState.TakeDamage();
-                marisa.TriggerInvincibleFrame();
+                marisa.stateMachine.ChangeState(marisa.hurtState);
                 if (collision.transform.position.x < transform.position.x)
                 {
                     collision.gameObject.GetComponent<Marisa>().rb.linearVelocity = new Vector2(-knockbackForce, knockbackForce);

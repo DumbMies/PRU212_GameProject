@@ -2,10 +2,6 @@
 
 public class Boss2LandState : Boss2State
 {
-    private Transform targetCheckpoint;
-    private float switchTime = 3f;
-    private float switchTimer;
-
     public Boss2LandState(Boss2StateMachine _stateMachine, Boss2 _boss2, string _animBoolName)
         : base(_stateMachine, _boss2, _animBoolName) { }
 

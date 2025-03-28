@@ -1,5 +1,7 @@
 using UnityEngine;
 using System.Collections;
+using System.Threading.Tasks;
+using System.Collections.Generic;
 
 public class Boss2AnimationTrigger : MonoBehaviour
 {
@@ -40,7 +42,7 @@ public class Boss2AnimationTrigger : MonoBehaviour
             return;
         }
 
-        Vector3 targetPosition = player.transform.position;
+        Vector3 targetPosition = new Vector2 (player.transform.position.x, player.transform.position.y -1f);
         Vector3 directionToPlayer = (targetPosition - boss2.transform.position).normalized;
 
         for (int i = 0; i < 3; i++)
@@ -88,4 +90,31 @@ public class Boss2AnimationTrigger : MonoBehaviour
     {
         boss2.rb.linearVelocity = new Vector2(boss2.facingDirection * -1 * launchPower, 0);
     }
+
+    private void SummonDemonCircle()
+    {
+        Vector3 spawnPosition = boss2.transform.position;
+
+        GameObject DemonCircleClone = Instantiate(boss2.DemonCircle, spawnPosition, Quaternion.identity);
+        DemonCircleClone.GetComponent<DemonCircle>().enabled = true;
+        DeleteObject(DemonCircleClone);
+    }
+
+    async void DeleteObject(GameObject objectToDelete)
+    {
+        await Task.Delay(1500);
+        Destroy(objectToDelete);
+    }
+
+    //private void WallLaunch()
+    //{
+    //    Collider2D collider = new Collider2D();
+    //    if (collider.gameObject.layer == LayerMask.NameToLayer("Player") != null) {
+    //        Marisa marisa1 = collider.GetComponent<Marisa>();
+    //        {
+    //            marisa1.TakeDamage(1);
+    //        }
+    //    }
+    //    boss2.stateMachine.ChangeState(boss2.floatState);
+    //}
 }

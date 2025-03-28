@@ -8,7 +8,6 @@ public class Boss2Attack1State : Boss2State
 
     public override void Enter()
     {
-
         spearSpawned = false;
         spearThrown = false;
         base.Enter();

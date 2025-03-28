@@ -15,7 +15,6 @@ public class Boss2AirState : Boss2State
     public override void Update()
     {
         base.Update();
-        Debug.Log(boss2.distanceToGround);
         if (boss2.distanceToGround < 1.5f)
         {
             stateMachine.ChangeState(boss2.groundHitState);

@@ -1,16 +1,28 @@
 using UnityEngine;
 
-public class RedYokaiHurtState : MonoBehaviour
+public class RedYokaiHurtState : RedYokaiState
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public RedYokaiHurtState(RedYokaiStateMachine _stateMachine, RedYokai _redYokai, string _animBoolName) : base(_stateMachine, _redYokai, _animBoolName)
     {
-        
     }
 
-    // Update is called once per frame
-    void Update()
+    public override void AnimationFinishTrigger()
     {
-        
+        base.AnimationFinishTrigger();
+    }
+
+    public override void Enter()
+    {
+        base.Enter();
+    }
+
+    public override void Exit()
+    {
+        base.Exit();
+    }
+
+    public override void Update()
+    {
+        base.Update();
     }
 }

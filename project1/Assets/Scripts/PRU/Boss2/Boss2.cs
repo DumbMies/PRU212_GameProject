@@ -15,14 +15,39 @@ public class Boss2 : Entity
     public float distanceToGround;
     bool canFlip = true;
     public bool canAttack;
+    public BoxCollider2D boxCollider2D;
+    public CapsuleCollider2D capsuleCollider2D;
+    public Collider2D hitbox;
+    public Boss2Health healthDisplay;
 
+    public int currentHealth;
+    [SerializeField] public GameObject Spear;
+    [SerializeField] public GameObject DemonCircle;
+    [SerializeField] public GameObject DemonCircleAnimator;
+    public Animator DemonCircleAnim;
+    public BossDashIndicator dashIndicator;
+    public GameObject bossTrail;
+
+
+    #region Normal Checkpoints
+    [Header("Normal Checkpoint")]
     [SerializeField] public Transform checkpointA;
     [SerializeField] public Transform checkpointB;
     [SerializeField] public Transform checkpointC;
     [SerializeField] public Transform checkpointD;
     [SerializeField] public Transform checkpointE;
     [SerializeField] public Transform checkpointF;
-    [SerializeField] public GameObject Spear;
+    #endregion
+
+    #region Side Checkpoints
+    [Header("Side Checkpoint")]
+    [SerializeField] public Transform SCA;
+    [SerializeField] public Transform SCB;
+    [SerializeField] public Transform SCC;
+    [SerializeField] public Transform SCD;
+    [SerializeField] public Transform SCE;
+    [SerializeField] public Transform SCF;
+    #endregion
 
     [Header("Move info")]
     public float moveSpeed = 8f;
@@ -46,6 +71,8 @@ public class Boss2 : Entity
     public Boss2KnockedState knockedState { get; private set; }
     public Boss2AirState airState { get; private set; }
     public Boss2GroundHitState groundHitState { get; private set; }
+    public Boss2TransformState transformState { get; private set; }
+    public Boss2DashState dashState { get; private set; }
     #endregion
     public override bool IsGroundDetected()
     {
@@ -60,7 +87,9 @@ public class Boss2 : Entity
     protected override void Awake()
     {
         base.Awake();
+        boxCollider2D = GetComponent<BoxCollider2D>();
         stateMachine = new Boss2StateMachine();
+        bossTrail = GameObject.Find("BossTrail") ;
 
         floatState = new Boss2FloatState(stateMachine, this, "Float");
         landState = new Boss2LandState(stateMachine, this, "Land");
@@ -71,6 +100,8 @@ public class Boss2 : Entity
         knockedState = new Boss2KnockedState(stateMachine, this, "Knocked");
         airState = new Boss2AirState(stateMachine, this, "Air");
         groundHitState = new Boss2GroundHitState(stateMachine, this, "GroundHit");
+        transformState = new Boss2TransformState(stateMachine, this, "Transform");
+        dashState = new Boss2DashState(stateMachine, this, "Dash");
     }
 
     protected override void OnDrawGizmos()
@@ -88,10 +119,17 @@ public class Boss2 : Entity
         stateMachine.currentState.AnimationFinishTrigger();
     }
 
+
+
     protected override void Start()
     {
         base.Start();
         stateMachine.Initialize(floatState);
+        dashIndicator = FindFirstObjectByType<BossDashIndicator>();
+        if (dashIndicator == null)
+        {
+            Debug.LogWarning("No BossDashIndicator found in the scene!");
+        }
     }
 
     public RaycastHit2D getGroundHit()
@@ -108,6 +146,10 @@ public class Boss2 : Entity
         stateMachine.currentState.Update();
         groundHit = getGroundHit();
         distanceToGround = groundHit.distance;
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            TakeDamage(1);
+        }
     }
 
     public Vector3 GetPlayerPosition()
@@ -127,6 +169,23 @@ public class Boss2 : Entity
     public void UnPhase()
     {
         Physics2D.IgnoreLayerCollision(gameObject.layer, LayerMask.NameToLayer("Ground"), false);
+    }
+
+    public void TakeDamage(int damage)
+    {
+        if (stateMachine.currentState.CanTakeDamage())
+        {
+            currentHealth -= damage;
+            if (currentHealth > 0)
+            {
+                stateMachine.ChangeState(knockedState);
+            }
+            else
+            {
+                //stateMachine.ChangeState(deathState);
+            }
+            //healthDisplay.TakeDamage(damage);
+        }
     }
     private void FacingPlayer()
     {
@@ -200,4 +259,17 @@ public class Boss2 : Entity
             await Task.Yield();
         }
     }
+
+    //public void OnTriggerEnter2D(Collider2D collision)
+    //{
+    //    if (collision.CompareTag("Player"))
+    //    {
+    //        GameObject player = GameObject.FindGameObjectWithTag("Player");
+
+    //        if (player != null)
+    //        {
+    //            player.GetComponent<Marisa>().TakeDamage(1);
+    //        }
+    //    }
+    //}
 }

@@ -8,7 +8,6 @@ using UnityEngine;
 
 public class Boss2State
 {
-    protected bool isAirbone;
     protected bool isMoving;
     protected bool isChasing;
     protected bool spearThrown;
@@ -61,6 +60,9 @@ public class Boss2State
         await Task.Delay(AttackCooldown);
         boss2.canAttack = true;
     }
-
+    public virtual bool CanTakeDamage()
+    {
+        return true;
+    }
     public virtual RaycastHit2D IsPlayerDetected() => Physics2D.BoxCast(boss2.transform.position, new Vector2(50f, 20f), 0, Vector2.right * boss2.facingDirection, 1, boss2.whatIsPlayer);
 }

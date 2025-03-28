@@ -4,7 +4,7 @@ using System.Collections;
 public class Spear : MonoBehaviour
 {
     private Animator anim;
-
+    public int spearDamage = 1;
     private void Start()
     {
         anim = GetComponentInChildren<Animator>();
@@ -15,7 +15,8 @@ public class Spear : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            Debug.Log("Spear hit the player!");
+            Marisa marisa = collision.GetComponent<Marisa>();
+            marisa.TakeDamage(1);
         }
     }
 }

@@ -28,7 +28,7 @@ public class LavaPillar : MonoBehaviour
         {
             Marisa marisa = collision.gameObject.GetComponent<Marisa>();
 
-            if (!marisa.isHurt)
+            if (!marisa.stateMachine.currentState.Equals(marisa.hurtState))
             {
                 Animator playerAnimator = collision.gameObject.GetComponentInChildren<Animator>();
                 playerAnimator.SetBool("Hurt", true);
@@ -39,8 +39,7 @@ public class LavaPillar : MonoBehaviour
                 collision.gameObject.GetComponentInChildren<SpriteRenderer>().color = Color.red;
                 PlayerTakeDamage(playerAnimator, collision.gameObject);
                 Debug.Log("CodeReachedHere");
-                marisa.stateMachine.currentState.TakeDamage();
-                marisa.TriggerInvincibleFrame();
+                marisa.stateMachine.ChangeState(marisa.hurtState);
 
                 if (collision.transform.position.x < transform.position.x)
                 {
