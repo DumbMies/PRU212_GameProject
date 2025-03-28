@@ -972,7 +972,41 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lightning_4x4_0: -8780514708891140242
+      lightning_4x4_1: -2673598994515845686
+      lightning_4x4_10: 4540580697582190460
+      lightning_4x4_11: 2607803155049169240
+      lightning_4x4_12: -5959801975436749766
+      lightning_4x4_13: -7414703401102605785
+      lightning_4x4_14: -5062165453610151792
+      lightning_4x4_15: 6927244577169023380
+      lightning_4x4_16: -6761337375907391254
+      lightning_4x4_17: 8717854871881930145
+      lightning_4x4_18: 8007255301959473314
+      lightning_4x4_19: -8709850080106366794
+      lightning_4x4_2: 7155877732155256264
+      lightning_4x4_20: 5917816492518487840
+      lightning_4x4_21: 1822100953651911878
+      lightning_4x4_22: -5846488218659361590
+      lightning_4x4_23: -3885816018261951548
+      lightning_4x4_24: -9103815259225606608
+      lightning_4x4_25: 6588297501240893425
+      lightning_4x4_26: -1637526308494134615
+      lightning_4x4_27: -6107530417633532878
+      lightning_4x4_28: 4176074445926986864
+      lightning_4x4_29: 2558258465514905327
+      lightning_4x4_3: -4153796559928988661
+      lightning_4x4_30: 8211758412319495731
+      lightning_4x4_31: -5328482609498820777
+      lightning_4x4_32: 8952555060215044812
+      lightning_4x4_33: 709538845893319029
+      lightning_4x4_4: 5875311674654881421
+      lightning_4x4_5: 45759522665760150
+      lightning_4x4_6: 4245221367226264774
+      lightning_4x4_7: -5287401571701915320
+      lightning_4x4_8: 1206919296986296983
+      lightning_4x4_9: -3565742443993973775
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

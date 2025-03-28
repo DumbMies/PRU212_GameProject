@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fire-rgb-million-colors-big-bomb-step-slow-cartoon-explosion-animation-small-middle-large-d-k-raging-flames-160919220_0: 1482111057595010076
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

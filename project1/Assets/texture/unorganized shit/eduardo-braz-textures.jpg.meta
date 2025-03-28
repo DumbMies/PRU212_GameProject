@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      eduardo-braz-textures_0: 2926353456132619439
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

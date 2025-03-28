@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ThinCrescent1_0: 3123039863583594374
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

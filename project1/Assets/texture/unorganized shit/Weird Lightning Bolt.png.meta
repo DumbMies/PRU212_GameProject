@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Weird Lightning Bolt_0: -4467976490309705702
+      Weird Lightning Bolt_1: -8701699900036100992
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

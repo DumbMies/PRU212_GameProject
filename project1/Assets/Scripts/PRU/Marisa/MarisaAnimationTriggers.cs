@@ -18,9 +18,9 @@ public class MarisaAnimationTriggers : MonoBehaviour
         {
             RedYokai redYokai = hit.GetComponentInParent<RedYokai>();
             Boss2 boss2 = hit.GetComponentInParent<Boss2>();
-            if (redYokai != null && hit == redYokai.rb)
+            if (redYokai != null && hit == redYokai.hitbox)
             {
-                redYokai.stateMachine.ChangeState(redYokai.hurtState);
+                redYokai.rb.linearVelocity = new Vector2(player.facingDirection * 5f, 5f);
                 redYokai.TakeDamage(1);
             }
             if (boss2 != null && hit == boss2.hitbox)

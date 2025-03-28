@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RedYokai20_0: 4464359026809336029
+      RedYokai20_1: 1972095753785713627
+      RedYokai20_2: -1753114273573099521
+      RedYokai20_3: 8930780918026289358
+      RedYokai20_4: -5887878354345120863
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      toppng.com-snowflake-572x640_0: -2051607945472262260
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LetterOutline_0: 4347074817912083253
+      LetterOutline_1: -4760607367889492923
+      LetterOutline_2: -3377050787011481269
+      LetterOutline_3: -1902899789554167979
+      LetterOutline_4: -2451069792753702587
+      LetterOutline_5: 8104309161572181579
+      LetterOutline_6: 4914732638252975385
+      LetterOutline_7: 87584566939699432
+      LetterOutline_8: -2443204087462195176
+      LetterOutline_9: 7468099899926964718
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

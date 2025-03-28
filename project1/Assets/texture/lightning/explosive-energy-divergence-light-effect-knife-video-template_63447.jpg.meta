@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      explosive-energy-divergence-light-effect-knife-video-template_63447_0: 8521968776042934421
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

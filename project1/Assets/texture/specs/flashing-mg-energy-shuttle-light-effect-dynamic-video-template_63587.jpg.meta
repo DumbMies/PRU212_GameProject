@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flashing-mg-energy-shuttle-light-effect-dynamic-video-template_63587_0: -75616434978988090
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

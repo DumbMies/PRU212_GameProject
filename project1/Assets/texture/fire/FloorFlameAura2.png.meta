@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FloorFlameAura2_0: 7980136031534250080
+      FloorFlameAura2_1: -5460422730132782603
+      FloorFlameAura2_10: 6229843882207990653
+      FloorFlameAura2_11: 3092240476959313876
+      FloorFlameAura2_2: -1573739684643298493
+      FloorFlameAura2_3: 5075274589442917651
+      FloorFlameAura2_4: -8390846987788573106
+      FloorFlameAura2_5: 2423396005342402926
+      FloorFlameAura2_6: -8323928717813874416
+      FloorFlameAura2_7: 1515199551053154045
+      FloorFlameAura2_8: -1382903466801820769
+      FloorFlameAura2_9: 5878369565442841893
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

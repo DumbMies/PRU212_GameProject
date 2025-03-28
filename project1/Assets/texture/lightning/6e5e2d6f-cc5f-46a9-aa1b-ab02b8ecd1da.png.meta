@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      6e5e2d6f-cc5f-46a9-aa1b-ab02b8ecd1da_0: 732049830807665685
+      6e5e2d6f-cc5f-46a9-aa1b-ab02b8ecd1da_1: 8180809948265016466
+      6e5e2d6f-cc5f-46a9-aa1b-ab02b8ecd1da_10: -7673714866135481437
+      6e5e2d6f-cc5f-46a9-aa1b-ab02b8ecd1da_11: -6828352140633641507
+      6e5e2d6f-cc5f-46a9-aa1b-ab02b8ecd1da_2: -992901735858443241
+      6e5e2d6f-cc5f-46a9-aa1b-ab02b8ecd1da_3: -285679216754948464
+      6e5e2d6f-cc5f-46a9-aa1b-ab02b8ecd1da_4: 1268949751665535130
+      6e5e2d6f-cc5f-46a9-aa1b-ab02b8ecd1da_5: -2163242082402045256
+      6e5e2d6f-cc5f-46a9-aa1b-ab02b8ecd1da_6: 7248818694159236765
+      6e5e2d6f-cc5f-46a9-aa1b-ab02b8ecd1da_7: -7026955830977332187
+      6e5e2d6f-cc5f-46a9-aa1b-ab02b8ecd1da_8: -4366311175500519117
+      6e5e2d6f-cc5f-46a9-aa1b-ab02b8ecd1da_9: -3058592398276660157
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

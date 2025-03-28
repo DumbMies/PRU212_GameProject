@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dark Spark Bolt_0: 8725425545902740572
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

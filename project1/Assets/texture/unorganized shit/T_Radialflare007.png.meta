@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_Radialflare007_0: -575122438640353369
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

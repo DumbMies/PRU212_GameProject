@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crescent1_0: 1048726471869929817
+      Crescent1_1: -6218411548323667249
+      Crescent1_2: 663688280037503740
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

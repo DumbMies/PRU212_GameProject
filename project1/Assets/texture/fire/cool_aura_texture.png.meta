@@ -822,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cool_aura_texture_0: -6609682189408041985
+      cool_aura_texture_1: 6394468846490073108
+      cool_aura_texture_10: 5082022630362835850
+      cool_aura_texture_11: -6160087030864463867
+      cool_aura_texture_12: -5926001406466301794
+      cool_aura_texture_13: -7266079211362174008
+      cool_aura_texture_14: -4796898120111942426
+      cool_aura_texture_15: 2136381921451454275
+      cool_aura_texture_16: 4629075223678034506
+      cool_aura_texture_17: 748651537542757961
+      cool_aura_texture_18: 3489260923062836286
+      cool_aura_texture_19: -1591031970529843028
+      cool_aura_texture_2: -8616613480215352442
+      cool_aura_texture_20: 1113697142324723365
+      cool_aura_texture_21: -9192525773942627648
+      cool_aura_texture_22: -4915172818855283578
+      cool_aura_texture_23: -5059328674996134820
+      cool_aura_texture_24: 7082627753241477777
+      cool_aura_texture_25: 2778199222361689791
+      cool_aura_texture_26: 3214184807867120840
+      cool_aura_texture_27: 3749398658991343654
+      cool_aura_texture_3: -146026856496231531
+      cool_aura_texture_4: -4217730799954559673
+      cool_aura_texture_5: -8795402503448371022
+      cool_aura_texture_6: 7892281365647519480
+      cool_aura_texture_7: -4207487851020931895
+      cool_aura_texture_8: -6585634953551290228
+      cool_aura_texture_9: -7339473185013869499
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

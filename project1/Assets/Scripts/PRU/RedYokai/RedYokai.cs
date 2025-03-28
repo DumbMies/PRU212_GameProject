@@ -18,6 +18,7 @@ public class RedYokai : Entity
     public RaycastHit2D groundHit;
     public float distanceToGround;
     public int currentHealth;
+    public Collider2D hitbox;
     [SerializeField] private float knockbackForce = 5f;
 
     [SerializeField] float distanceBetweenPillar;
@@ -50,6 +51,7 @@ public class RedYokai : Entity
     public RedYokaiAirState airState { get; private set; }
     public RedYokaiHurtState hurtState { get; private set; }
     public RedYokaiGroundSlamState groundSlamState { get; private set; }
+    public RedYokaiDieState dieState { get; private set; }
     #endregion
     public override bool IsGroundDetected()
     {
@@ -72,6 +74,7 @@ public class RedYokai : Entity
         airState = new RedYokaiAirState(stateMachine, this, "Air");
         hurtState = new RedYokaiHurtState(stateMachine, this, "Hurt");
         groundSlamState = new RedYokaiGroundSlamState(stateMachine, this, "GroundSlam");
+        dieState = new RedYokaiDieState(stateMachine, this, "Die");
     }
 
     protected override void OnDrawGizmos()
@@ -230,14 +233,15 @@ public class RedYokai : Entity
         if (stateMachine.currentState.CanTakeDamage())
         {
             currentHealth -= damage;
-            if (currentHealth > 0)
-            {
-                stateMachine.ChangeState(hurtState);
-            }
-            else
-            {
-                //stateMachine.ChangeState(deathState);
-            }
+            stateMachine.ChangeState(hurtState);
+            //if (currentHealth > 0)
+            //{
+            //    stateMachine.ChangeState(hurtState);
+            //}
+            //else
+            //{
+            //    stateMachine.ChangeState(dieState);
+            //}
             //healthDisplay.TakeDamage(damage);
         }
     }

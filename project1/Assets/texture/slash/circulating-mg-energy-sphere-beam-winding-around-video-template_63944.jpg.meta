@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      circulating-mg-energy-sphere-beam-winding-around-video-template_63944_0: -3354589172037345903
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

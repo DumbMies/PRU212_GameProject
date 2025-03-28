@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lighning_Pulse_0: 8988464842836815262
+      Lighning_Pulse_1: 6821557394426698637
+      Lighning_Pulse_2: -8328275371836378519
+      Lighning_Pulse_3: 8461842190436168411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

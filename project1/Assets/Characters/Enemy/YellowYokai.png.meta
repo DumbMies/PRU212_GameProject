@@ -572,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      YellowYokai_0: 4368511276132525847
+      YellowYokai_1: -8961541311040365910
+      YellowYokai_10: 7843012979330929555
+      YellowYokai_11: -4992814098895236076
+      YellowYokai_12: -3360784787706725983
+      YellowYokai_13: -2848457916773461508
+      YellowYokai_14: -1712945934202205880
+      YellowYokai_15: 7673220973407996948
+      YellowYokai_16: 5124704581743780324
+      YellowYokai_17: 7047211544256295386
+      YellowYokai_2: 8306009606579944696
+      YellowYokai_3: 4932391393017416167
+      YellowYokai_4: -8766097567892358048
+      YellowYokai_5: 5605892463056504074
+      YellowYokai_6: 6318256154386669886
+      YellowYokai_7: -3445875775226419935
+      YellowYokai_8: -4726786129367736392
+      YellowYokai_9: -1418072711774969314
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

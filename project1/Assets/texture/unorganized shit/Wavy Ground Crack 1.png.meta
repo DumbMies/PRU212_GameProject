@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wavy Ground Crack 1_0: -474107565196556432
+      Wavy Ground Crack 1_1: 5993044610066712991
+      Wavy Ground Crack 1_2: 2753015984338323587
+      Wavy Ground Crack 1_3: 473010306654606666
+      Wavy Ground Crack 1_4: 161155900506694987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

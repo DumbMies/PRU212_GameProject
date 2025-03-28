@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      color_burst_1_0: -990758905685161782
+      color_burst_1_1: 1235571878789746755
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

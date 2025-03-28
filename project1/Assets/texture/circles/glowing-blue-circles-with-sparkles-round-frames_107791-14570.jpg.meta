@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      glowing-blue-circles-with-sparkles-round-frames_107791-14570_0: -8359353648287536699
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

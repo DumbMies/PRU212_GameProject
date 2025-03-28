@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dingbats-444_0: -4914835474711499785
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

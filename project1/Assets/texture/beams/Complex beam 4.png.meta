@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Complex beam 4_0: 5250184944152227865
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

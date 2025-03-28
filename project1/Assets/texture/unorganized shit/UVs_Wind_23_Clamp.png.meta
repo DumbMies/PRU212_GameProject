@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UVs_Wind_23_Clamp_0: -7489587904980759884
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TrailElectric22_0: 2403345626021872811
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

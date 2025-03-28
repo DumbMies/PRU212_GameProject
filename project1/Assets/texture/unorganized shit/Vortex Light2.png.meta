@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vortex Light2_0: 812650905495654729
+      Vortex Light2_1: 7571669328422759392
+      Vortex Light2_2: -572086410153907818
+      Vortex Light2_3: 3038186696182612431
+      Vortex Light2_4: -4395835028270827389
+      Vortex Light2_5: 6706119903068778465
+      Vortex Light2_6: -3791590082083274306
+      Vortex Light2_7: 7190370232999174169
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

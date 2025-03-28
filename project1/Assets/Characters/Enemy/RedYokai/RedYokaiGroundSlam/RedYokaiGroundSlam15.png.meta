@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RedYokaiGroundSlam15_0: 2631560753004083804
+      RedYokaiGroundSlam15_1: 1797341629221965767
+      RedYokaiGroundSlam15_2: -3479828342077770275
+      RedYokaiGroundSlam15_3: -5743479616846085784
+      RedYokaiGroundSlam15_4: 4214629988571099928
+      RedYokaiGroundSlam15_5: 1154508640928056240
+      RedYokaiGroundSlam15_6: 8813463890266877176
+      RedYokaiGroundSlam15_7: 4774311719848809243
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mg-knife-light-sword-photoelectric-light-animation-video-template_47447_0: -3492086633543020849
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

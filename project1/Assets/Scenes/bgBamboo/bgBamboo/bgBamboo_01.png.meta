@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bgBamboo_01_0: -7033379294062915614
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

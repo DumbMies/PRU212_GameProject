@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      baptiste-rykner-circlesummon_0: -636630310827987698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

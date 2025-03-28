@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      knife-light-sword-effect-special-transparent-video-video-template_60845_0: -2674617977716021270
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

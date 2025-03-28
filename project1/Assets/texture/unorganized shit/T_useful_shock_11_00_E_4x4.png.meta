@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_useful_shock_11_00_E_4x4_0: -553591217463725052
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

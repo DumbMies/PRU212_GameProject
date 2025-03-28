@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DetailedCrescent_0: -1291665111535073719
+      DetailedCrescent_1: 6068621718829915750
+      DetailedCrescent_2: -3066039440763391612
+      DetailedCrescent_3: -6714029119849222703
+      DetailedCrescent_4: 9054644948654570461
+      DetailedCrescent_5: -5661723247404499682
+      DetailedCrescent_6: -2054461898419355015
+      DetailedCrescent_7: -8643946677798362582
+      DetailedCrescent_8: -1040875416324777767
+      DetailedCrescent_9: -118749473288061563
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

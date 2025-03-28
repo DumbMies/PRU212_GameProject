@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Burst_0: 4893907754814711077
+      Burst_1: -5124918994566480858
+      Burst_10: 7955163084738616120
+      Burst_2: -2882324465592662744
+      Burst_3: -3795906560868089151
+      Burst_4: -5536361280788606965
+      Burst_5: -1744943587921027720
+      Burst_6: 3683034705775896066
+      Burst_7: -1337558528185175179
+      Burst_8: 1027382615474260295
+      Burst_9: -714738608718138940
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

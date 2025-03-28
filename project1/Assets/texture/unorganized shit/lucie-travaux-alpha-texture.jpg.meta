@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lucie-travaux-alpha-texture_0: -1456233713486133786
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

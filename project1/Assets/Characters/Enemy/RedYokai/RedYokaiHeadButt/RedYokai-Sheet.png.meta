@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RedYokai-Sheet_0: 184799666668035305
+      RedYokai-Sheet_1: 2216837175842477102
+      RedYokai-Sheet_2: 1202353032152082629
+      RedYokai-Sheet_3: 4165091624837526725
+      RedYokai-Sheet_4: -6333319952009281773
+      RedYokai-Sheet_5: 135999221361181732
+      RedYokai-Sheet_6: 3422410105036838407
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

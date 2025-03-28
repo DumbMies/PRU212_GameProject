@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      warpy_0: -391237909882655655
+      warpy_1: -8576141921259355104
+      warpy_10: -5990333315250732193
+      warpy_11: 1619378487062956289
+      warpy_12: -4918582776254352333
+      warpy_13: -3208181117768453370
+      warpy_14: 73519622936983889
+      warpy_2: -6493528443524700526
+      warpy_3: 841451077268966679
+      warpy_4: -54517416168461601
+      warpy_5: -7375326374076799574
+      warpy_6: 7595611445734214753
+      warpy_7: 1465300733377871881
+      warpy_8: -8289758055067301846
+      warpy_9: 2871840976476186334
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

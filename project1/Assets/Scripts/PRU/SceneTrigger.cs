@@ -5,11 +5,9 @@ using UnityEngine.U2D;
 public class SceneTrigger : MonoBehaviour
 {
     private bool hasExited = false;
-    private GameObject boss2;
 
     private void Start()
     {
-        boss2 = GameObject.Find("Boss");
     }
     //private void OnTriggerEnter2D(Collider2D col)
     //{
@@ -39,7 +37,5 @@ public class SceneTrigger : MonoBehaviour
             globalLight = GameObject.Find("Global Light 2D").GetComponent<Light2D>();
             globalLight.color = HexToColor("#FF3E3E");
         }
-
-        boss2.GetComponent<Boss2>().enabled = true;
     }
 }

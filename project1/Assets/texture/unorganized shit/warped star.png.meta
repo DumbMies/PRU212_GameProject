@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      warped star_0: 92694787112952896
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

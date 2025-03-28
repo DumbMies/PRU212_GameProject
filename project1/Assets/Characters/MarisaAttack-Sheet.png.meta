@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MarisaAttack-Sheet_0: -1283376586475679174
+      MarisaAttack-Sheet_1: 489322089561438658
+      MarisaAttack-Sheet_2: 4114398228016991992
+      MarisaAttack-Sheet_3: 426630237019549117
+      MarisaAttack-Sheet_4: -2156875735621364970
+      MarisaAttack-Sheet_5: 6070299786354295122
+      MarisaAttack-Sheet_6: 7432777035253112199
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

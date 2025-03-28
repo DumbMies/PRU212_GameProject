@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      50-505194_crow-png_0: -2977917353725833413
+      50-505194_crow-png_1: -848700801538433351
+      50-505194_crow-png_2: -9102274627482770739
+      50-505194_crow-png_3: -3141160728154892062
+      50-505194_crow-png_4: -2706471955116546336
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

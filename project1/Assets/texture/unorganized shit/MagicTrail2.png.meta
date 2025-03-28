@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MagicTrail2_0: -308646214791453297
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

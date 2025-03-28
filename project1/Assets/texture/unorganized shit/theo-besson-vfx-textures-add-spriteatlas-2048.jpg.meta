@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      theo-besson-vfx-textures-add-spriteatlas-2048_0: 1649873503776198439
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

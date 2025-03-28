@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dark Spark Ring2_0: -3355849498379248878
+      Dark Spark Ring2_1: -7486189476400481026
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

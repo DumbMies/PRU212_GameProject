@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EnergyTrail1_0: 1110006605655642132
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

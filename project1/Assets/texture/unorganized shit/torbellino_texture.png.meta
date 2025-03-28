@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      torbellino_texture_0: -987548259616721426
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
