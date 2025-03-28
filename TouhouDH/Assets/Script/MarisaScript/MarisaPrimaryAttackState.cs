@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MarisaPrimaryAttackState : MarisaState
 {
@@ -13,26 +14,30 @@ public class MarisaPrimaryAttackState : MarisaState
 
     public override void Enter()
     {
-        base.Enter();
-        player.audioManager.PlaySFX(player.audioManager.meleeAttackSound, 0.2f);
+        
+        
+            base.Enter();
+            player.audioManager.PlaySFX(player.audioManager.meleeAttackSound, 0.2f);
 
-        if (comboCounter > 2 || Time.time >= lastTimeAttacked + comboWindow)
-        {
-            comboCounter = 0;
-        }
+            if (comboCounter > 2 || Time.time >= lastTimeAttacked + comboWindow)
+            {
+                comboCounter = 0;
+            }
 
-        player.anim.SetInteger("ComboCounter", comboCounter);
+            player.anim.SetInteger("ComboCounter", comboCounter);
 
-        float attackDirection = player.facingDirection;
+            float attackDirection = player.facingDirection;
 
-        if (xInput != 0)
-        {
-            attackDirection = xInput;
-        }
+            if (xInput != 0)
+            {
+                attackDirection = xInput;
+            }
 
-        player.SetVelocity(player.attackMovement[comboCounter].x * attackDirection, player.attackMovement[comboCounter].y);
+            player.SetVelocity(player.attackMovement[comboCounter].x * attackDirection, player.attackMovement[comboCounter].y);
 
-        stateTimer = 0.1f;
+            stateTimer = 0.1f;
+        
+            
     }
 
     public override void Exit()

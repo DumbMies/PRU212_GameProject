@@ -50,10 +50,10 @@ public class GameManager : MonoBehaviour
             SaveSystem.Save();
         }
 
-        if (Input.GetKeyDown(KeyCode.Q))
-        {
-            SaveSystem.Load();
-        }
+        //if (Input.GetKeyDown(KeyCode.Q))
+        //{
+        //    SaveSystem.Load();
+        //}
     }
 
     public void TakeDamage(int amount)

@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Rendering.Universal;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class MarisaUltimateState : MarisaState
@@ -17,32 +18,35 @@ public class MarisaUltimateState : MarisaState
 
     public override void Enter()
     {
-        base.Enter();
-        if (!_isUltimateOnCooldown)
-        {
-            player.audioManager.PlaySFX(player.audioManager.ultimateSound);
-            player.StartCoroutine(UltDelay());
-            player.rb.velocity = Vector2.zero;
-            player.rb.bodyType = RigidbodyType2D.Static;
-            ShowUltimatePopup();
 
-            ultLightChange = GameObject.Find("UltLightChange").GetComponent<Light2D>();
-            globalLight = GameObject.Find("Global Light 2D").GetComponent<Light2D>();
-
-            if (ultLightChange != null)
+            base.Enter();
+            if (!_isUltimateOnCooldown)
             {
-                ultLightChange.intensity = 0.2f;
-            }
+                player.audioManager.PlaySFX(player.audioManager.ultimateSound);
+                player.StartCoroutine(UltDelay());
+                player.rb.velocity = Vector2.zero;
+                player.rb.bodyType = RigidbodyType2D.Static;
+                ShowUltimatePopup();
 
-            if (player.ultimateReadyNotification != null)
-            {
-                player.ultimateReadyNotification.enabled = false;
+                ultLightChange = GameObject.Find("UltLightChange").GetComponent<Light2D>();
+                globalLight = GameObject.Find("Global Light 2D").GetComponent<Light2D>();
+
+                if (ultLightChange != null)
+                {
+                    ultLightChange.intensity = 0.2f;
+                }
+
+                if (player.ultimateReadyNotification != null)
+                {
+                    player.ultimateReadyNotification.enabled = false;
+                }
             }
-        }
-        else
-        {
-            stateMachine.ChangeState(player.idleState);
-        }
+            else
+            {
+                stateMachine.ChangeState(player.idleState);
+            }
+        
+            
     }
 
     public override void Exit()

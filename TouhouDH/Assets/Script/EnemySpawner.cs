@@ -58,6 +58,7 @@ public class EnemySpawner : MonoBehaviour
     private IEnumerator DestroyAllEnemiesAfterDelay(float delay)
     {
         yield return new WaitForSeconds(delay);
+        isSpawning = false;
         DestroyAllEnemies();
     }
 

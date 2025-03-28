@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MarisaLongAttackState : MarisaState
 {
@@ -13,17 +14,20 @@ public class MarisaLongAttackState : MarisaState
 
     public override void Enter()
     {
-        base.Enter();
-        if (!_isAttackOnCooldown)
-        {
-            player.StartCoroutine(LongAttackDelay());
-            stateTimer = 0.1f;
-            player.audioManager.PlaySFX(player.audioManager.longAttackSound, 0.75f);
-        }
-        else
-        {
-            stateMachine.ChangeState(player.idleState);
-        }
+
+            base.Enter();
+            if (!_isAttackOnCooldown)
+            {
+                player.StartCoroutine(LongAttackDelay());
+                stateTimer = 0.1f;
+                player.audioManager.PlaySFX(player.audioManager.longAttackSound, 0.75f);
+            }
+            else
+            {
+                stateMachine.ChangeState(player.idleState);
+            }
+        
+        
         
     }
 

@@ -126,11 +126,18 @@ public class Marisa : Entity
         {
             TakeDamage(99);
         }
+        string currentScene = SceneManager.GetActiveScene().name;
 
-        CheckForAttackInput();
+        if (currentScene != "Scene4")
+        {
+            CheckForAttackInput();
+            CheckForLongAttackInput();
+            CheckForUltimateInput();
+
+
+
+        }
         CheckForDashInput();
-        CheckForLongAttackInput();
-        CheckForUltimateInput();
 
         if (isTriggered)
         {

@@ -29,7 +29,7 @@ public class EndSceneTrigger : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             enemySpawner.StartSpawning();
-            StartCoroutine(ChangeSceneAfterDelay(10f));
+            StartCoroutine(ChangeSceneAfterDelay(4f));
         }
     }
 
