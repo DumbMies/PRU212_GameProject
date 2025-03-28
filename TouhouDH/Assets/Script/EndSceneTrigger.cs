@@ -2,6 +2,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.Rendering.Universal;
 using UnityEngine.SceneManagement;
+using VISUALNOVEL;
 
 public class EndSceneTrigger : MonoBehaviour
 {
@@ -32,6 +33,7 @@ public class EndSceneTrigger : MonoBehaviour
             StartCoroutine(ChangeSceneAfterDelay(4f));
         }
     }
+    public static VNManager instance { get; private set; }
 
     private IEnumerator ChangeSceneAfterDelay(float delay)
     {
@@ -41,6 +43,7 @@ public class EndSceneTrigger : MonoBehaviour
             sceneLight1.color = Color.black;
             sceneLight2.color = Color.black;
         }
+        VNGameSave.activeFile.newGame = true;
         SceneManager.LoadScene("VisualNovel2");
     }
 }

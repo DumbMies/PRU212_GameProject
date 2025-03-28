@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.Rendering.Universal;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using VISUALNOVEL;
 
 public class Marisa : Entity
 {
@@ -102,6 +103,8 @@ public class Marisa : Entity
         }
     }
 
+    public static VNManager instance { get; private set; }
+
     private IEnumerator CooldownTimer()
     {
         float cooldown = 76f;
@@ -113,6 +116,7 @@ public class Marisa : Entity
             yield return null;
         }
         CoolDown.text = "0";
+        VNGameSave.activeFile.newGame = true;
         UnityEngine.SceneManagement.SceneManager.LoadScene("VisualNovel6");
         Debug.Log("Fight ended!");
     }
