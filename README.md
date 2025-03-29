@@ -1,2 +1,0 @@
-# PRU212_GameProject
-Touhou: DISSONANCE HARMONY
