@@ -1,0 +1,3655 @@
+fileFormatVersion: 2
+guid: f2c321e4f62ce254faeb5336e45ee424
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1414217099552250791
+    second: Merisa_0
+  - first:
+      213: 7326872757890749991
+    second: Merisa_1
+  - first:
+      213: 5611516745373064442
+    second: Merisa_2
+  - first:
+      213: -8870461968899286315
+    second: Merisa_3
+  - first:
+      213: 1904865684687150746
+    second: Merisa_4
+  - first:
+      213: -7685241012744108114
+    second: Merisa_5
+  - first:
+      213: 1744691402668252142
+    second: Merisa_6
+  - first:
+      213: -2736126874516587971
+    second: Merisa_7
+  - first:
+      213: -1139010505350990969
+    second: Merisa_8
+  - first:
+      213: 5109944896054913288
+    second: Merisa_9
+  - first:
+      213: 5053712593546111097
+    second: Merisa_10
+  - first:
+      213: -9193587303428748376
+    second: Merisa_11
+  - first:
+      213: -3613835846219643459
+    second: Merisa_12
+  - first:
+      213: -7657281755738826687
+    second: Merisa_13
+  - first:
+      213: -1729529456699357067
+    second: Merisa_14
+  - first:
+      213: 5697994271252362592
+    second: Merisa_15
+  - first:
+      213: 7473806098678671286
+    second: Merisa_16
+  - first:
+      213: 5012069321116118872
+    second: Merisa_17
+  - first:
+      213: -5917626144865174848
+    second: Merisa_18
+  - first:
+      213: 5973964151124192344
+    second: Merisa_19
+  - first:
+      213: -682150026598575134
+    second: Merisa_20
+  - first:
+      213: -8915274229064396460
+    second: Merisa_21
+  - first:
+      213: -1047430241114552069
+    second: Merisa_22
+  - first:
+      213: -5368461804145059416
+    second: Merisa_23
+  - first:
+      213: -7378956048389757324
+    second: Merisa_24
+  - first:
+      213: 3152668547401761870
+    second: Merisa_25
+  - first:
+      213: 2134382330120926627
+    second: Merisa_26
+  - first:
+      213: -252011763370881884
+    second: Merisa_27
+  - first:
+      213: -1051932844970557324
+    second: Merisa_28
+  - first:
+      213: -864623909277350341
+    second: Merisa_29
+  - first:
+      213: -3191162361818409188
+    second: Merisa_30
+  - first:
+      213: -3839494235234357291
+    second: Merisa_31
+  - first:
+      213: -3970064550001979804
+    second: Merisa_32
+  - first:
+      213: -5074219781447616017
+    second: Merisa_33
+  - first:
+      213: -7556507254656857344
+    second: Merisa_34
+  - first:
+      213: -2503859674022163755
+    second: Merisa_35
+  - first:
+      213: -8801869532690141172
+    second: Merisa_36
+  - first:
+      213: -4172198145322772090
+    second: Merisa_37
+  - first:
+      213: 8882099369543281034
+    second: Merisa_38
+  - first:
+      213: 1008871830849579399
+    second: Merisa_39
+  - first:
+      213: 4910539995085423964
+    second: Merisa_40
+  - first:
+      213: 8556680939867089164
+    second: Merisa_41
+  - first:
+      213: 2931574511451531694
+    second: Merisa_42
+  - first:
+      213: 1372664695537841477
+    second: Merisa_43
+  - first:
+      213: -4892446670855313426
+    second: Merisa_44
+  - first:
+      213: 2353031602553587867
+    second: Merisa_45
+  - first:
+      213: 354732148873309384
+    second: Merisa_46
+  - first:
+      213: -4064790364932300254
+    second: Merisa_47
+  - first:
+      213: 5921852517095510876
+    second: Merisa_48
+  - first:
+      213: -9014708671730688331
+    second: Merisa_49
+  - first:
+      213: 2511848697252370045
+    second: Merisa_50
+  - first:
+      213: 5753360328142074149
+    second: Merisa_51
+  - first:
+      213: -454462635727688033
+    second: Merisa_52
+  - first:
+      213: -3807842185471267094
+    second: Merisa_53
+  - first:
+      213: 4831403606764166486
+    second: Merisa_54
+  - first:
+      213: 8422739678825550709
+    second: Merisa_55
+  - first:
+      213: -4287679973569486924
+    second: Merisa_56
+  - first:
+      213: -3168449397963187621
+    second: Merisa_57
+  - first:
+      213: 2842602211767165201
+    second: Merisa_58
+  - first:
+      213: 5527138819736424465
+    second: Merisa_59
+  - first:
+      213: 2848230669722120650
+    second: Merisa_60
+  - first:
+      213: -4666676944654615234
+    second: Merisa_61
+  - first:
+      213: 4123863176548999625
+    second: Merisa_62
+  - first:
+      213: -3360650339995865620
+    second: Merisa_63
+  - first:
+      213: -5119362276769303238
+    second: Merisa_64
+  - first:
+      213: -7625469278151375267
+    second: Merisa_65
+  - first:
+      213: -1652171981094882404
+    second: Merisa_66
+  - first:
+      213: -4291250389355385785
+    second: Merisa_67
+  - first:
+      213: 1901255125086932207
+    second: Merisa_68
+  - first:
+      213: -2476397660443511166
+    second: Merisa_69
+  - first:
+      213: 8179582729585552463
+    second: Merisa_70
+  - first:
+      213: 8946873320264779181
+    second: Merisa_71
+  - first:
+      213: 1862319256476201186
+    second: Merisa_72
+  - first:
+      213: 2807844602958710448
+    second: Merisa_73
+  - first:
+      213: 9016293649729516496
+    second: Merisa_74
+  - first:
+      213: -9174290610186464324
+    second: Merisa_75
+  - first:
+      213: 2303730335620565873
+    second: Merisa_76
+  - first:
+      213: 6621229843909833453
+    second: Merisa_77
+  - first:
+      213: -7555475263742701298
+    second: Merisa_78
+  - first:
+      213: -2034993944814031518
+    second: Merisa_79
+  - first:
+      213: 5345811523191572088
+    second: Merisa_80
+  - first:
+      213: -3368729491466227840
+    second: Merisa_81
+  - first:
+      213: -1041520249507257877
+    second: Merisa_82
+  - first:
+      213: 633552163233649492
+    second: Merisa_83
+  - first:
+      213: 3725951833394921051
+    second: Merisa_84
+  - first:
+      213: -8394032989364962891
+    second: Merisa_85
+  - first:
+      213: -4070766658016210911
+    second: Merisa_86
+  - first:
+      213: 6122118489305584416
+    second: Merisa_87
+  - first:
+      213: 6508481699764982737
+    second: Merisa_88
+  - first:
+      213: 3024614789621110293
+    second: Merisa_89
+  - first:
+      213: 5779004489222071300
+    second: Merisa_90
+  - first:
+      213: 2772587349060480380
+    second: Merisa_91
+  - first:
+      213: -6988148820272485071
+    second: Merisa_92
+  - first:
+      213: -9144504404823106963
+    second: Merisa_93
+  - first:
+      213: -3829564199408646392
+    second: Merisa_94
+  - first:
+      213: 6638838842941218402
+    second: Merisa_95
+  - first:
+      213: -295039570995584809
+    second: Merisa_96
+  - first:
+      213: 3847401393648020077
+    second: Merisa_97
+  - first:
+      213: -3145168277746267058
+    second: Merisa_98
+  - first:
+      213: 8368656452664248931
+    second: Merisa_99
+  - first:
+      213: -7735240809134135244
+    second: Merisa_100
+  - first:
+      213: 8874567607197195322
+    second: Merisa_101
+  - first:
+      213: 5918072604387522841
+    second: Merisa_102
+  - first:
+      213: 8284704904262484230
+    second: Merisa_103
+  - first:
+      213: -2686105532955716169
+    second: Merisa_104
+  - first:
+      213: -5263844815890608405
+    second: Merisa_105
+  - first:
+      213: -7163556325126226871
+    second: Merisa_106
+  - first:
+      213: -4631150259597023689
+    second: Merisa_107
+  - first:
+      213: 3283801543159392347
+    second: Merisa_108
+  - first:
+      213: 64696936962641476
+    second: Merisa_109
+  - first:
+      213: -6748971215544224686
+    second: Merisa_110
+  - first:
+      213: -2642055102942933277
+    second: Merisa_111
+  - first:
+      213: -3178427521095641377
+    second: Merisa_112
+  - first:
+      213: -1297537878917714320
+    second: Merisa_113
+  - first:
+      213: 5127487494301975804
+    second: Merisa_114
+  - first:
+      213: -5517727773222876040
+    second: Merisa_115
+  - first:
+      213: 9133849057579801995
+    second: Merisa_116
+  - first:
+      213: 856234737786189294
+    second: Merisa_117
+  - first:
+      213: -7431528920959936438
+    second: Merisa_118
+  - first:
+      213: -8717474271775381257
+    second: Merisa_119
+  - first:
+      213: -361252733717313795
+    second: Merisa_120
+  - first:
+      213: -6907931132587076389
+    second: Merisa_121
+  - first:
+      213: -8938267004514971810
+    second: Merisa_122
+  - first:
+      213: 1111562962586762236
+    second: Merisa_123
+  - first:
+      213: -7110732179984389706
+    second: Merisa_124
+  - first:
+      213: -8834777951022110732
+    second: Merisa_125
+  - first:
+      213: 5399168144483021997
+    second: Merisa_126
+  - first:
+      213: 9010534834024675305
+    second: Merisa_127
+  - first:
+      213: -1748181145746706217
+    second: Merisa_128
+  - first:
+      213: -2188907934666836285
+    second: Merisa_129
+  - first:
+      213: -5539331718572624024
+    second: Merisa_130
+  - first:
+      213: 1945063459847907216
+    second: Merisa_131
+  - first:
+      213: -8544453754951393952
+    second: Merisa_132
+  - first:
+      213: 7446445981004594652
+    second: Merisa_133
+  - first:
+      213: 3201219308363673859
+    second: Merisa_134
+  - first:
+      213: 7245292544774601085
+    second: Merisa_135
+  - first:
+      213: 1327249169130401276
+    second: Merisa_136
+  - first:
+      213: 543649726032480886
+    second: Merisa_137
+  - first:
+      213: 6171085949663602230
+    second: Merisa_138
+  - first:
+      213: 3861967204520554383
+    second: Merisa_139
+  - first:
+      213: -7700907645326466906
+    second: Merisa_140
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Merisa_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1975
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954a7e17a01bf5ce0800000000000000
+      internalID: -1414217099552250791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1975
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726909034f74ea560800000000000000
+      internalID: 7326872757890749991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1975
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc1e13bfbc10ed40800000000000000
+      internalID: 5611516745373064442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1975
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da552646d9c5e480800000000000000
+      internalID: -8870461968899286315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1975
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9edb907f317f6a10800000000000000
+      internalID: 1904865684687150746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_5
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1975
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7cf1e540a885590800000000000000
+      internalID: -7685241012744108114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_6
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1975
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb18b24693663810800000000000000
+      internalID: 1744691402668252142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_7
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1975
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3af900ba13570ad0800000000000000
+      internalID: -2736126874516587971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1999
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783bd19eafb6130f0800000000000000
+      internalID: -1139010505350990969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_9
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1999
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8096c2f2fcb2ae640800000000000000
+      internalID: 5109944896054913288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_10
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1999
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978eb3ff3d4622640800000000000000
+      internalID: 5053712593546111097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_11
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1999
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab8697ae01d96080800000000000000
+      internalID: -9193587303428748376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_12
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1999
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5418dd17319ddc0800000000000000
+      internalID: -3613835846219643459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_13
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1999
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1489b1c20dedbb590800000000000000
+      internalID: -7657281755738826687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_14
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1991
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5784cd06f1a7ff7e0800000000000000
+      internalID: -1729529456699357067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_15
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1998
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0653536b997531f40800000000000000
+      internalID: 5697994271252362592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_16
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1998
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7e3ef7c0b48b760800000000000000
+      internalID: 7473806098678671286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1895
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f62c21e727e8540800000000000000
+      internalID: 5012069321116118872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1895
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca3fb9cf5e50eda0800000000000000
+      internalID: -5917626144865174848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1895
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ceca87eb8c7e250800000000000000
+      internalID: 5973964151124192344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1880
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3911d3a248886f0800000000000000
+      internalID: -682150026598575134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_21
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1879
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4511c65e255964480800000000000000
+      internalID: -8915274229064396460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_22
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1879
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf88d57ceb7c671f0800000000000000
+      internalID: -1047430241114552069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_23
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1879
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a95ea5be646f75b0800000000000000
+      internalID: -5368461804145059416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_24
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1880
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4762282c19ea89990800000000000000
+      internalID: -7378956048389757324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_25
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1880
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44cd6e175780cb20800000000000000
+      internalID: 3152668547401761870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_26
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1895
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a57ab9bb69de9d10800000000000000
+      internalID: 2134382330120926627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_27
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1904
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac0f0de2aca08cf0800000000000000
+      internalID: -252011763370881884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_28
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1906
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470c6ff96a8c661f0800000000000000
+      internalID: -1051932844970557324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_29
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1892
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36c63fa22d3004f0800000000000000
+      internalID: -864623909277350341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_30
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1884
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17973b4db6b6b3d0800000000000000
+      internalID: -3191162361818409188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_31
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1885
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df22b7e55067bac0800000000000000
+      internalID: -3839494235234357291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_32
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1884
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ec2c9735f77e8c0800000000000000
+      internalID: -3970064550001979804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1783
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9fd8e3effb499b0800000000000000
+      internalID: -5074219781447616017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1783
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b048f10b4e12790800000000000000
+      internalID: -7556507254656857344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_35
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1783
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dacb7a74e0804dd0800000000000000
+      internalID: -2503859674022163755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_36
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1783
+        width: 114
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00bba85b4a79d580800000000000000
+      internalID: -8801869532690141172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_37
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1783
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6891e7f54ef5916c0800000000000000
+      internalID: -4172198145322772090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_38
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1783
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a892955315e834b70800000000000000
+      internalID: 8882099369543281034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_39
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1783
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789efadb59b300e00800000000000000
+      internalID: 1008871830849579399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_40
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1783
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c554a6ebb1eb52440800000000000000
+      internalID: 4910539995085423964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_41
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1783
+        width: 99
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c092225caff6fb670800000000000000
+      internalID: 8556680939867089164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1693
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea968ab6c7b0fa820800000000000000
+      internalID: 2931574511451531694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_43
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1693
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545b045944fac0310800000000000000
+      internalID: 1372664695537841477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_44
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1674
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee760259ca98a1cb0800000000000000
+      internalID: -4892446670855313426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_45
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1674
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98897f86c5a7a020800000000000000
+      internalID: 2353031602553587867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_46
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1674
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc210c82034ce400800000000000000
+      internalID: 354732148873309384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_47
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1687
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222a7c303b6f697c0800000000000000
+      internalID: -4064790364932300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_48
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1687
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c531bbd2d75ae2250800000000000000
+      internalID: 5921852517095510876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_49
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1687
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bedbdb993255e280800000000000000
+      internalID: -9014708671730688331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_50
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1687
+        width: 99
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d765141f411ebd220800000000000000
+      internalID: 2511848697252370045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1581
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521bbbf5cba08df40800000000000000
+      internalID: 5753360328142074149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1581
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e63c104ac61b9f0800000000000000
+      internalID: -454462635727688033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_53
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1562
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeec3605b3d72bc0800000000000000
+      internalID: -3807842185471267094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_54
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1562
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d18b38bf79c0340800000000000000
+      internalID: 4831403606764166486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_55
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1562
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5731cffbc1593e470800000000000000
+      internalID: 8422739678825550709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_56
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1575
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf95d8f7c91f74c0800000000000000
+      internalID: -4287679973569486924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_57
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1575
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a9a994f086704d0800000000000000
+      internalID: -3168449397963187621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_58
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1575
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1112f1e96a3f27720800000000000000
+      internalID: 2842602211767165201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_59
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1575
+        width: 114
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11059a6f87754bc40800000000000000
+      internalID: 5527138819736424465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_60
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1575
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1f82b14b2f68720800000000000000
+      internalID: 2848230669722120650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1432
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d3b504b02ac3fb0800000000000000
+      internalID: -4666676944654615234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_62
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1432
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1648cb5b7ea3930800000000000000
+      internalID: 4123863176548999625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_63
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1433
+        width: 85
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced204e32529c51d0800000000000000
+      internalID: -3360650339995865620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_64
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1433
+        width: 120
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3571a0022f54f8b0800000000000000
+      internalID: -5119362276769303238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_65
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1432
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56022ec714ec2690800000000000000
+      internalID: -7625469278151375267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_66
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1475
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c937cf6365e4219e0800000000000000
+      internalID: -1652171981094882404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_67
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1482
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c2734c18a6274c0800000000000000
+      internalID: -4291250389355385785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_68
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1491
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec8236867d926a10800000000000000
+      internalID: 1901255125086932207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_69
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1477
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286f7a6c27112add0800000000000000
+      internalID: -2476397660443511166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_70
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1478
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ceddfb727b38170800000000000000
+      internalID: 8179582729585552463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1304
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da54dc8d1eda92c70800000000000000
+      internalID: 8946873320264779181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_72
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1304
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e032ac2f7948d910800000000000000
+      internalID: 1862319256476201186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_73
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1345
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b60adf2ac777f620800000000000000
+      internalID: 2807844602958710448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_74
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1343
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3fcb6dd4f402d70800000000000000
+      internalID: 9016293649729516496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_75
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1342
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb352a92c4f5ea080800000000000000
+      internalID: -9174290610186464324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_76
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1304
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b84f8d88e78ff10800000000000000
+      internalID: 2303730335620565873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_77
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1304
+        width: 68
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2f576567553eb50800000000000000
+      internalID: 6621229843909833453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_78
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1208
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e019d5b374f852790800000000000000
+      internalID: -7555475263742701298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1209
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26de94ff9cf32c3e0800000000000000
+      internalID: -2034993944814031518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_80
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1200
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876060cc143203a40800000000000000
+      internalID: 5345811523191572088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_81
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1200
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fe5c4306edf31d0800000000000000
+      internalID: -3368729491466227840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_82
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1224
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be16ebde9d6cb81f0800000000000000
+      internalID: -1041520249507257877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_83
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1224
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453d834f554dac800800000000000000
+      internalID: 633552163233649492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_84
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1224
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e38b7937d35b330800000000000000
+      internalID: 3725951833394921051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_85
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1224
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9bdfb3877628b80800000000000000
+      internalID: -8394032989364962891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_86
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1207
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1209079da4bb187c0800000000000000
+      internalID: -4070766658016210911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_87
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1207
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02319e3645226f450800000000000000
+      internalID: 6122118489305584416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_88
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1207
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d35f9d5f95c25a50800000000000000
+      internalID: 6508481699764982737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_89
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1207
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51652c5402799f920800000000000000
+      internalID: 3024614789621110293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1079
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4042877e6f5233050800000000000000
+      internalID: 5779004489222071300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_91
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1079
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ded7111853a7620800000000000000
+      internalID: 2772587349060480380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_92
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1079
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13de71a3cab150f90800000000000000
+      internalID: -6988148820272485071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_93
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1079
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a168781b1381180800000000000000
+      internalID: -9144504404823106963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_94
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1085
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c1b986a7aadac0800000000000000
+      internalID: -3829564199408646392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_95
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1081
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e939ae0c4e12c50800000000000000
+      internalID: 6638838842941218402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_96
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1086
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0ef18c21fc7ebf0800000000000000
+      internalID: -295039570995584809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_97
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1086
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aabb0ee27b46530800000000000000
+      internalID: 3847401393648020077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_98
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1086
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c4b1e7d1e1a54d0800000000000000
+      internalID: -3145168277746267058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_99
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1086
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a455464b0732470800000000000000
+      internalID: 8368656452664248931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_100
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1086
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43864779777e6a490800000000000000
+      internalID: -7735240809134135244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_101
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1086
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c5d22283cc82b70800000000000000
+      internalID: 8874567607197195322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_102
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1079
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9193d7bada7312250800000000000000
+      internalID: 5918072604387522841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_103
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1079
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6018087573f29f270800000000000000
+      internalID: 8284704904262484230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_104
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1079
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b596f6df3909bad0800000000000000
+      internalID: -2686105532955716169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_105
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 983
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee0f0c670113f6b0800000000000000
+      internalID: -5263844815890608405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_106
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 983
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c3958f97fe59c90800000000000000
+      internalID: -7163556325126226871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_107
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 983
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736e2433069dabfb0800000000000000
+      internalID: -4631150259597023689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_108
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 983
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5825ecea18629d20800000000000000
+      internalID: 3283801543159392347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_109
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 983
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ec6b97589d5e000800000000000000
+      internalID: 64696936962641476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_110
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 983
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2547622ef66d652a0800000000000000
+      internalID: -6748971215544224686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_111
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 983
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee0410d1e8855bd0800000000000000
+      internalID: -2642055102942933277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_112
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 983
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6d4c47205f3e3d0800000000000000
+      internalID: -3178427521095641377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_113
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 983
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eee7c7c283efde0800000000000000
+      internalID: -1297537878917714320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_114
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 983
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf48020a5be782740800000000000000
+      internalID: 5127487494301975804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_115
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 983
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c4ebd03d71d63b0800000000000000
+      internalID: -5517727773222876040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_116
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 983
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d941d1353f1ce70800000000000000
+      internalID: 9133849057579801995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_117
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 983
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5781e15f4f1eb00800000000000000
+      internalID: 856234737786189294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_118
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 983
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48142002d7edd890800000000000000
+      internalID: -7431528920959936438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_119
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 983
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8a834465f450780800000000000000
+      internalID: -8717474271775381257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_120
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 983
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df604ac7d829cfaf0800000000000000
+      internalID: -361252733717313795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_121
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 983
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd419451c391220a0800000000000000
+      internalID: -6907931132587076389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_122
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 887
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f4a403485e4f380800000000000000
+      internalID: -8938267004514971810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_123
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 887
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbf67a00a01d6f00800000000000000
+      internalID: 1111562962586762236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_124
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 887
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9671fa1ca915d90800000000000000
+      internalID: -7110732179984389706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_125
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 887
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7afdf1340946580800000000000000
+      internalID: -8834777951022110732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_126
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 887
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4f38642d2bdea40800000000000000
+      internalID: 5399168144483021997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_127
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 887
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7f25211b9db0d70800000000000000
+      internalID: 9010534834024675305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_128
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 887
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d07bbc92863db7e0800000000000000
+      internalID: -1748181145746706217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_129
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 809
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6362ca4df6f91e0800000000000000
+      internalID: -2188907934666836285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_130
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 812
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867bc6d86275023b0800000000000000
+      internalID: -5539331718572624024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_131
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 817
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097a3dd49e04efa10800000000000000
+      internalID: 1945063459847907216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_132
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 819
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d9e5094900c6980800000000000000
+      internalID: -8544453754951393952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_133
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 718
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddf9e0ba27175760800000000000000
+      internalID: 7446445981004594652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_134
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 714
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301732b00040d6c20800000000000000
+      internalID: 3201219308363673859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_135
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 711
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d797319ae237c8460800000000000000
+      internalID: 7245292544774601085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_136
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 711
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd237656165b6210800000000000000
+      internalID: 1327249169130401276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_137
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 615
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a8762ab8e6b8700800000000000000
+      internalID: 543649726032480886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_138
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 615
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6366a14b9f914a550800000000000000
+      internalID: 6171085949663602230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_139
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 539
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fe7aff5b6789530800000000000000
+      internalID: 3861967204520554383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merisa_140
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 652
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0e9383c41e02590800000000000000
+      internalID: -7700907645326466906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
